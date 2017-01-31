@@ -1,0 +1,1 @@
+As of 1/31/2017: ADI Engineering is to post the PCB design files and BOM for the Turbot Quad Core board. 
