@@ -1,0 +1,26 @@
+; Version : LOCAL
+; Job     : C:\ADI_Projects\Minnowboard\Turbot_F200_X200\PCB\Turbot_F200_X200.pcb
+; User    : LEN-ADI-PC:Len
+; Date    : Tue Aug 04 10:36:29 2015
+; Format  : 2.4 / Absolute / Inch / Trailing
+; Contents: Thru / Drill / Non-Plated
+M48
+INCH,LZ
+FMAT,2
+ICI,OFF
+T15C0.0310
+T16C0.0460
+T14C0.1220
+%
+M72
+G90
+G93X0Y0
+T15
+X021449Y02675
+T16
+X032551Y02675
+T14
+X014785Y007285
+X031215Y023715
+T00
+M30
