@@ -1,4 +1,4 @@
-#MinnowBoard.org Hardware Design-Files
+#MinnowBoard.org Hardware Design Files
 
 ##PURPOSE:
 The /design-files repository is the target folder for official MinnowBoard.org hardware design files. Such files may include: design schematics, printed circult board (PCB) design database(s), PCB gerber files, PCB manufacturing files, bill of materials (BOM), 3D models, mechanical step files, thermal models, multiple versions for different design tools, some firmware, CPLD code, FPGA code, etc. 
