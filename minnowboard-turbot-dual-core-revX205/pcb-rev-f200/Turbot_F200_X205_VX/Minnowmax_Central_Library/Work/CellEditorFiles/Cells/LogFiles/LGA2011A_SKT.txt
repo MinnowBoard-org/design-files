@@ -1,0 +1,32 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        LGA2011A_SKT
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    IC - BGA
+Mount Type:       Surface
+Number of Pins:   2011
+        Placed:   2011
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (1956)  C17
+        (55)  O20x17_S
+
+User Layers with Graphics: Mechanical_info
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Obstruct       Layers : 1
+        Placement Outline
+        Route Obstruct           Layers : 1, 2
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

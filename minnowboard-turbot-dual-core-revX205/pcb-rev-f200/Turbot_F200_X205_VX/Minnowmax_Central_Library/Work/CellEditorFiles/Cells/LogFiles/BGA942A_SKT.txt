@@ -1,0 +1,31 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        BGA942A_SKT
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    IC - BGA
+Mount Type:       Surface
+Number of Pins:   942
+        Placed:   942
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (388)  C12
+        (16)  C14
+        (518)  C15
+        (20)  C16
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Route Obstruct           Layers : 1, 2
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

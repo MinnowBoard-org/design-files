@@ -1,0 +1,289 @@
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc C:\ADIProjects\Intel\Minnowboard\Hardware\Orcad\Minnowmax\Minnowmax_Central_Library\SymbolLibs -parent flm 
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol BEAD_2.1
+nse::opensymbol -partition MINNOWMAX BEAD_2.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc C:\ADIProjects\Intel\Minnowboard\Hardware\Orcad\Minnowmax\Minnowmax_Central_Library\SymbolLibs -parent flm 
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol INTEL_ATOM_E3825_5_M.1
+nse::opensymbol -partition MINNOWMAX INTEL_ATOM_E3825_5_M.1
+nse::closesymbol
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol RES_2.1
+nse::opensymbol -partition MINNOWMAX RES_2.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc C:\ADIProjects\Intel\Minnowboard\Hardware\Orcad\Minnowmax\Minnowmax_Central_Library\SymbolLibs -parent flm 
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol CONN_RJ45_MAGJACK_GIGABIT.1
+nse::opensymbol -freezeinterface -partition MINNOWMAX CONN_RJ45_MAGJACK_GIGABIT.1
+prop::delete -valueindex 0 Description
+nse::savesymbol
+nse::closesymbol
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol PROT_TPD4S012_3.1
+nse::opensymbol -freezeinterface -partition MINNOWMAX PROT_TPD4S012_3.1
+prop::delete -valueindex 0 Description
+nse::savesymbol
+nse::closesymbol
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol USB_LPP_LPUSB1013_3.1
+nse::opensymbol -freezeinterface -partition MINNOWMAX USB_LPP_LPUSB1013_3.1
+prop::delete -valueindex 0 Description
+nse::savesymbol
+nse::closesymbol
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol TPD2E001DRL_1.1
+nse::opensymbol -freezeinterface -partition MINNOWMAX TPD2E001DRL_1.1
+prop::delete -valueindex 0 Description
+nse::savesymbol
+nse::closesymbol
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol TPD6E001RSE_1.1
+nse::opensymbol -freezeinterface -partition MINNOWMAX TPD6E001RSE_1.1
+prop::delete -valueindex 0 Description
+nse::savesymbol
+nse::closesymbol
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol TPD4EUSB30_0.1
+nse::opensymbol -freezeinterface -partition MINNOWMAX TPD4EUSB30_0.1
+nse::closesymbol
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol CONN_PWRJACK_RAPC712_0.1
+nse::opensymbol -freezeinterface -partition MINNOWMAX CONN_PWRJACK_RAPC712_0.1
+prop::delete -valueindex 0 Description
+nse::savesymbol
+nse::closesymbol
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol MOSFET_NCHAN_BSS138.1
+nse::opensymbol -freezeinterface -partition MINNOWMAX MOSFET_NCHAN_BSS138.1
+prop::delete -valueindex 0 Description
+nse::savesymbol
+nse::closesymbol
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol INTEL_ATOM_E3825_5M.1
+nse::opensymbol -freezeinterface -partition MINNOWMAX INTEL_ATOM_E3825_5M.1
+nse::closesymbol
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol INTEL_ATOM_E3825_5A.1
+nse::opensymbol -freezeinterface -partition MINNOWMAX INTEL_ATOM_E3825_5A.1
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc C:\ADIProjects\Intel\Minnowboard\Hardware\Orcad\Minnowmax\Minnowmax_Central_Library\SymbolLibs -parent flm 
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol SN74AUP1G34_DBV.1
+nse::opensymbol -freezeinterface -partition MINNOWMAX SN74AUP1G34_DBV.1
+prop::delete -valueindex 0 Description
+nse::savesymbol
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol TS3A27518EZQS.1
+nse::opensymbol -freezeinterface -partition MINNOWMAX TS3A27518EZQS.1
+prop::delete -valueindex 0 Description
+nse::savesymbol
+nse::setactivesymbol sid1
+nse::closesymbol
+nse::closesymbol
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol SHORT_NMNP.1
+nse::opensymbol -freezeinterface -partition MINNOWMAX SHORT_NMNP.1
+prop::delete -valueindex 0 Description
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc C:\ADIProjects\Intel\Minnowboard\Hardware\Orcad\Minnowmax\Minnowmax_Central_Library\SymbolLibs -parent flm 
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol IRF9321_FET_P_CH_SOIC8_1.1
+nse::opensymbol -freezeinterface -partition MINNOWMAX IRF9321_FET_P_CH_SOIC8_1.1
+nse::selectitems 48
+nse::deselectitems 48
+nse::selectitems 1
+edit::move -offset 0,1016
+nse::clearselection
+nse::selectitems 2
+edit::move -offset 0,1016
+nse::deselectitems 2
+nse::selectitems 51
+edit::move -offset -254,1270
+nse::undo
+nse::deselectitems 51
+nse::selectitems 60
+edit::move -offset -254,-254
+nse::deselectitems 60
+nse::selectitems 51
+nse::deselectitems 51
+nse::selectitems 60
+edit::move -offset 0,0
+nse::deselectitems 60
+nse::selectitems 3
+edit::move -offset 0,1016
+nse::deselectitems 3
+nse::selectitems 4
+edit::move -offset 0,1016
+nse::deselectitems 4
+nse::selectitems 51
+nse::deselectitems 51
+nse::selectitems 5
+nse::deselectitems 5
+nse::selectitems 51
+edit::move -offset -254,1270
+nse::undo
+nse::deselectitems 51
+nse::selectitems 5
+edit::move -offset 0,1016
+nse::clearselection
+symbol::setoutline -rect -2540,-15240,12700,17780
+nse::selectitems 1
+edit::move -offset 0,0
+nse::clearselection
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc C:\ADIProjects\Intel\Minnowboard\Hardware\Orcad\Minnowmax\Minnowmax_Central_Library\SymbolLibs -parent flm 
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol IRF9321_FET_P_CH_SOIC8_1.1
+nse::opensymbol -freezeinterface -partition MINNOWMAX IRF9321_FET_P_CH_SOIC8_1.1
+nse::selectitems 48
+nse::deselectitems 48
+nse::selectitems 1
+edit::move -offset 0,2540
+nse::clearselection
+nse::savesymbol
+nse::closesymbol
+# exec C:/MentorGraphics/7.9.5EE/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/ADIProjects/Intel/Minnowboard/Hardware/Orcad/Minnowmax/Minnowmax_Central_Library/Minnowmax_Central_Library.lmc -isFrozen -Partition MINNOWMAX -Symbol INTEL_ATOM_E3825_5F.1
+nse::opensymbol -freezeinterface -partition MINNOWMAX INTEL_ATOM_E3825_5F.1
+nse::selectitems 631
+nse::deselectitems 631
+nse::selectitems 66
+edit::move -offset 0,-1270
+nse::clearselection
+nse::selectitems 67
+edit::move -offset 0,-1270
+nse::clearselection
+nse::selectitems 68
+edit::move -offset 0,-1270
+nse::clearselection
+nse::selectitems 69
+edit::move -offset 0,-1270
+nse::deselectitems 69
+nse::selectitems 70
+edit::move -offset 0,-1270
+nse::deselectitems 70
+nse::selectitems 71
+edit::move -offset 0,-1270
+nse::deselectitems 71
+nse::selectitems 72
+edit::move -offset 0,-1270
+nse::deselectitems 72
+nse::selectitems 73
+edit::move -offset 0,-1270
+nse::clearselection
+nse::selectitems 74
+edit::move -offset 0,-1270
+nse::deselectitems 74
+nse::selectitems 75
+edit::move -offset 0,-1270
+nse::deselectitems 75
+nse::selectitems 76
+edit::move -offset 0,-1270
+nse::deselectitems 76
+nse::selectitems 77
+edit::move -offset 0,1270
+edit::move -offset 0,-2540
+nse::clearselection
+nse::selectitems 59
+edit::move -offset 0,-1270
+nse::deselectitems 59
+nse::selectitems 55
+edit::move -offset 0,-1270
+nse::deselectitems 55
+nse::selectitems 60
+edit::move -offset 0,-1270
+nse::clearselection
+nse::selectitems 56
+edit::move -offset 0,-1270
+nse::deselectitems 56
+nse::selectitems 61
+edit::move -offset 0,-1270
+nse::deselectitems 61
+nse::selectitems 57
+edit::move -offset 0,-1270
+nse::deselectitems 57
+nse::selectitems 62
+edit::move -offset 0,-1270
+nse::deselectitems 62
+nse::selectitems 58
+edit::move -offset 0,-1270
+nse::clearselection
+nse::selectitems 88
+edit::move -offset 0,-1270
+nse::deselectitems 88
+nse::selectitems 49
+edit::move -offset 0,-1270
+nse::deselectitems 49
+nse::selectitems 24
+edit::move -offset 0,-1270
+nse::deselectitems 24
+nse::selectitems 25
+nse::clearselection
+nse::selectitems 25
+nse::clearselection
+nse::selectitems 25
+nse::clearselection
+nse::selectitems 295
+edit::move -offset 1270,1016
+nse::undo
+nse::clearselection
+nse::selectitems 90
+nse::deselectitems 90
+nse::selectitems 25
+edit::move -offset 0,-1270
+nse::clearselection
+nse::selectitems 22
+edit::move -offset 0,-1270
+nse::deselectitems 22
+nse::selectitems 23
+edit::move -offset 0,-1270
+nse::clearselection
+nse::selectitems 85
+edit::move -offset 0,-1270
+nse::deselectitems 85
+nse::selectitems 21
+edit::move -offset 0,-1270
+nse::deselectitems 21
+nse::selectitems 20
+edit::move -offset 0,-1270
+nse::clearselection
+nse::selectitems 19
+edit::move -offset 0,-1270
+nse::clearselection
+nse::selectitems 18
+edit::move -offset 0,-1270
+nse::deselectitems 18
+nse::selectitems 15
+edit::move -offset 0,-1270
+nse::clearselection
+nse::selectitems 48
+edit::move -offset 0,-1270
+nse::deselectitems 48
+nse::selectitems 14
+edit::move -offset 0,-1270
+nse::deselectitems 14
+nse::selectitems 9
+edit::move -offset 0,-1270
+nse::deselectitems 9
+nse::selectitems 13
+edit::move -offset 0,-1270
+nse::clearselection
+nse::selectitems 8
+edit::move -offset 0,-1270
+nse::clearselection
+nse::selectitems 90
+nse::clearselection
+nse::selectitems 191
+nse::clearselection
+nse::selectitems 12
+edit::move -offset 0,-1270
+nse::clearselection
+nse::selectitems 7
+edit::move -offset 0,-1270
+nse::deselectitems 7
+nse::selectitems 11
+edit::move -offset 0,-1270
+nse::deselectitems 11
+nse::selectitems 10
+edit::move -offset 0,-1270
+nse::deselectitems 10
+nse::selectitems 6
+edit::move -offset 0,-1270
+nse::clearselection
+nse::selectitems 5
+edit::move -offset 0,-2540
+edit::move -offset 0,2540
+nse::deselectitems 5
+nse::selectitems 135
+nse::clearselection
+nse::savesymbol
+nse::closesymbol
+# C:\MentorGraphics\7.9.5EE\SDD_HOME\nse\win32\nse.exe -lmc C:\ADI_Projects\Minnowboard\Turbot_F100_X001\Minnowmax_Central_Library\SymbolLibs -parent flm -partition MINNOWMAX -- UP_HOLE_CPU_HS.1 
+nse::setmode -lmc C:\\ADI_Projects\\Minnowboard\\Turbot_F100_X001\\Minnowmax_Central_Library
+nse::opensymbol -partition MINNOWMAX UP_HOLE_CPU_HS.1
+nse::selectitems 11
+nse::closesymbol

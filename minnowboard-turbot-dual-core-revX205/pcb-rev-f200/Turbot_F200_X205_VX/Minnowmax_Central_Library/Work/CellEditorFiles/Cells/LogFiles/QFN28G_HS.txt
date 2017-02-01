@@ -1,0 +1,36 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        QFN28G_HS
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    IC - Other
+Mount Type:       Surface
+Number of Pins:   29
+        Placed:   29
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (28)  FR35X10
+        (1)  S130_NO_PASTE
+
+Via Padstack Names:
+        (8)  TV25D12.5
+
+Traces Used:
+        Layer 1 width(s): 7.874th
+
+User Layers with Graphics: Cell_Info
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

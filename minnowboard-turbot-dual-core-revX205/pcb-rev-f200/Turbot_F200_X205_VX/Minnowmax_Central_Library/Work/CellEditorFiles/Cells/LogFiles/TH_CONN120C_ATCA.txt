@@ -1,0 +1,29 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        TH_CONN120C_ATCA
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Connector
+Mount Type:       Through
+Number of Pins:   120
+        Placed:   120
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (120)  C48D24_NO_THERMAL
+
+User Layers with Graphics: Cell_Info
+                           Mechanical_info
+
+Electronic Objects Used:
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

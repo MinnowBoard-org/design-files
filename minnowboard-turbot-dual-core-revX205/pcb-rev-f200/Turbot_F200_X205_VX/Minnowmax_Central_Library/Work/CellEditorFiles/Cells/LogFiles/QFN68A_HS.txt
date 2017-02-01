@@ -1,0 +1,28 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        QFN68A_HS
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    IC - Other
+Mount Type:       Surface
+Number of Pins:   69
+        Placed:   69
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (68)  FR43X10
+        (1)  S234_NO_PASTE
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

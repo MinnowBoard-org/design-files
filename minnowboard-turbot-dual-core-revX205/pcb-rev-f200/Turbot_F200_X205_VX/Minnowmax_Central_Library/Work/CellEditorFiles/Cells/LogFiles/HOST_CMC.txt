@@ -1,0 +1,16 @@
+Cell Status
+
+Cell Type:        Mechanical cell
+
+Cell Name:        HOST_CMC
+Cell Description: 
+Number Of Layers: 2
+Units:            mm
+
+
+User Layers with Graphics: Mechanical_info
+                           Unnamed
+
+Electronic Objects Used:
+        Placement Outline
+

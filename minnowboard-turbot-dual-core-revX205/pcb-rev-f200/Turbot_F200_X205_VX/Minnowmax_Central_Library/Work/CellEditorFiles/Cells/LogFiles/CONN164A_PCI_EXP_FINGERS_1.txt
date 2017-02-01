@@ -1,0 +1,31 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        CONN164A_PCI_EXP_FINGERS_1
+Cell Description: 
+Number Of Layers: 2
+Units:            mm
+
+Package Group:    Edge Connector
+Mount Type:       Surface
+Number of Pins:   164
+        Placed:   164
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (2)  R28X126_NO_PASTE
+        (162)  R28X160_NO_PASTE
+
+User Layers with Graphics: Cell_Info
+                           Mechanical_info
+
+Electronic Objects Used:
+        Assembly Outline
+        Assembly Ref. Des.
+        Contour
+        Placement Outline
+        Silkscreen Ref. Des.     Mount Side
+
+Requirements needed before the cell can be saved:
+        An Assembly Part Number is needed.

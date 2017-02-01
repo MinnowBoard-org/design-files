@@ -1,0 +1,24 @@
+Cell Status
+
+Cell Name:        TH_CONN12D_HDR
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+Package Group:    Edge Connector
+Mount Type:       Through
+Number of Pins:   12
+        Placed:   12
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (12)  C60D35
+
+Electronic Objects Used:
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

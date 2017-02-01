@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\Turbot\Turbot_F200_X205_VX\PCB\Work\CellEditorFiles\CellDB\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\Turbot\Turbot_F200_X205_VX\PCB\Work\CellEditorFiles\CellDB\Layout\MVO_Rules.txt'

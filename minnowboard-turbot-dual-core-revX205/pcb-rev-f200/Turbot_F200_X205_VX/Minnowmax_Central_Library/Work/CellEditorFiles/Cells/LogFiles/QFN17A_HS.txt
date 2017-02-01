@@ -1,0 +1,34 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        QFN17A_HS
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    IC - Other
+Mount Type:       Surface
+Number of Pins:   17
+        Placed:   17
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (13)  FR31X14
+        (1)  R46X103_SP
+        (1)  R68X103_SP
+        (1)  R88X146_SP
+        (1)  R111X66_SP
+
+User Layers with Graphics: Mechanical_info
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+        Soldermask Shape         Mount Side
+

@@ -1,0 +1,28 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        TH_CONN17C_DB15
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Edge Connector
+Mount Type:       Through
+Number of Pins:   17
+        Placed:   17
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (2)  C134D110
+        (15)  O50x42D28
+
+Electronic Objects Used:
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+        Soldermask Shape         Mount Side
+

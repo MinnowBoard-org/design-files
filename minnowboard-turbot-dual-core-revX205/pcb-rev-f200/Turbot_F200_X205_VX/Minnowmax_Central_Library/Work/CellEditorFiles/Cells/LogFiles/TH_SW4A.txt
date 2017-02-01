@@ -1,0 +1,26 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        TH_SW4A
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Discrete - Other
+Mount Type:       Through
+Number of Pins:   4
+        Placed:   4
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (4)  C69D45
+
+Electronic Objects Used:
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

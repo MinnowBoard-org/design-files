@@ -1,0 +1,26 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        TH_CONN15A_HDR
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Connector
+Mount Type:       Through
+Number of Pins:   15
+        Placed:   15
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (15)  C42D20
+
+Electronic Objects Used:
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

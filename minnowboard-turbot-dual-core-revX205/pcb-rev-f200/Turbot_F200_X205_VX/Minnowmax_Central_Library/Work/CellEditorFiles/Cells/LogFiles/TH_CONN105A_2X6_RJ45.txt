@@ -1,0 +1,29 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        TH_CONN105A_2X6_RJ45
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Connector
+Mount Type:       Through
+Number of Pins:   105
+        Placed:   105
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (105)  C60D35
+
+User Layers with Graphics: Cell_Info
+                           Mechanical_info
+
+Electronic Objects Used:
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

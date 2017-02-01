@@ -1,0 +1,33 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        CONN71A_FFC
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Connector
+Mount Type:       Surface
+Number of Pins:   71
+        Placed:   71
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (35)  R12X26_SP
+        (36)  R12X31_SP
+
+User Layers with Graphics: Cell_Info
+                           Mechanical_info
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Plane Shape              Layers : 1
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+        Soldermask Shape         Mount Side
+

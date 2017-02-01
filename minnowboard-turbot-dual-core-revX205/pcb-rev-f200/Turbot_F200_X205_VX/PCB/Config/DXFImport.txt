@@ -1,0 +1,14 @@
+.FILETYPE DXF_IMPORT_SETTINGS
+.VERSION "VB99.1"
+.DATE "07/31/2015 15:51:21"
+
+!  This file contains settings for the most recent DXF import session
+
+.DXF_INPUT_FILE "C:\\ADI_Projects\\Minnowboard\\Turbot_F200_X200\\PCB\\OSHW-Logo-R2000.dxf"
+.UNITS th
+
+.SCALE 1
+
+.DXF_STYLE "Standard"
+ ..USER_FONT ""
+

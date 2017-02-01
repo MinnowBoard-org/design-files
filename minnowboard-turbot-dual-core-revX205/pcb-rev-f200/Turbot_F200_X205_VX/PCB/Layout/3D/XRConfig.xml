@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration Version="3.00">
+  <FileSystemLocationSection/>
+  <LoggerSection>
+    <LogLevel Value="0"/>
+  </LoggerSection>
+  <InputDataSection>
+    <IDFEpsilon Value="0.00100"/>
+    <MountingHoleSize Value="0.10000"/>
+  </InputDataSection>
+  <VirtualPrototypeSection>
+    <ThrowHoleComponentOffset Value="0.50000"/>
+  </VirtualPrototypeSection>
+  <PreprocessingSection>
+    <MeshRefinement Value="15.00000"/>
+    <ConstraintDimensions JigWidth="3.70000" JigLength="15.00000" JigDistance="50.00000"/>
+    <JiggsRemovalCoefficient Value="50.00000"/>
+    <CopperLayerPerecentage Value="0.12000"/>
+    <SplitPlaneCoverPerecentage Value="0.50000"/>
+    <SignalCoverPerecentage Value="0.08000"/>
+    <PowerNegCoverPerecentage Value="0.08000"/>
+    <PowerPosCoverPerecentage Value="0.80000"/>
+    <JacobianRatio Value="50.00000"/>
+    <TetGrowthRate Value="2.00000"/>
+    <SmoothSector Value="0.01000"/>
+    <SmoothBoard Value="Yes"/>
+    <ToPlaceJiggs Value="Yes"/>
+  </PreprocessingSection>
+  <SimulationSection/>
+  <SolverSection>
+    <SolverEpsilon Value="0.00010"/>
+  </SolverSection>
+  <PostProcessorSection/>
+  <VisualizationSection>
+    <TabFont Height="8.00000"/>
+    <MsgAreaFont Height="11.00000"/>
+    <ScreenSize Height="97" Width="90"/>
+    <MessageWindowSize Height="580"/>
+  </VisualizationSection>
+</Configuration>

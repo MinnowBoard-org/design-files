@@ -1,0 +1,13 @@
+Cell Status
+
+Cell Name:        ANTENNA
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+Mechanical cell
+
+Electronic Objects Used:
+        Placement Outline
+        Route Obstruct           Layers : 1, 2
+        Silkscreen Outline       Mount Side
+

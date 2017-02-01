@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\ADI\Mentor\Expedition Footprint Library\Exp_footprint_Central_Library\Work\CellEditorFiles\New\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\ADI\Mentor\Expedition Footprint Library\Exp_footprint_Central_Library\Work\CellEditorFiles\New\Layout\MVO_Rules.txt'

@@ -1,0 +1,30 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        CONN19A_HDMI
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Connector
+Mount Type:       Mixed
+Number of Pins:   23
+        Placed:   23
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (2)  O107X59stot83X35
+        (2)  O130X59slot106X35
+        (19)  R10X102
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Route Obstruct           Layers : 1, 2
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

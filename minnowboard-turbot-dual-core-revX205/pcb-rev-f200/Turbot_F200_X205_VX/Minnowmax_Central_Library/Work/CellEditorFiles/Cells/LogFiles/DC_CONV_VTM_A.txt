@@ -1,0 +1,31 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        DC_CONV_VTM_A
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Discrete - Other
+Mount Type:       Surface
+Number of Pins:   18
+        Placed:   18
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (6)  R54X63
+        (8)  R54X295
+        (2)  R54X352
+        (2)  R54X452
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Route Obstruct           Layers : 1, 2
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

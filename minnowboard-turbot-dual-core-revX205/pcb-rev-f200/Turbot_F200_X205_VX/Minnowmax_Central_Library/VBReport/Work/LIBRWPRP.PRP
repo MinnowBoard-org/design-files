@@ -1,0 +1,141 @@
+PropertyNumber	PropertyName                    	PropertyType	PropertyFormat
+1             	Instance Name                   	SYSTEM      	CHAR
+2             	Part Name                       	SYSTEM      	CHAR
+3             	Pin Name                        	SYSTEM      	CHAR
+4             	Pin Number                      	SYSTEM      	CHAR
+5             	Value                           	SYSTEM      	REAL
+6             	Net Name                        	SYSTEM      	CHAR
+7             	Arbitrary Text                  	SYSTEM      	CHAR
+8             	Hier Pin Name                   	SYSTEM      	CHAR
+9             	Loose Text                      	SYSTEM      	CHAR
+10            	Part Number                     	SYSTEM      	CHAR
+11            	Bus Index                       	SYSTEM      	CHAR
+13            	Tolerance                       	SYSTEM      	CHAR
+14            	Rating                          	SYSTEM      	CHAR
+15            	Ref Designator                  	SYSTEM      	CHAR
+16            	Analog Parameter                	SYSTEM      	CHAR
+18            	Block Name                      	SYSTEM      	CHAR
+19            	Drawing Date                    	SYSTEM      	CHAR
+20            	Drawing Issue                   	SYSTEM      	CHAR
+21            	Drawing Name                    	SYSTEM      	CHAR
+22            	Pin Sequence                    	SYSTEM      	INT
+23            	Frozen Package                  	SYSTEM      	CHAR
+24            	Symbol Alias                    	SYSTEM      	CHAR
+25            	Simulation Model                	SYSTEM      	CHAR
+26            	Sheet Pointer                   	SYSTEM      	CHAR
+27            	Border Zone Info                	SYSTEM      	CHAR
+30            	Class                           	SYSTEM      	CHAR
+32            	Description                     	SYSTEM      	CHAR
+33            	Cost                            	SYSTEM      	REAL
+35            	Parameter Value                 	SYSTEM      	CHAR
+36            	Vector Width                    	SYSTEM      	INT
+44            	Type                            	SYSTEM      	CHAR
+66            	RANGE                           	SYSTEM      	CHAR
+68            	PLDFILE                         	SYSTEM      	CHAR
+69            	PCLFILE                         	SYSTEM      	CHAR
+70            	MEMFILE                         	SYSTEM      	CHAR
+100           	Route Order Type                	SYSTEM      	CHAR
+106           	Auto Generate                   	SYSTEM      	CHAR
+107           	Level                           	SYSTEM      	CHAR
+108           	Supply Rename                   	SYSTEM      	CHAR
+109           	Verilog Model                   	SYSTEM      	CHAR
+115           	VHDL Model                      	SYSTEM      	CHAR
+116           	Routed Plane Pin                	SYSTEM      	CHAR
+121           	LM                              	SYSTEM      	CHAR
+125           	Simulation Value                	SYSTEM      	CHAR
+127           	A                               	SYSTEM      	CHAR
+130           	LG                              	SYSTEM      	CHAR
+131           	G                               	SYSTEM      	CHAR
+134           	F                               	SYSTEM      	CHAR
+138           	State Name                      	SYSTEM      	CHAR
+139           	SDE Outputs                     	SYSTEM      	CHAR
+140           	State Value                     	SYSTEM      	CHAR
+141           	Guard                           	SYSTEM      	CHAR
+142           	Transition Order                	SYSTEM      	CHAR
+143           	SDE General                     	SYSTEM      	CHAR
+144           	SDE Debug                       	SYSTEM      	CHAR
+151           	Room                            	SYSTEM      	CHAR
+152           	Cluster                         	SYSTEM      	CHAR
+161           	B                               	SYSTEM      	CHAR
+162           	Core                            	SYSTEM      	CHAR
+163           	TC                              	SYSTEM      	CHAR
+164           	Nturn                           	SYSTEM      	CHAR
+165           	M                               	SYSTEM      	CHAR
+166           	Z0                              	SYSTEM      	REAL
+167           	TD                              	SYSTEM      	CHAR
+168           	NL                              	SYSTEM      	CHAR
+169           	IC                              	SYSTEM      	CHAR
+170           	Area                            	SYSTEM      	CHAR
+171           	PJ                              	SYSTEM      	CHAR
+172           	L                               	SYSTEM      	CHAR
+173           	W                               	SYSTEM      	CHAR
+174           	AD                              	SYSTEM      	CHAR
+175           	AS                              	SYSTEM      	CHAR
+176           	PD                              	SYSTEM      	CHAR
+177           	PS                              	SYSTEM      	CHAR
+178           	NRD                             	SYSTEM      	CHAR
+179           	NRS                             	SYSTEM      	CHAR
+180           	NRB                             	SYSTEM      	CHAR
+182           	Off                             	SYSTEM      	CHAR
+183           	Part Label                      	SYSTEM      	CHAR
+184           	VHDL Type                       	SYSTEM      	CHAR
+185           	VHDL Def Value                  	SYSTEM      	CHAR
+186           	VHDL Input Conv                 	SYSTEM      	CHAR
+187           	VHDL Output Conv                	SYSTEM      	CHAR
+188           	Vector Pin Width                	SYSTEM      	CHAR
+189           	VHDL Lib Comp                   	SYSTEM      	CHAR
+190           	VHDL Bus Type                   	SYSTEM      	CHAR
+191           	Model Suffix                    	SYSTEM      	CHAR
+192           	IBIS                            	SYSTEM      	CHAR
+193           	HDL Arguments                   	SYSTEM      	CHAR
+194           	Integer Arguments               	SYSTEM      	CHAR
+513           	Attachment                      	SYSTEM      	CHAR
+514           	Height                          	SYSTEM      	REAL
+515           	Pin Type                        	SYSTEM      	CHAR
+516           	Power Dissipation               	SYSTEM      	REAL
+517           	Supply                          	SYSTEM      	CHAR
+518           	Supply2                         	SYSTEM      	CHAR
+519           	Tech                            	SYSTEM      	CHAR
+520           	Underside Space                 	SYSTEM      	REAL
+521           	Value2                          	SYSTEM      	REAL
+522           	TEMP                            	SYSTEM      	CHAR
+523           	DTEMP                           	SYSTEM      	CHAR
+524           	Connections Shape               	SYSTEM      	CHAR
+525           	Length                          	SYSTEM      	REAL
+526           	GHLD Note                       	SYSTEM      	CHAR
+527           	Raw HDL                         	SYSTEM      	CHAR
+528           	Block Parameter                 	SYSTEM      	CHAR
+529           	Unplaced Symbol                 	SYSTEM      	CHAR
+530           	Variant Variable Text           	SYSTEM      	CHAR
+531           	Variant Info                    	SYSTEM      	CHAR
+532           	ICX_CLOCK_NET                   	SYSTEM      	CHAR
+533           	ICX_FLOORPLAN_HIER              	SYSTEM      	CHAR
+534           	ICX_GROUP_CELL                  	SYSTEM      	CHAR
+535           	ICX_PASSIVE_ELEMENT             	SYSTEM      	CHAR
+536           	ICX_PORT_ALIAS                  	SYSTEM      	CHAR
+537           	ICX_POWER_NET                   	SYSTEM      	CHAR
+538           	ICX_SERIES                      	SYSTEM      	CHAR
+539           	ICX_SERIES_ELEMENT              	SYSTEM      	CHAR
+540           	ICX_SINK_NET                    	SYSTEM      	CHAR
+541           	ICX_SOURCE_NET                  	SYSTEM      	CHAR
+542           	ICX_TAU_MODEL                   	SYSTEM      	CHAR
+543           	ICX_TIMING_MODEL                	SYSTEM      	CHAR
+544           	ICX_ELEC_NET_NAME               	SYSTEM      	CHAR
+545           	DelayRange                      	SYSTEM      	CHAR
+546           	JEDECFile                       	SYSTEM      	CHAR
+547           	SCFFile                         	SYSTEM      	CHAR
+548           	PCL File                        	SYSTEM      	CHAR
+549           	MemoryFile                      	SYSTEM      	CHAR
+550           	TimingVersion                   	SYSTEM      	CHAR
+553           	Reuse Cell Name                 	SYSTEM      	CHAR
+554           	Reuse Cell Ref Des              	SYSTEM      	CHAR
+555           	ICX_PART_NUMBER                 	SYSTEM      	CHAR
+556           	Fracture Group                  	SYSTEM      	CHAR
+557           	FPGA Signal                     	SYSTEM      	CHAR
+558           	Fracture Part Number            	SYSTEM      	CHAR
+559           	FPGA Constraint File            	SYSTEM      	CHAR
+560           	FPGA Pin Number                 	SYSTEM      	CHAR
+561           	IO Buffer Type                  	SYSTEM      	CHAR
+563           	Fracture Members                	SYSTEM      	CHAR
+564           	Equiv Part Number               	SYSTEM      	CHAR
+565           	Supply Pin                      	SYSTEM      	CHAR

@@ -1,0 +1,29 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        CONN68B_MICROSPEED
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Connector
+Mount Type:       Surface
+Number of Pins:   68
+        Placed:   68
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (50)  R20X28
+        (18)  R31X26
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Route Obstruct           Layers : 1, 2
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

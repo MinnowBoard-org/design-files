@@ -1,0 +1,136 @@
+SECTION IEEE
+LIST Packages
+VALUE "std_logic_1164"
+ENDLIST
+KEY Path ""
+KEY USEALL "0"
+ENDSECTION
+SECTION IngrElecDesignInfo
+KEY SBKDir ".\"
+KEY UDBDir ".\udb"
+KEY CDBDir ""
+KEY ACEPlusHDLDir ".\hdl"
+KEY ACEPlusGeneratedHDLDir ".\genhdl"
+KEY ACEPlusDesignRootName "local.sbk"
+KEY ASICToolkit ""
+KEY AvoidInstance "1"
+ENDSECTION
+SECTION ACEPlusFilePaths
+LIST Names
+VALUE "Fonts"
+VALUE "Pin_Types"
+VALUE "Project_Options"
+VALUE "Text_Properties"
+VALUE "TAGNETS_Configuration"
+VALUE "CDB_Discard"
+VALUE "UDBPCBFile"
+VALUE "Verification_Rules"
+VALUE "PostScript_Plot_Configuration"
+VALUE "HPGL_Plot_Configuration"
+VALUE "HPGL2_Plot_Configuration"
+VALUE "HPGL_Pen_Attr_Table"
+VALUE "Windows_Plot_Configuration"
+VALUE "BOM_Format"
+VALUE "EDIF_Configuration"
+VALUE "Nested_Blocks"
+VALUE "Global_Signals"
+VALUE "Bus_Contents"
+VALUE "PDB_Property_Configuration"
+VALUE "VerilogConfig"
+VALUE "PDB_Editor_Properties"
+ENDLIST
+LIST Fonts
+VALUE "${VBEST14PATH}\config\vbdc\vbdc.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\engineer.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\fancy.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt0.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt1.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt7.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt23.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt26.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt41.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt42.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt50.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt126.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt127.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\sdedbg.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\sbkdbg.fnt"
+ENDLIST
+LIST Text_Properties
+VALUE "${VBEST14PATH}\config\vbdc\vbdc.prp"
+VALUE "${VBEST14PATH}\config\vbdc\smodels.prp"
+ENDLIST
+LIST Nested_Blocks
+VALUE "${VBEST14PATH}\config\vbdc\nested"
+ENDLIST
+KEY PDB_Property_Configuration "${VBEST14PATH}\config\vbdc\pdbprops.asc"
+KEY Pin_Types "${VBEST14PATH}\config\vbdc\pintypes.asc"
+KEY Project_Options "${VBEST14PATH}\config\vbdc\vbdcsys.asc"
+KEY TAGNETS_Configuration "${VBEST14PATH}\config\vbdc\tagnets.asc"
+KEY CDB_Discard "${VBEST14PATH}\config\vbdc\discard.asc"
+KEY UDBPCBFile "${VBEST14PATH}\config\vbdc\udbpcb.dat"
+KEY Verification_Rules "${VBEST14PATH}\config\vbdc\vbdcver.asc"
+KEY PostScript_Plot_Configuration "${VBEST14PATH}\config\vbdc\dctops.pcf"
+KEY HPGL_Plot_Configuration "${VBEST14PATH}\config\vbdc\dctohpgl.pcf"
+KEY HPGL2_Plot_Configuration "${VBEST14PATH}\config\vbdc\dc2hpgl2.pcf"
+KEY HPGL_Pen_Attr_Table "${VBEST14PATH}\config\vbdc\HPPenAttr.asc"
+KEY Windows_Plot_Configuration "${VBEST14PATH}\config\vbdc\dctowin.pcf"
+KEY BOM_Format "${VBEST14PATH}\config\vbdc\bomfmt.fmt"
+KEY EDIF_Configuration "${VBEST14PATH}\config\edif\edifcnfg.asc"
+KEY Global_Signals "${VBEST14PATH}\config\vbdc\global"
+KEY Bus_Contents "${VBEST14PATH}\config\vbdc\conts"
+KEY PDB_Editor_Properties "${VBEST14PATH}\config\vbpcb\pdbedit.asc"
+ENDSECTION
+SECTION IngrElecLibraries
+LIST Names
+VALUE "Symbols"
+VALUE "PDBs"
+VALUE "2dCellLibraries"
+ENDLIST
+LIST SignalIntegrityLibrary
+ENDLIST
+LIST 2dCellLibraries
+ENDLIST
+LIST 3dCellLibraries
+ENDLIST
+LIST Symbols
+VALUE "${VBEST14PATH}\libelec\symlib\border.slb"
+VALUE "${VBEST14PATH}\libelec\symlib\"
+VALUE ".\"
+ENDLIST
+LIST PDBs
+ENDLIST
+ENDSECTION
+SECTION ACEPlusProjectFiles
+LIST Types
+VALUE "Schematics(*.sbk)"
+VALUE "StateDiagrams(*.sdg)"
+VALUE "FlowCharts(*.sfc)"
+VALUE "TruthTables(*.tbl)"
+VALUE "HDL(*.v*)"
+VALUE "All(*.*)"
+ENDLIST
+LIST Schematics(*.sbk)
+ENDLIST
+LIST StateDiagrams(*.sdg)
+ENDLIST
+LIST FlowCharts(*.sfc)
+ENDLIST
+LIST TruthTables(*.tbl)
+ENDLIST
+LIST HDL(*.v*)
+ENDLIST
+LIST All(*.*)
+ENDLIST
+ENDSECTION
+SECTION VBPCBIndicators
+KEY SchematicDesignStatus "0"
+KEY VBPCBForwardAnno "0"
+KEY SchematicDesignBackAnno "0"
+KEY CADBackAnno "0"
+KEY FLATNETNAMEs "0"
+ENDSECTION
+SECTION VBPCBDesignData
+KEY NetClassFile ""
+KEY VBPCBDesignPath "template.pcb"
+ENDSECTION

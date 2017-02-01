@@ -1,0 +1,29 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        FET_DIRECT_MX
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Discrete - Other
+Mount Type:       Surface
+Number of Pins:   7
+        Placed:   7
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (4)  R35X73_SP
+        (2)  R57X34_SP
+        (1)  S30_SP
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

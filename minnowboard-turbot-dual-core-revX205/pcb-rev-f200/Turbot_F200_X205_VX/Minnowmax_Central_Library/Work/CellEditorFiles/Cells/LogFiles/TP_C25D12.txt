@@ -1,0 +1,21 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        TP_C25D12
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Test Point
+Mount Type:       Through
+Number of Pins:   1
+        Placed:   1
+
+Pin Padstack Names:
+        (1)  T_C25D12
+
+Electronic Objects Used:
+        Assembly Part Number
+        Assembly Ref. Des.
+        Silkscreen Ref. Des.     Mount Side
+

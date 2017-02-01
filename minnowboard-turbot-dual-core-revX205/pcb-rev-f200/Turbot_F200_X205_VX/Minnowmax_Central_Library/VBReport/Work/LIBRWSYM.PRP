@@ -1,0 +1,268 @@
+SymbolPropID    	SymbolID	PropertyNumber	PropertyValue
+1               	14      	1             	
+2               	14      	15            	
+3               	14      	2             	CONNP
+4               	14      	10            	
+5               	14      	183           	
+6               	14      	32            	Physical Connector
+7               	14      	109           	NO_OP
+8               	14      	115           	NO_OP
+9               	15      	1             	
+10              	15      	15            	
+11              	15      	2             	CONNS
+12              	15      	10            	
+13              	15      	183           	
+14              	15      	32            	Physical Connector
+15              	15      	109           	NO_OP
+16              	15      	115           	NO_OP
+17              	16      	2             	ESPL1
+18              	19      	7             	A
+19              	19      	7             	DWG. NO.
+20              	19      	7             	REV
+21              	19      	7             	SH.
+22              	19      	7             	REV
+23              	19      	7             	DESCRIPTION
+24              	19      	7             	DATE
+25              	19      	7             	APPROVED
+26              	19      	7             	REVISIONS
+27              	19      	7             	ISSUED
+28              	19      	7             	CHECKED
+29              	19      	7             	DRAWN
+30              	19      	7             	DATE
+31              	19      	7             	APPROVALS
+32              	19      	7             	CONTRACT NO.
+33              	19      	7             	SHEET
+34              	19      	7             	DWG. NO.
+35              	19      	7             	FSCM NO.
+36              	19      	7             	SCALE
+37              	19      	7             	SIZE
+38              	19      	7             	REV
+39              	19      	27            	H=2LA; V=2LA
+40              	20      	7             	A
+41              	20      	7             	DWG. NO.
+42              	20      	7             	REV
+43              	20      	7             	SH.
+44              	20      	7             	REV
+45              	20      	7             	DESCRIPTION
+46              	20      	7             	DATE
+47              	20      	7             	APPROVED
+48              	20      	7             	REVISIONS
+49              	20      	7             	ISSUED
+50              	20      	7             	CHECKED
+51              	20      	7             	DRAWN
+52              	20      	7             	DATE
+53              	20      	7             	APPROVALS
+54              	20      	7             	CONTRACT NO.
+55              	20      	7             	SHEET
+56              	20      	7             	DWG. NO.
+57              	20      	7             	FSCM NO.
+58              	20      	7             	SCALE
+59              	20      	7             	SIZE
+60              	20      	7             	REV
+61              	20      	27            	H=2LA; V=2LA
+62              	21      	7             	B
+63              	21      	7             	DWG. NO.
+64              	21      	7             	REV
+65              	21      	7             	SH.
+66              	21      	7             	REV
+67              	21      	7             	DESCRIPTION
+68              	21      	7             	DATE
+69              	21      	7             	APPROVED
+70              	21      	7             	REVISIONS
+71              	21      	7             	ISSUED
+72              	21      	7             	CHECKED
+73              	21      	7             	DRAWN
+74              	21      	7             	DATE
+75              	21      	7             	APPROVALS
+76              	21      	7             	CONTRACT NO.
+77              	21      	7             	SHEET
+78              	21      	7             	DWG. NO.
+79              	21      	7             	FSCM NO.
+80              	21      	7             	SCALE
+81              	21      	7             	SIZE
+82              	21      	7             	REV
+83              	21      	27            	H=2LA; V=2LA
+84              	22      	7             	C
+85              	22      	7             	DWG. NO.
+86              	22      	7             	REV
+87              	22      	7             	SH.
+88              	22      	7             	REV
+89              	22      	7             	DESCRIPTION
+90              	22      	7             	DATE
+91              	22      	7             	APPROVED
+92              	22      	7             	REVISIONS
+93              	22      	7             	A
+94              	22      	7             	B
+95              	22      	7             	C
+96              	22      	7             	D
+97              	22      	7             	D
+98              	22      	7             	C
+99              	22      	7             	A
+100             	22      	7             	1
+101             	22      	7             	2
+102             	22      	7             	3
+103             	22      	7             	4
+104             	22      	7             	4
+105             	22      	7             	3
+106             	22      	7             	2
+107             	22      	7             	1
+108             	22      	7             	ISSUED
+109             	22      	7             	CHECKED
+110             	22      	7             	DRAWN
+111             	22      	7             	DATE
+112             	22      	7             	APPROVALS
+113             	22      	7             	CONTRACT NO.
+114             	22      	7             	SHEET
+115             	22      	7             	DWG. NO.
+116             	22      	7             	FSCM NO.
+117             	22      	7             	SCALE
+118             	22      	7             	SIZE
+119             	22      	7             	REV
+120             	22      	27            	H=4ND; V=4LA
+121             	23      	7             	D
+122             	23      	7             	REV
+123             	23      	7             	SH.
+124             	23      	7             	DWG. NO.
+125             	23      	7             	REVISIONS
+126             	23      	7             	REV
+127             	23      	7             	DESCRIPTION
+128             	23      	7             	DATE
+129             	23      	7             	APPROVED
+130             	23      	7             	A
+131             	23      	7             	B
+132             	23      	7             	C
+133             	23      	7             	D
+134             	23      	7             	D
+135             	23      	7             	C
+136             	23      	7             	B
+137             	23      	7             	A
+138             	23      	7             	1
+139             	23      	7             	3
+140             	23      	7             	4
+141             	23      	7             	5
+142             	23      	7             	6
+143             	23      	7             	7
+144             	23      	7             	8
+145             	23      	7             	8
+146             	23      	7             	7
+147             	23      	7             	6
+148             	23      	7             	5
+149             	23      	7             	4
+150             	23      	7             	3
+151             	23      	7             	2
+152             	23      	7             	1
+153             	23      	7             	REV
+154             	23      	7             	SIZE
+155             	23      	7             	SHEET
+156             	23      	7             	DWG. NO.
+157             	23      	7             	FSCM NO.
+158             	23      	7             	SCALE
+159             	23      	7             	CONTRACT NO.
+160             	23      	7             	DATE
+161             	23      	7             	APPROVALS
+162             	23      	7             	DRAWN
+163             	23      	7             	CHECKED
+164             	23      	7             	ISSUED
+165             	23      	27            	H=8ND; V=4LA
+166             	24      	7             	E
+167             	24      	7             	REV
+168             	24      	7             	SH.
+169             	24      	7             	DWG. NO.
+170             	24      	7             	REVISIONS
+171             	24      	7             	REV
+172             	24      	7             	DESCRIPTION
+173             	24      	7             	DATE
+174             	24      	7             	APPROVED
+175             	24      	7             	A
+176             	24      	7             	C
+177             	24      	7             	D
+178             	24      	7             	E
+179             	24      	7             	F
+180             	24      	7             	G
+181             	24      	7             	H
+182             	24      	7             	1
+183             	24      	7             	2
+184             	24      	7             	3
+185             	24      	7             	4
+186             	24      	7             	5
+187             	24      	7             	6
+188             	24      	7             	7
+189             	24      	7             	8
+190             	24      	7             	H
+191             	24      	7             	G
+192             	24      	7             	F
+193             	24      	7             	E
+194             	24      	7             	D
+195             	24      	7             	C
+196             	24      	7             	B
+197             	24      	7             	A
+198             	24      	7             	8
+199             	24      	7             	7
+200             	24      	7             	6
+201             	24      	7             	5
+202             	24      	7             	4
+203             	24      	7             	3
+204             	24      	7             	2
+205             	24      	7             	1
+206             	24      	7             	REV
+207             	24      	7             	SIZE
+208             	24      	7             	SHEET
+209             	24      	7             	DWG. NO.
+210             	24      	7             	FSCM NO.
+211             	24      	7             	SCALE
+212             	24      	7             	CONTRACT NO.
+213             	24      	7             	DATE
+214             	24      	7             	APPROVALS
+215             	24      	7             	DRAWN
+216             	24      	7             	CHECKED
+217             	24      	7             	ISSUED
+218             	24      	27            	H=8ND; V=8LA
+219             	25      	7             	F
+220             	25      	7             	REV
+221             	25      	7             	SH.
+222             	25      	7             	DWG. NO.
+223             	25      	7             	REVISIONS
+224             	25      	7             	REV
+225             	25      	7             	DESCRIPTION
+226             	25      	7             	DATE
+227             	25      	7             	APPROVED
+228             	25      	7             	1
+229             	25      	7             	2
+230             	25      	7             	3
+231             	25      	7             	4
+232             	25      	7             	5
+233             	25      	7             	6
+234             	25      	7             	7
+235             	25      	7             	8
+236             	25      	7             	A
+237             	25      	7             	C
+238             	25      	7             	D
+239             	25      	7             	E
+240             	25      	7             	F
+241             	25      	7             	F
+242             	25      	7             	E
+243             	25      	7             	D
+244             	25      	7             	C
+245             	25      	7             	B
+246             	25      	7             	A
+247             	25      	7             	8
+248             	25      	7             	7
+249             	25      	7             	6
+250             	25      	7             	5
+251             	25      	7             	4
+252             	25      	7             	3
+253             	25      	7             	2
+254             	25      	7             	1
+255             	25      	7             	REV
+256             	25      	7             	SIZE
+257             	25      	7             	SHEET
+258             	25      	7             	DWG. NO.
+259             	25      	7             	FSCM NO.
+260             	25      	7             	SCALE
+261             	25      	7             	CONTRACT NO.
+262             	25      	7             	DATE
+263             	25      	7             	APPROVALS
+264             	25      	7             	DRAWN
+265             	25      	7             	CHECKED
+266             	25      	7             	ISSUED
+267             	25      	27            	H=8ND; V=6LA

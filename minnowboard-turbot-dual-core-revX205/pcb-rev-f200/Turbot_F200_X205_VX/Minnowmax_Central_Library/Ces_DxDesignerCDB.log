@@ -1,0 +1,4854 @@
+CES DxDesignerCDB Interface Log
+----------------------------------
+
+Tue Jul 28 00:05:07 2009
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project T:\APM2M-X004\pcb\APM2M-X004.pcb
+Note: Export completed successfully.
+Thu Nov 12 12:08:04 2009
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project T:\APM2M_F200_X200\pcb\APM2M_F200.pcb
+Note: Export completed successfully.
+Mon May 17 15:22:59 2010
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project T:\CPIC_F100_X001\PCB\CPIC.pcb
+Note: Export completed successfully.
+Mon May 17 21:42:26 2010
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project T:\CPIC_F100_X001\PCB\CPIC.pcb
+Note: Export completed successfully.
+Sun Jun 20 13:15:31 2010
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project T:\CPIC_F100_X001\PCB\CPIC.pcb
+Note: Export completed successfully.
+Mon Jun 21 00:20:25 2010
+
+ERROR: Wrong active project in Dashboard.
+Pin R1277-2 -> R235-2
+Pin U110-A22 -> U21-A22
+Pin J68-10 -> J14-10
+Pin J68-35 -> J14-35
+Pin R1266-2 -> R141-2
+Pin R1269-1 -> R118-1
+Pin U110-P17 -> U21-P17
+Pin R1406-1 -> R202-1
+Pin R1002-2 -> R218-2
+Pin R42-1 -> R93-1
+Pin U3-D14 -> U16-D14
+Pin R39-1 -> R94-1
+Pin R1623-2 -> R110-2
+Pin R52-1 -> R72-1
+Pin C40-1 -> C118-1
+Pin FB16-1 -> FB1-1
+Pin R4H6-1 -> R4H1-1
+Pin C1211-1 -> C16-1
+Pin L28-2 -> L1-2
+Pin J216-4 -> J1-4
+Pin C4N1-1 -> C4N2-1
+Pin R330-1 -> R164-1
+Pin C663-1 -> C90-1
+Pin R68-1 -> R189-1
+Pin DS6-A -> DS8-A
+Pin C773-1 -> C113-1
+Pin R1120-1 -> R188-1
+Pin R1725-1 -> R131-1
+Pin R56-1 -> R114-1
+Pin R1744-1 -> R78-1
+Pin U32-7 -> U6-7
+Pin U32-9 -> U6-9
+Pin R1261-1 -> R63-1
+Pin U3-L8 -> U16-L8
+Pin C84-1 -> C99-1
+Pin U75-2 -> U13-2
+Pin U82-8 -> U9-8
+Pin J166-10 -> J13-10
+Pin R1348-1 -> R64-1
+Pin U110-AL18 -> U21-AL18
+Pin R1123-1 -> R12-1
+Pin C662-1 -> C20-1
+Pin U3-E7 -> U16-E7
+Pin C1010-1 -> C196-1
+Pin U110-AC34 -> U21-AC34
+Pin U110-AG34 -> U21-AG34
+Pin U110-AB43 -> U21-AB43
+Pin Q64-8 -> Q12-8
+Pin C673-1 -> C11-1
+Pin R1122-1 -> R14-1
+Pin U3-N14 -> U16-N14
+Pin J25-C9 -> J8-C9
+Pin U3-P8 -> U16-P8
+Pin J25-A9 -> J8-A9
+Pin J25-A10 -> J8-A10
+Pin U110-AB12 -> U21-AB12
+Pin U3-A11 -> U16-A11
+Pin C11-1 -> C56-1
+Pin C719-2 -> C63-2
+Pin U110-P33 -> U21-P33
+Pin U110-R33 -> U21-R33
+Pin C129-1 -> C206-1
+Pin J217-A61 -> J26-A61
+Pin C6N5-2 -> C6N2-2
+Pin J217-A48 -> J26-A48
+Pin U110-J43 -> U21-J43
+Pin U110-E39 -> U21-E39
+Pin U110-L27 -> U21-L27
+Pin R1716-1 -> R198-1
+Pin R1796-2 -> R7-2
+Pin U110-U2 -> U21-U2
+Pin R37-2 -> R65-2
+Pin J68-57 -> J14-57
+Pin R110-2 -> R111-2
+Pin J25-D16 -> J8-D16
+Pin U3-H2 -> U16-H2
+Pin U3-E1 -> U16-E1
+Pin R168-1 -> R140-1
+Pin R1777-1 -> R125-1
+Pin R1785-2 -> R101-2
+Pin J219-3 -> J11-3
+Pin R1029-2 -> R213-2
+Pin U78-4 -> U15-4
+Pin R1379-1 -> R50-1
+Pin Q2-6 -> Q1-6
+Pin R126-2 -> R173-2
+Pin C38-1 -> C72-1
+Pin U8-1 -> U19-1
+Pin R1352-1 -> R30-1
+Pin R1761-1 -> R5-1
+Pin C1213-2 -> C3-2
+Pin J166-9 -> J13-9
+Pin J217-A2 -> J26-A2
+Pin J68-36 -> J14-36
+Pin R1279-1 -> R236-1
+Pin R1278-2 -> R148-2
+Pin U110-B21 -> U21-B21
+Pin R1267-1 -> R234-1
+Pin J68-15 -> J14-15
+Pin C681-1 -> C82-1
+Pin R1804-1 -> R40-1
+Pin R41-2 -> R79-2
+Pin U110-AF3 -> U21-AF3
+Pin Y4-4 -> Y3-4
+Pin J217-A14 -> J26-A14
+Pin R1596-1 -> R216-1
+Pin R58-2 -> R113-2
+Pin R57-2 -> R52-2
+Pin C1226-1 -> C83-1
+Pin C664-1 -> C89-1
+Pin C675-1 -> C15-1
+Pin R1198-1 -> R190-1
+Pin C1214-1 -> C27-1
+Pin J217-B8 -> J26-B8
+Pin R79-1 -> R25-1
+Pin U110-AE14 -> U21-AE14
+Pin R1551-1 -> R81-1
+Pin R71-1 -> R134-1
+Pin R1786-1 -> R96-1
+Pin R1553-1 -> R43-1
+Pin J25-B7 -> J8-B7
+Pin U3-L4 -> U16-L4
+Pin C33-1 -> C131-1
+Pin C80-1 -> C194-1
+Pin R1348-2 -> R64-2
+Pin U110-AL12 -> U21-AL12
+Pin C1158-1 -> C177-1
+Pin U110-AA38 -> U21-AA38
+Pin C52-1 -> C128-1
+Pin R1124-2 -> R186-2
+Pin U110-AG20 -> U21-AG20
+Pin U110-U25 -> U21-U25
+Pin R1122-2 -> R14-2
+Pin R1108-2 -> R191-2
+Pin R1119-2 -> R15-2
+Pin C663-2 -> C90-2
+Pin J25-D8 -> J8-D8
+Pin U3-M11 -> U16-M11
+Pin J25-B8 -> J8-B8
+Pin U3-N4 -> U16-N4
+Pin U3-A14 -> U16-A14
+Pin C17-1 -> C61-1
+Pin C14-2 -> C51-2
+Pin U110-AM3 -> U21-AM3
+Pin C714-1 -> C68-1
+Pin C103-2 -> C202-2
+Pin C124-1 -> C201-1
+Pin J217-A72 -> J26-A72
+Pin C131-2 -> C212-2
+Pin C6N13-1 -> C6N3-1
+Pin J217-A36 -> J26-A36
+Pin C118-1 -> C219-1
+Pin J217-A21 -> J26-A21
+Pin U110-M46 -> U21-M46
+Pin J217-B78 -> J26-B78
+Pin U110-E31 -> U21-E31
+Pin J217-B59 -> J26-B59
+Pin J217-B34 -> J26-B34
+Pin U110-G56 -> U21-G56
+Pin J221-1 -> J7-1
+Pin U110-B11 -> U21-B11
+Pin U110-AE8 -> U21-AE8
+Pin R26-2 -> R32-2
+Pin J222-1 -> J16-1
+Pin J225-1 -> J12-1
+Pin R1670-2 -> R151-2
+Pin Q8-2 -> Q3-2
+Pin Q8-5 -> Q3-5
+Pin R162-1 -> R71-1
+Pin U5-5 -> U22-5
+Pin J224-2 -> J20-2
+Pin J225-2 -> J12-2
+Pin U78-6 -> U15-6
+Pin R64-2 -> R187-2
+Pin R419-2 -> R221-2
+Pin U80-2 -> U10-2
+Pin DS18-C -> DS5-C
+Pin R135-1 -> R177-1
+Pin DS7-C -> DS1-C
+Pin R128-2 -> R168-2
+Pin C37-1 -> C71-1
+Pin R1802-2 -> R182-2
+Pin R1560-1 -> R61-1
+Pin R1447-1 -> R230-1
+Pin U98-13 -> U18-13
+Pin R1406-2 -> R202-2
+Pin C1235-1 -> C37-1
+Pin R1408-2 -> R160-2
+Pin U110-H10 -> U21-H10
+Pin J68-12 -> J14-12
+Pin U110-F22 -> U21-F22
+Pin R1508-1 -> R207-1
+Pin C683-1 -> C172-1
+Pin R1803-1 -> R41-1
+Pin U98-11 -> U18-11
+Pin R1807-1 -> R204-1
+Pin R1622-2 -> R109-2
+Pin R37-1 -> R65-1
+Pin C1171-1 -> C189-1
+Pin C1209-1 -> C92-1
+Pin U32-10 -> U6-10
+Pin C112-1 -> C143-1
+Pin U69-5 -> U7-5
+Pin Y4-6 -> Y3-6
+Pin R74-1 -> R161-1
+Pin R1681-1 -> R197-1
+Pin DS35-A -> DS12-A
+Pin L45-2 -> L3-2
+Pin U32-4 -> U6-4
+Pin U32-11 -> U6-11
+Pin J25-C12 -> J8-C12
+Pin J25-A7 -> J8-A7
+Pin C25-1 -> C121-1
+Pin L24-1 -> L8-1
+Pin U3-E5 -> U16-E5
+Pin R55-1 -> R27-1
+Pin U110-U17 -> U21-U17
+Pin U60-8 -> U3-8
+Pin R1112-2 -> R17-2
+Pin C1139-1 -> C165-1
+Pin U110-AE40 -> U21-AE40
+Pin C49-1 -> C134-1
+Pin U110-AJ36 -> U21-AJ36
+Pin U110-U36 -> U21-U36
+Pin C669-1 -> C102-1
+Pin C668-2 -> C93-2
+Pin Q63-3 -> Q13-3
+Pin U60-7 -> U3-7
+Pin U60-2 -> U3-2
+Pin U3-P10 -> U16-P10
+Pin J25-C10 -> J8-C10
+Pin U3-N5 -> U16-N5
+Pin J217-A73 -> J26-A73
+Pin U110-J33 -> U21-J33
+Pin C100-1 -> C209-1
+Pin C120-2 -> C208-2
+Pin J217-A43 -> J26-A43
+Pin C121-2 -> C217-2
+Pin C104-2 -> C222-2
+Pin U110-R49 -> U21-R49
+Pin U110-C39 -> U21-C39
+Pin J217-B50 -> J26-B50
+Pin U110-D43 -> U21-D43
+Pin J217-B37 -> J26-B37
+Pin U6-5 -> U17-5
+Pin U6-1 -> U17-1
+Pin R1637-1 -> R154-1
+Pin R1632-1 -> R130-1
+Pin R1335-2 -> R195-2
+Pin U69-4 -> U7-4
+Pin J214-2 -> J15-2
+Pin R1459-1 -> R231-1
+Pin R17-1 -> R34-1
+Pin R19-1 -> R35-1
+Pin R112-2 -> R75-2
+Pin J25-C15 -> J8-C15
+Pin U5-3 -> U22-3
+Pin R70-1 -> R135-1
+Pin U5-6 -> U22-6
+Pin U110-N6 -> U21-N6
+Pin R1805-2 -> R100-2
+Pin R68-2 -> R189-2
+Pin R63-2 -> R19-2
+Pin R62-2 -> R192-2
+Pin U110-B13 -> U21-B13
+Pin U80-5 -> U10-5
+Pin R1793-1 -> R214-1
+Pin R133-2 -> R178-2
+Pin R128-1 -> R168-1
+Pin R126-1 -> R173-1
+Pin U3-E3 -> U16-E3
+Pin R1536-2 -> R184-2
+Pin R1-2 -> R162-2
+Pin Q87-B -> Q11-B
+Pin DS5-C -> DS17-C
+Pin R1559-1 -> R60-1
+Pin U80-1 -> U10-1
+Pin U98-4 -> U18-4
+Pin U32-15 -> U6-15
+Pin U111-4 -> U2-4
+Pin DS29-C -> DS22-C
+Pin R1409-2 -> R159-2
+Pin DS27-A -> DS19-A
+Pin J166-3 -> J13-3
+Pin R1790-2 -> R80-2
+Pin R1283-1 -> R226-1
+Pin R1282-2 -> R232-2
+Pin J68-4 -> J14-4
+Pin R1274-2 -> R142-2
+Pin R1273-1 -> R150-1
+Pin U110-C16 -> U21-C16
+Pin J166-1 -> J13-1
+Pin U98-12 -> U18-12
+Pin U110-AF1 -> U21-AF1
+Pin J68-44 -> J14-44
+Pin U3-J2 -> U16-J2
+Pin FB17-1 -> FB2-1
+Pin Q63-7 -> Q13-7
+Pin C1234-1 -> C28-1
+Pin R1409-1 -> R159-1
+Pin DS1-A -> DS14-A
+Pin C1221-1 -> C9-1
+Pin C1187-1 -> C85-1
+Pin C1255-1 -> C150-1
+Pin DS14-A -> DS3-A
+Pin C1112-1 -> C108-1
+Pin U32-18 -> U6-18
+Pin C980-1 -> C44-1
+Pin C237-1 -> C29-1
+Pin J25-D12 -> J8-D12
+Pin U3-D9 -> U16-D9
+Pin U3-L11 -> U16-L11
+Pin R1636-2 -> R209-2
+Pin J25-A6 -> J8-A6
+Pin R1143-1 -> R210-1
+Pin R1350-2 -> R57-2
+Pin R1347-2 -> R66-2
+Pin R1107-1 -> R22-1
+Pin U3-F4 -> U16-F4
+Pin U110-AJ24 -> U21-AJ24
+Pin C1166-1 -> C166-1
+Pin U110-AA28 -> U21-AA28
+Pin C1145-1 -> C162-1
+Pin R1124-1 -> R186-1
+Pin R1808-2 -> R21-2
+Pin R1121-1 -> R11-1
+Pin U60-16 -> U3-16
+Pin U3-N11 -> U16-N11
+Pin U3-N7 -> U16-N7
+Pin J25-B11 -> J8-B11
+Pin U3-A12 -> U16-A12
+Pin C715-2 -> C64-2
+Pin C716-1 -> C67-1
+Pin U110-AG5 -> U21-AG5
+Pin C6N7-2 -> C6N1-2
+Pin C130-2 -> C203-2
+Pin C6M11-1 -> C6M1-1
+Pin U110-P38 -> U21-P38
+Pin C101-2 -> C214-2
+Pin J217-A22 -> J26-A22
+Pin J217-B79 -> J26-B79
+Pin J217-B62 -> J26-B62
+Pin U110-E37 -> U21-E37
+Pin J217-B38 -> J26-B38
+Pin U110-B51 -> U21-B51
+Pin U110-D51 -> U21-D51
+Pin J217-B23 -> J26-B23
+Pin U110-N54 -> U21-N54
+Pin U6-3 -> U17-3
+Pin J4-5 -> J6-5
+Pin U110-L25 -> U21-L25
+Pin U110-BT25 -> U21-BT25
+Pin U78-1 -> U15-1
+Pin U3-F2 -> U16-F2
+Pin U3-E2 -> U16-E2
+Pin R2-2 -> R129-2
+Pin U5-1 -> U22-1
+Pin U102-5 -> U12-5
+Pin J1-4 -> J2-4
+Pin R34-2 -> R45-2
+Pin R1334-2 -> R124-2
+Pin U79-4 -> U5-4
+Pin R15-1 -> R91-1
+Pin Q8-6 -> Q3-6
+Pin Q6-6 -> Q5-6
+Pin R74-2 -> R161-2
+Pin J169-2 -> J21-2
+Pin R1127-1 -> R28-1
+Pin R1760-2 -> R4-2
+Pin R1763-1 -> R2-1
+Pin U102-7 -> U12-7
+Pin C1001-1 -> C171-1
+Pin J166-13 -> J13-13
+Pin Y3-1 -> Y2-1
+Pin U110-D15 -> U21-D15
+Pin R1280-2 -> R146-2
+Pin U110-F23 -> U21-F23
+Pin J68-17 -> J14-17
+Pin R1143-2 -> R210-2
+Pin R1150-2 -> R208-2
+Pin R474-1 -> R219-1
+Pin U3-D13 -> U16-D13
+Pin R39-2 -> R94-2
+Pin R1623-1 -> R110-1
+Pin R1749-1 -> R228-1
+Pin R21-1 -> R87-1
+Pin R55-2 -> R27-2
+Pin L24-2 -> L8-2
+Pin C1206-1 -> C7-1
+Pin R1760-1 -> R4-1
+Pin R1-1 -> R162-1
+Pin R67-1 -> R24-1
+Pin C1215-1 -> C25-1
+Pin R57-1 -> R52-1
+Pin DS20-A -> DS6-A
+Pin U87-5 -> U8-5
+Pin C1232-1 -> C153-1
+Pin U5-8 -> U22-8
+Pin J4-1 -> J6-1
+Pin U76-1 -> U14-1
+Pin C1249-1 -> C148-1
+Pin C34-1 -> C141-1
+Pin U3-L7 -> U16-L7
+Pin C83-1 -> C106-1
+Pin U110-AG9 -> U21-AG9
+Pin U82-5 -> U9-5
+Pin C1175-1 -> C160-1
+Pin R1596-2 -> R216-2
+Pin U60-3 -> U3-3
+Pin U60-5 -> U3-5
+Pin U60-6 -> U3-6
+Pin C997-1 -> C149-1
+Pin U110-AG41 -> U21-AG41
+Pin C1167-1 -> C183-1
+Pin U110-AB17 -> U21-AB17
+Pin U3-J4 -> U16-J4
+Pin U110-AL34 -> U21-AL34
+Pin U110-Y28 -> U21-Y28
+Pin C1154-1 -> C164-1
+Pin U60-10 -> U3-10
+Pin Q64-4 -> Q12-4
+Pin R1115-2 -> R16-2
+Pin U3-N13 -> U16-N13
+Pin J25-D11 -> J8-D11
+Pin U3-P6 -> U16-P6
+Pin J25-B5 -> J8-B5
+Pin U110-AA2 -> U21-AA2
+Pin U110-AN2 -> U21-AN2
+Pin U3-A13 -> U16-A13
+Pin U110-AL5 -> U21-AL5
+Pin J217-A68 -> J26-A68
+Pin C126-1 -> C210-1
+Pin C122-1 -> C213-1
+Pin U110-H46 -> U21-H46
+Pin C6M7-1 -> C6M2-1
+Pin C125-2 -> C221-2
+Pin J217-A16 -> J26-A16
+Pin U110-D33 -> U21-D33
+Pin R114-2 -> R199-2
+Pin R1791-2 -> R108-2
+Pin C782-1 -> C111-1
+Pin R1743-2 -> R48-2
+Pin U3-B6 -> U16-B6
+Pin U110-J17 -> U21-J17
+Pin R164-1 -> R122-1
+Pin Q6-2 -> Q5-2
+Pin R69-2 -> R136-2
+Pin J222-2 -> J16-2
+Pin R1725-2 -> R131-2
+Pin U110-F3 -> U21-F3
+Pin U3-G14 -> U16-G14
+Pin J219-9 -> J11-9
+Pin U110-F8 -> U21-F8
+Pin U110-K8 -> U21-K8
+Pin R1334-1 -> R124-1
+Pin Q4-3 -> Q7-3
+Pin R125-2 -> R169-2
+Pin C35-1 -> C78-1
+Pin Q21-B -> Q9-B
+Pin DS8-C -> DS16-C
+Pin R1797-2 -> R163-2
+Pin U80-7 -> U10-7
+Pin R1382-2 -> R153-2
+Pin R1511-2 -> R203-2
+Pin U112-4 -> U1-4
+Pin R1680-1 -> R193-1
+Pin DS28-A -> DS20-A
+Pin J166-5 -> J13-5
+Pin U110-R6 -> U21-R6
+Pin J217-B17 -> J26-B17
+Pin J217-B2 -> J26-B2
+Pin J217-B31 -> J26-B31
+Pin R1524-2 -> R137-2
+Pin J68-16 -> J14-16
+Pin J68-6 -> J14-6
+Pin Y3-5 -> Y2-5
+Pin L46-2 -> L6-2
+Pin C44-1 -> C55-1
+Pin C43-1 -> C120-1
+Pin U110-U22 -> U21-U22
+Pin U111-7 -> U2-7
+Pin C6C4-1 -> C6C2-1
+Pin C661-1 -> C10-1
+Pin R115-1 -> R73-1
+Pin R117-1 -> R200-1
+Pin R1795-1 -> R9-1
+Pin R1557-1 -> R77-1
+Pin R69-1 -> R136-1
+Pin R1552-1 -> R106-1
+Pin U32-6 -> U6-6
+Pin U8-6 -> U19-6
+Pin DS12-A -> DS10-A
+Pin C807-1 -> C112-1
+Pin R79-2 -> R25-2
+Pin R1347-1 -> R66-1
+Pin L47-2 -> L5-2
+Pin C82-1 -> C195-1
+Pin J25-B1 -> J8-B1
+Pin U3-K11 -> U16-K11
+Pin C1091-1 -> C47-1
+Pin C797-1 -> C52-1
+Pin U110-AL15 -> U21-AL15
+Pin R1198-2 -> R190-2
+Pin R1113-1 -> R18-1
+Pin U110-AG30 -> U21-AG30
+Pin U110-AB41 -> U21-AB41
+Pin C1150-1 -> C167-1
+Pin C671-1 -> C21-1
+Pin U110-AC30 -> U21-AC30
+Pin R1125-1 -> R13-1
+Pin Q64-7 -> Q12-7
+Pin U60-12 -> U3-12
+Pin C661-2 -> C10-2
+Pin U3-P12 -> U16-P12
+Pin J25-D5 -> J8-D5
+Pin U3-M5 -> U16-M5
+Pin J25-A4 -> J8-A4
+Pin U3-A4 -> U16-A4
+Pin C102-2 -> C205-2
+Pin U110-M36 -> U21-M36
+Pin U110-P36 -> U21-P36
+Pin C6P9-1 -> C6P1-1
+Pin J217-A53 -> J26-A53
+Pin J217-A39 -> J26-A39
+Pin U110-J46 -> U21-J46
+Pin C98-2 -> C224-2
+Pin U110-C29 -> U21-C29
+Pin J217-B63 -> J26-B63
+Pin R116-2 -> R70-2
+Pin R113-2 -> R201-2
+Pin R1757-1 -> R8-1
+Pin U69-1 -> U7-1
+Pin R20-2 -> R38-2
+Pin U3-P1 -> U16-P1
+Pin J217-B5 -> J26-B5
+Pin J68-58 -> J14-58
+Pin R16-1 -> R36-1
+Pin J25-B14 -> J8-B14
+Pin Q1-2 -> Q8-2
+Pin R72-1 -> R133-1
+Pin J223-2 -> J18-2
+Pin R1776-1 -> R222-1
+Pin U102-2 -> U12-2
+Pin U78-3 -> U15-3
+Pin U110-E4 -> U21-E4
+Pin R1783-1 -> R99-1
+Pin U110-D5 -> U21-D5
+Pin U110-R12 -> U21-R12
+Pin J68-51 -> J14-51
+Pin R425-2 -> R225-2
+Pin R1373-1 -> R51-1
+Pin R133-1 -> R178-1
+Pin R121-1 -> R166-1
+Pin DS11-C -> DS13-C
+Pin R123-1 -> R174-1
+Pin C1246-1 -> C104-1
+Pin R1803-2 -> R41-2
+Pin R336-2 -> R165-2
+Pin DS33-A -> DS18-A
+Pin L27-2 -> L2-2
+Pin C802-1 -> C38-1
+Pin C798-1 -> C53-1
+Pin R1762-2 -> R1-2
+Pin C1212-1 -> C5-1
+Pin R1411-2 -> R158-2
+Pin FB17-2 -> FB2-2
+Pin J213-1 -> J17-1
+Pin R1276-1 -> R147-1
+Pin R1279-2 -> R236-2
+Pin U110-D23 -> U21-D23
+Pin R1270-2 -> R132-2
+Pin R1266-1 -> R141-1
+Pin U110-J20 -> U21-J20
+Pin R1509-1 -> R138-1
+Pin U110-F10 -> U21-F10
+Pin C18-1 -> C76-1
+Pin R21-2 -> R87-2
+Pin R56-2 -> R114-2
+Pin C1177-1 -> C190-1
+Pin C672-1 -> C12-1
+Pin R1808-1 -> R21-1
+Pin J166-4 -> J13-4
+Pin C70-1 -> C100-1
+Pin U6-8 -> U17-8
+Pin DS11-A -> DS13-A
+Pin R1679-1 -> R194-1
+Pin R1805-1 -> R100-1
+Pin U110-AB15 -> U21-AB15
+Pin R1511-1 -> R203-1
+Pin DS10-A -> DS2-A
+Pin R290-1 -> R29-1
+Pin U82-1 -> U9-1
+Pin C1240-1 -> C146-1
+Pin J25-C7 -> J8-C7
+Pin U3-E4 -> U16-E4
+Pin C1217-1 -> C157-1
+Pin U3-D4 -> U16-D4
+Pin U110-AL11 -> U21-AL11
+Pin C50-1 -> C129-1
+Pin U110-AE24 -> U21-AE24
+Pin U110-AL20 -> U21-AL20
+Pin U3-G4 -> U16-G4
+Pin R1536-1 -> R184-1
+Pin C1136-1 -> C180-1
+Pin R1794-1 -> R115-1
+Pin Q63-2 -> Q13-2
+Pin U3-M9 -> U16-M9
+Pin J25-C4 -> J8-C4
+Pin U3-M7 -> U16-M7
+Pin J25-A2 -> J8-A2
+Pin C14-1 -> C51-1
+Pin C12-2 -> C43-2
+Pin C717-2 -> C62-2
+Pin U110-AJ5 -> U21-AJ5
+Pin U110-J31 -> U21-J31
+Pin C123-1 -> C204-1
+Pin J217-A64 -> J26-A64
+Pin J217-A40 -> J26-A40
+Pin U110-H50 -> U21-H50
+Pin C127-1 -> C218-1
+Pin U110-M48 -> U21-M48
+Pin U110-E27 -> U21-E27
+Pin J217-B74 -> J26-B74
+Pin J217-B42 -> J26-B42
+Pin U110-C46 -> U21-C46
+Pin R31-2 -> R47-2
+Pin J217-A1 -> J26-A1
+Pin U3-H1 -> U16-H1
+Pin R162-2 -> R71-2
+Pin R92-1 -> R62-1
+Pin R1744-2 -> R78-2
+Pin U110-J10 -> U21-J10
+Pin R1336-1 -> R46-1
+Pin U80-3 -> U10-3
+Pin Q7-3 -> Q2-3
+Pin DS16-C -> DS4-C
+Pin R121-2 -> R166-2
+Pin Q1-3 -> Q8-3
+Pin R123-2 -> R174-2
+Pin Q86-3 -> Q4-3
+Pin R120-2 -> R175-2
+Pin DS8-A -> DS16-A
+Pin Q80-C -> Q10-C
+Pin U98-1 -> U18-1
+Pin R31-1 -> R47-1
+Pin U115-2 -> U20-2
+Pin R1126-1 -> R23-1
+Pin R1758-C -> R6-C
+Pin U111-1 -> U2-1
+Pin DS30-A -> DS21-A
+Pin U102-13 -> U12-13
+Pin U110-R2 -> U21-R2
+Pin Y4-1 -> Y3-1
+Pin J68-18 -> J14-18
+Pin J68-27 -> J14-27
+Pin R1268-2 -> R119-2
+Pin U110-BH9 -> U21-BH9
+Pin R1002-1 -> R218-1
+Pin U115-4 -> U20-4
+Pin R1622-1 -> R109-1
+Pin U110-U43 -> U21-U43
+Pin R53-2 -> R86-2
+Pin U3-E13 -> U16-E13
+Pin R50-1 -> R37-1
+Pin U3-H3 -> U16-H3
+Pin C1210-1 -> C91-1
+Pin C670-1 -> C1-1
+Pin Q63-8 -> Q13-8
+Pin C1-1 -> C26-1
+Pin R1790-1 -> R80-1
+Pin R1792-1 -> R104-1
+Pin U76-5 -> U14-5
+Pin C1220-1 -> C96-1
+Pin U80-8 -> U10-8
+Pin R1408-1 -> R160-1
+Pin U32-3 -> U6-3
+Pin J25-A12 -> J8-A12
+Pin R42-2 -> R93-2
+Pin U3-D8 -> U16-D8
+Pin C1252-1 -> C155-1
+Pin C1244-1 -> C60-1
+Pin U110-R27 -> U21-R27
+Pin Q63-4 -> Q13-4
+Pin R1285-1 -> R220-1
+Pin U110-AJ32 -> U21-AJ32
+Pin C51-1 -> C139-1
+Pin U110-U31 -> U21-U31
+Pin C1163-1 -> C187-1
+Pin C1132-1 -> C169-1
+Pin U110-AE36 -> U21-AE36
+Pin R1119-1 -> R15-1
+Pin U3-P14 -> U16-P14
+Pin J25-C2 -> J8-C2
+Pin J25-B3 -> J8-B3
+Pin U3-N3 -> U16-N3
+Pin C15-2 -> C70-2
+Pin U3-B12 -> U16-B12
+Pin C107-1 -> C200-1
+Pin C132-1 -> C199-1
+Pin J217-A65 -> J26-A65
+Pin U110-H36 -> U21-H36
+Pin C119-2 -> C211-2
+Pin C105-2 -> C216-2
+Pin C99-1 -> C220-1
+Pin C117-1 -> C223-1
+Pin U110-C36 -> U21-C36
+Pin J217-B15 -> J26-B15
+Pin R115-2 -> R73-2
+Pin U6-2 -> U17-2
+Pin C1041-1 -> C198-1
+Pin R1631-1 -> R123-1
+Pin R40-2 -> R42-2
+Pin U110-T3 -> U21-T3
+Pin J213-2 -> J17-2
+Pin R1654-2 -> R126-2
+Pin U3-L2 -> U16-L2
+Pin U3-L1 -> U16-L1
+Pin U3-K2 -> U16-K2
+Pin R163-1 -> R83-1
+Pin Q3-5 -> Q6-5
+Pin U5-2 -> U22-2
+Pin R66-1 -> R156-1
+Pin R65-1 -> R155-1
+Pin U102-15 -> U12-15
+Pin U104-3 -> U11-3
+Pin DS28-C -> DS20-C
+Pin U102-11 -> U12-11
+Pin R1786-2 -> R96-2
+Pin R1552-2 -> R106-2
+Pin R1557-2 -> R77-2
+Pin R1743-1 -> R48-1
+Pin R1793-2 -> R214-2
+Pin U110-L5 -> U21-L5
+Pin U80-6 -> U10-6
+Pin U3-H13 -> U16-H13
+Pin R131-2 -> R179-2
+Pin DS4-C -> DS15-C
+Pin R4K1-2 -> R4K2-2
+Pin U82-7 -> U9-7
+Pin U111-8 -> U2-8
+Pin J166-11 -> J13-11
+Pin U110-R4 -> U21-R4
+Pin J166-7 -> J13-7
+Pin R1779-1 -> R205-1
+Pin J68-46 -> J14-46
+Pin U98-5 -> U18-5
+Pin Y3-4 -> Y2-4
+Pin R1750-1 -> R229-1
+Pin J217-A13 -> J26-A13
+Pin R1595-2 -> R217-2
+Pin U3-D6 -> U16-D6
+Pin R54-2 -> R26-2
+Pin Q63-6 -> Q13-6
+Pin R63-1 -> R19-1
+Pin J217-A10 -> J26-A10
+Pin R1795-2 -> R9-2
+Pin C1229-1 -> C151-1
+Pin DS18-A -> DS5-A
+Pin J166-6 -> J13-6
+Pin C777-1 -> C84-1
+Pin C784-1 -> C35-1
+Pin R1746-1 -> R107-1
+Pin U110-AG17 -> U21-AG17
+Pin J1-1 -> J2-1
+Pin U32-1 -> U6-1
+Pin C1241-1 -> C144-1
+Pin C96-1 -> C161-1
+Pin R1144-2 -> R211-2
+Pin C81-1 -> C109-1
+Pin U3-L10 -> U16-L10
+Pin C1181-1 -> C159-1
+Pin U75-1 -> U13-1
+Pin U110-AJ22 -> U21-AJ22
+Pin U110-Y22 -> U21-Y22
+Pin C1169-1 -> C184-1
+Pin C1141-1 -> C163-1
+Pin U3-E9 -> U16-E9
+Pin C665-2 -> C8-2
+Pin U60-15 -> U3-15
+Pin C1253-1 -> C19-1
+Pin R1113-2 -> R18-2
+Pin J25-D3 -> J8-D3
+Pin U3-P9 -> U16-P9
+Pin J25-B9 -> J8-B9
+Pin U3-P4 -> U16-P4
+Pin U110-W3 -> U21-W3
+Pin C718-2 -> C66-2
+Pin C712-2 -> C69-2
+Pin J217-A77 -> J26-A77
+Pin C106-2 -> C207-2
+Pin C129-2 -> C206-2
+Pin C6N5-1 -> C6N2-1
+Pin C128-2 -> C215-2
+Pin J217-A35 -> J26-A35
+Pin J217-A26 -> J26-A26
+Pin U110-B27 -> U21-B27
+Pin J217-B58 -> J26-B58
+Pin U110-E41 -> U21-E41
+Pin J217-B45 -> J26-B45
+Pin U110-B45 -> U21-B45
+Pin J217-B33 -> J26-B33
+Pin U110-C9 -> U21-C9
+Pin U110-E9 -> U21-E9
+Pin U110-M25 -> U21-M25
+Pin U110-M41 -> U21-M41
+Pin U69-6 -> U7-6
+Pin R1285-2 -> R220-2
+Pin U3-M2 -> U16-M2
+Pin J25-D14 -> J8-D14
+Pin Q3-2 -> Q6-2
+Pin U3-G2 -> U16-G2
+Pin R90-1 -> R20-1
+Pin J25-A16 -> J8-A16
+Pin R71-2 -> R134-2
+Pin J211-4 -> J10-4
+Pin J219-7 -> J11-7
+Pin U3-G12 -> U16-G12
+Pin J178-1 -> J9-1
+Pin U87-6 -> U8-6
+Pin R1457-1 -> R127-1
+Pin R14-2 -> R90-2
+Pin R13-1 -> R88-1
+Pin DS35-C -> DS12-C
+Pin R125-1 -> R169-1
+Pin DS6-C -> DS8-C
+Pin DS3-C -> DS7-C
+Pin R120-1 -> R175-1
+Pin R1804-2 -> R40-2
+Pin R1784-1 -> R102-1
+Pin Q21-C -> Q9-C
+Pin R328-2 -> R183-2
+Pin Q5-6 -> Q14-6
+Pin U82-9 -> U9-9
+Pin L44-1 -> L4-1
+Pin U102-10 -> U12-10
+Pin R1679-2 -> R194-2
+Pin R1410-2 -> R157-2
+Pin C1148-1 -> C175-1
+Pin U110-M8 -> U21-M8
+Pin J217-B3 -> J26-B3
+Pin J217-B1 -> J26-B1
+Pin R1284-1 -> R233-1
+Pin R1283-2 -> R226-2
+Pin U110-L20 -> U21-L20
+Pin R1275-2 -> R227-2
+Pin R1274-1 -> R142-1
+Pin U110-M20 -> U21-M20
+Pin R1272-2 -> R149-2
+Pin R1144-1 -> R211-1
+Pin U98-6 -> U18-6
+Pin R1748-2 -> R143-2
+Pin U110-J22 -> U21-J22
+Pin R25-1 -> R85-1
+Pin R51-1 -> R92-1
+Pin R1798-1 -> R69-1
+Pin C45-1 -> C117-1
+Pin L35-2 -> L7-2
+Pin C1176-1 -> C182-1
+Pin C1207-1 -> C6-1
+Pin C677-1 -> C13-1
+Pin U60-14 -> U3-14
+Pin R114-1 -> R199-1
+Pin U111-5 -> U2-5
+Pin R166-1 -> R103-1
+Pin J6-2 -> J23-2
+Pin U32-5 -> U6-5
+Pin R54-1 -> R26-1
+Pin C785-1 -> C110-1
+Pin C238-1 -> C32-1
+Pin U3-L6 -> U16-L6
+Pin U110-AG11 -> U21-AG11
+Pin C28-1 -> C132-1
+Pin J25-D1 -> J8-D1
+Pin R1595-1 -> R217-1
+Pin U75-4 -> U13-4
+Pin R1127-2 -> R28-2
+Pin U110-AG38 -> U21-AG38
+Pin U110-AA22 -> U21-AA22
+Pin U3-H4 -> U16-H4
+Pin C1164-1 -> C179-1
+Pin U110-AL30 -> U21-AL30
+Pin C56-1 -> C130-1
+Pin U110-V33 -> U21-V33
+Pin R1670-1 -> R151-1
+Pin R1654-1 -> R126-1
+Pin Q64-6 -> Q12-6
+Pin C665-1 -> C8-1
+Pin R4H6-2 -> R4H1-2
+Pin J25-D9 -> J8-D9
+Pin U3-N10 -> U16-N10
+Pin U3-N8 -> U16-N8
+Pin J25-A8 -> J8-A8
+Pin C16-2 -> C54-2
+Pin U110-AA5 -> U21-AA5
+Pin C719-1 -> C63-1
+Pin C713-1 -> C65-1
+Pin U110-AJ3 -> U21-AJ3
+Pin U3-B2 -> U16-B2
+Pin C103-1 -> C202-1
+Pin C124-2 -> C201-2
+Pin J217-A60 -> J26-A60
+Pin U110-J38 -> U21-J38
+Pin U110-H38 -> U21-H38
+Pin U110-K50 -> U21-K50
+Pin C118-2 -> C219-2
+Pin J217-B67 -> J26-B67
+Pin U110-B35 -> U21-B35
+Pin J217-B46 -> J26-B46
+Pin U110-D45 -> U21-D45
+Pin U110-G54 -> U21-G54
+Pin J217-B19 -> J26-B19
+Pin U6-7 -> U17-7
+Pin R1638-1 -> R120-1
+Pin R1792-2 -> R104-2
+Pin C30-1 -> C2-1
+Pin U3-L3 -> U16-L3
+Pin R16-2 -> R36-2
+Pin R19-2 -> R35-2
+Pin J224-1 -> J20-1
+Pin J68-52 -> J14-52
+Pin Q7-2 -> Q2-2
+Pin R164-2 -> R122-2
+Pin U3-J1 -> U16-J1
+Pin U110-H12 -> U21-H12
+Pin U110-C6 -> U21-C6
+Pin U110-U12 -> U21-U12
+Pin U104-4 -> U11-4
+Pin U102-12 -> U12-12
+Pin R419-1 -> R221-1
+Pin J68-53 -> J14-53
+Pin J178-4 -> J9-4
+Pin U87-4 -> U8-4
+Pin R131-1 -> R179-1
+Pin R118-2 -> R167-2
+Pin Q4-6 -> Q7-6
+Pin R119-2 -> R171-2
+Pin Q86-6 -> Q4-6
+Pin J219-5 -> J11-5
+Pin R29-2 -> R59-2
+Pin C801-1 -> C33-1
+Pin DS29-A -> DS22-A
+Pin FB16-2 -> FB1-2
+Pin J68-28 -> J14-28
+Pin R1281-1 -> R223-1
+Pin J68-29 -> J14-29
+Pin U110-U38 -> U21-U38
+Pin U110-AG8 -> U21-AG8
+Pin R1636-1 -> R209-1
+Pin R165-2 -> R84-2
+Pin U98-9 -> U18-9
+Pin U98-8 -> U18-8
+Pin U3-J14 -> U16-J14
+Pin J68-43 -> J14-43
+Pin R14-1 -> R90-1
+Pin C42-1 -> C123-1
+Pin R40-1 -> R42-1
+Pin U112-7 -> U1-7
+Pin C660-1 -> C18-1
+Pin R116-1 -> R70-1
+Pin R1756-1 -> R10-1
+Pin C236-1 -> C23-1
+Pin R1785-1 -> R101-1
+Pin R66-2 -> R156-2
+Pin U102-16 -> U12-16
+Pin C71-1 -> C197-1
+Pin U115-5 -> U20-5
+Pin C240-1 -> C31-1
+Pin U82-2 -> U9-2
+Pin U32-14 -> U6-14
+Pin C29-1 -> C115-1
+Pin U3-D5 -> U16-D5
+Pin J25-B6 -> J8-B6
+Pin U3-E11 -> U16-E11
+Pin R58-1 -> R113-1
+Pin J25-C1 -> J8-C1
+Pin U3-G11 -> U16-G11
+Pin C1146-1 -> C186-1
+Pin U110-AA34 -> U21-AA34
+Pin C674-1 -> C22-1
+Pin U110-AG26 -> U21-AG26
+Pin C48-1 -> C140-1
+Pin U3-M12 -> U16-M12
+Pin J25-C8 -> J8-C8
+Pin U3-P7 -> U16-P7
+Pin J25-B10 -> J8-B10
+Pin U110-AB11 -> U21-AB11
+Pin C1238-2 -> C42-2
+Pin U3-A1 -> U16-A1
+Pin U3-B13 -> U16-B13
+Pin U3-B3 -> U16-B3
+Pin C714-2 -> C68-2
+Pin C100-2 -> C209-2
+Pin C120-1 -> C208-1
+Pin C131-1 -> C212-1
+Pin U110-L43 -> U21-L43
+Pin C6N13-2 -> C6N3-2
+Pin C104-1 -> C222-1
+Pin U110-D35 -> U21-D35
+Pin J217-B20 -> J26-B20
+Pin R117-2 -> R200-2
+Pin U110-BE56 -> U21-BE56
+Pin R23-1 -> R33-1
+Pin U110-M15 -> U21-M15
+Pin Q7-5 -> Q2-5
+Pin R92-2 -> R62-2
+Pin J25-B15 -> J8-B15
+Pin R161-1 -> R31-1
+Pin Q2-5 -> Q1-5
+Pin J6-1 -> J23-1
+Pin R1745-2 -> R82-2
+Pin U110-C12 -> U21-C12
+Pin R1457-2 -> R127-2
+Pin DS1-C -> DS14-C
+Pin R118-1 -> R167-1
+Pin DS2-C -> DS11-C
+Pin R119-1 -> R171-1
+Pin R127-2 -> R180-2
+Pin Q80-B -> Q10-B
+Pin R1123-2 -> R12-2
+Pin R1759-C -> R3-C
+Pin J214-1 -> J15-1
+Pin J217-B48 -> J26-B48
+Pin R1276-2 -> R147-2
+Pin R1270-1 -> R132-1
+Pin U110-D53 -> U21-D53
+Pin J217-A11 -> J26-A11
+Pin C19-1 -> C75-1
+Pin R25-2 -> R85-2
+Pin U3-J12 -> U16-J12
+Pin U3-J3 -> U16-J3
+Pin C1225-1 -> C79-1
+Pin C1208-1 -> C17-1
+Pin J217-A9 -> J26-A9
+Pin R1411-1 -> R158-1
+Pin R29-1 -> R59-1
+Pin DS7-A -> DS1-A
+Pin U75-5 -> U13-5
+Pin C1016-1 -> C86-1
+Pin R1524-1 -> R137-1
+Pin U32-2 -> U6-2
+Pin C1180-1 -> C158-1
+Pin C1250-1 -> C156-1
+Pin R328-1 -> R183-1
+Pin U3-D11 -> U16-D11
+Pin U110-AG14 -> U21-AG14
+Pin U60-11 -> U3-11
+Pin R1120-2 -> R188-2
+Pin C993-1 -> C58-1
+Pin C53-1 -> C145-1
+Pin U3-F12 -> U16-F12
+Pin U110-Y38 -> U21-Y38
+Pin C1135-1 -> C185-1
+Pin U110-AE22 -> U21-AE22
+Pin C1133-1 -> C173-1
+Pin U110-Y34 -> U21-Y34
+Pin Q63-1 -> Q13-1
+Pin U3-P13 -> U16-P13
+Pin J25-D10 -> J8-D10
+Pin J25-A11 -> J8-A11
+Pin U3-B14 -> U16-B14
+Pin C15-1 -> C70-1
+Pin C13-2 -> C59-2
+Pin U3-B1 -> U16-B1
+Pin C12-1 -> C43-1
+Pin C6N7-1 -> C6N1-1
+Pin U110-L33 -> U21-L33
+Pin J217-A56 -> J26-A56
+Pin J217-A57 -> J26-A57
+Pin U110-M38 -> U21-M38
+Pin C121-1 -> C217-1
+Pin J217-A29 -> J26-A29
+Pin U110-K49 -> U21-K49
+Pin U110-E29 -> U21-E29
+Pin J217-B70 -> J26-B70
+Pin U110-B43 -> U21-B43
+Pin J4-4 -> J6-4
+Pin R1510-1 -> R215-1
+Pin R1780-1 -> R49-1
+Pin U3-D2 -> U16-D2
+Pin R430-1 -> R224-1
+Pin J212-2 -> J19-2
+Pin U110-D13 -> U21-D13
+Pin U3-M1 -> U16-M1
+Pin Q86-2 -> Q4-2
+Pin J25-C14 -> J8-C14
+Pin J25-B16 -> J8-B16
+Pin U3-D1 -> U16-D1
+Pin R1778-1 -> R121-1
+Pin R1775-1 -> R212-1
+Pin R1746-2 -> R107-2
+Pin U102-14 -> U12-14
+Pin R1782-1 -> R98-1
+Pin J5-1 -> J4-1
+Pin U110-B7 -> U21-B7
+Pin R137-2 -> R176-2
+Pin Q7-6 -> Q2-6
+Pin DS14-C -> DS3-C
+Pin R122-1 -> R170-1
+Pin R127-1 -> R180-1
+Pin U3-H12 -> U16-H12
+Pin R330-2 -> R164-2
+Pin R4K6-2 -> R4K1-2
+Pin U112-8 -> U1-8
+Pin U110-AC24 -> U21-AC24
+Pin U110-G4 -> U21-G4
+Pin U110-J3 -> U21-J3
+Pin R1277-1 -> R235-1
+Pin U110-B23 -> U21-B23
+Pin U110-F13 -> U21-F13
+Pin R1269-2 -> R118-2
+Pin R1268-1 -> R119-1
+Pin U110-M17 -> U21-M17
+Pin U98-2 -> U18-2
+Pin R1332-1 -> R112-1
+Pin R1741-2 -> R144-2
+Pin C19-2 -> C75-2
+Pin U3-D7 -> U16-D7
+Pin U3-G3 -> U16-G3
+Pin Q63-5 -> Q13-5
+Pin L44-2 -> L4-2
+Pin C1218-1 -> C94-1
+Pin R1801-1 -> R139-1
+Pin R1791-1 -> R108-1
+Pin U79-5 -> U5-5
+Pin R1108-1 -> R191-1
+Pin R296-1 -> R56-1
+Pin R1440-1 -> R55-1
+Pin C95-1 -> C142-1
+Pin J25-D7 -> J8-D7
+Pin U3-L9 -> U16-L9
+Pin C1248-1 -> C105-1
+Pin C1242-1 -> C135-1
+Pin U110-P22 -> U21-P22
+Pin R1352-2 -> R30-2
+Pin C59-1 -> C50-1
+Pin C1160-1 -> C188-1
+Pin U110-AC38 -> U21-AC38
+Pin U3-E8 -> U16-E8
+Pin C1138-1 -> C178-1
+Pin U110-AE28 -> U21-AE28
+Pin U110-AJ28 -> U21-AJ28
+Pin U3-P11 -> U16-P11
+Pin J25-C11 -> J8-C11
+Pin U3-P5 -> U16-P5
+Pin J25-A5 -> J8-A5
+Pin U110-AB3 -> U21-AB3
+Pin C1238-1 -> C42-1
+Pin C715-1 -> C64-1
+Pin U3-A2 -> U16-A2
+Pin U110-M31 -> U21-M31
+Pin U110-P31 -> U21-P31
+Pin C130-1 -> C203-1
+Pin C6M11-2 -> C6M1-2
+Pin C126-2 -> C210-2
+Pin J217-A52 -> J26-A52
+Pin C101-1 -> C214-1
+Pin J217-A44 -> J26-A44
+Pin C6M7-2 -> C6M2-2
+Pin C125-1 -> C221-1
+Pin J217-B71 -> J26-B71
+Pin J217-B51 -> J26-B51
+Pin J217-B24 -> J26-B24
+Pin U110-E11 -> U21-E11
+Pin R1801-2 -> R139-2
+Pin R1635-1 -> R117-1
+Pin R216-1 -> R67-1
+Pin U69-3 -> U7-3
+Pin J68-54 -> J14-54
+Pin U110-Y15 -> U21-Y15
+Pin R110-1 -> R111-1
+Pin R163-2 -> R83-2
+Pin Q4-2 -> Q7-2
+Pin J25-A15 -> J8-A15
+Pin J211-1 -> J10-1
+Pin J211-3 -> J10-3
+Pin U104-6 -> U11-6
+Pin R1716-2 -> R198-2
+Pin U102-3 -> U12-3
+Pin J219-1 -> J11-1
+Pin U3-G13 -> U16-G13
+Pin R1551-2 -> R81-2
+Pin C32-1 -> C34-1
+Pin U79-6 -> U5-6
+Pin R1336-2 -> R46-2
+Pin U87-3 -> U8-3
+Pin U3-H14 -> U16-H14
+Pin R12-2 -> R89-2
+Pin Q1-6 -> Q8-6
+Pin R122-2 -> R170-2
+Pin Q3-3 -> Q6-3
+Pin R129-2 -> R172-2
+Pin Q3-6 -> Q6-6
+Pin L47-1 -> L5-1
+Pin R18-1 -> R39-1
+Pin DS5-A -> DS17-A
+Pin U82-10 -> U9-10
+Pin L45-1 -> L3-1
+Pin C1144-1 -> C176-1
+Pin J68-30 -> J14-30
+Pin R1278-1 -> R148-1
+Pin R1267-2 -> R234-2
+Pin J68-33 -> J14-33
+Pin J68-9 -> J14-9
+Pin C1236-1 -> C81-1
+Pin J68-48 -> J14-48
+Pin R4K6-1 -> R4K1-1
+Pin R43-1 -> R76-1
+Pin R160-2 -> R95-2
+Pin U110-J25 -> U21-J25
+Pin U110-R41 -> U21-R41
+Pin U3-C7 -> U16-C7
+Pin R59-2 -> R53-2
+Pin C36-1 -> C119-1
+Pin C1172-1 -> C193-1
+Pin L28-1 -> L1-1
+Pin J15-1 -> J3-1
+Pin C4N2-1 -> C4N1-1
+Pin R1116-2 -> R185-2
+Pin R62-1 -> R192-1
+Pin DS3-A -> DS7-A
+Pin C781-1 -> C49-1
+Pin U32-8 -> U6-8
+Pin R2-1 -> R129-1
+Pin C776-1 -> C88-1
+Pin U110-AE17 -> U21-AE17
+Pin R1745-1 -> R82-1
+Pin U32-20 -> U6-20
+Pin R1440-2 -> R55-2
+Pin C1247-1 -> C98-1
+Pin J25-D6 -> J8-D6
+Pin U3-L5 -> U16-L5
+Pin C94-1 -> C170-1
+Pin C1239-1 -> C137-1
+Pin U82-3 -> U9-3
+Pin C1098-1 -> C73-1
+Pin U76-2 -> U14-2
+Pin C1161-1 -> C192-1
+Pin U3-E6 -> U16-E6
+Pin R1653-1 -> R116-1
+Pin R1126-2 -> R23-2
+Pin U110-AG24 -> U21-AG24
+Pin U110-V22 -> U21-V22
+Pin R1121-2 -> R11-2
+Pin C662-2 -> C20-2
+Pin DS9A3-A -> DS9A1-A
+Pin U3-M10 -> U16-M10
+Pin J25-C5 -> J8-C5
+Pin J25-B4 -> J8-B4
+Pin U3-M6 -> U16-M6
+Pin U3-P3 -> U16-P3
+Pin C11-2 -> C56-2
+Pin U3-B4 -> U16-B4
+Pin C16-1 -> C54-1
+Pin C716-2 -> C67-2
+Pin J217-A69 -> J26-A69
+Pin C122-2 -> C213-2
+Pin J217-A30 -> J26-A30
+Pin U110-M49 -> U21-M49
+Pin U110-R50 -> U21-R50
+Pin U110-B37 -> U21-B37
+Pin J217-B54 -> J26-B54
+Pin U110-C42 -> U21-C42
+Pin U110-N56 -> U21-N56
+Pin U110-P25 -> U21-P25
+Pin U110-P43 -> U21-P43
+Pin U3-K3 -> U16-K3
+Pin J223-1 -> J18-1
+Pin J217-B6 -> J26-B6
+Pin J68-56 -> J14-56
+Pin Q86-5 -> Q4-5
+Pin U3-G1 -> U16-G1
+Pin Q4-5 -> Q7-5
+Pin R90-2 -> R20-2
+Pin U110-U11 -> U21-U11
+Pin U110-Y12 -> U21-Y12
+Pin U104-1 -> U11-1
+Pin U110-U9 -> U21-U9
+Pin R67-2 -> R24-2
+Pin J178-3 -> J9-3
+Pin R1373-2 -> R51-2
+Pin R137-1 -> R176-1
+Pin R129-1 -> R172-1
+Pin Q2-3 -> Q1-3
+Pin C41-1 -> C77-1
+Pin R1781-1 -> R206-1
+Pin C1213-1 -> C3-1
+Pin C1212-2 -> C5-2
+Pin J166-15 -> J13-15
+Pin J216-1 -> J1-1
+Pin J217-A3 -> J26-A3
+Pin R1284-2 -> R233-2
+Pin U110-E17 -> U21-E17
+Pin R1273-2 -> R150-2
+Pin R1272-1 -> R149-1
+Pin U110-Y44 -> U21-Y44
+Pin C1222-1 -> C80-1
+Pin U3-K12 -> U16-K12
+Pin U98-3 -> U18-3
+Pin U115-1 -> U20-1
+Pin U8-5 -> U19-5
+Pin R1748-1 -> R143-1
+Pin C46-1 -> C30-1
+Pin R26-1 -> R32-1
+Pin C1237-1 -> C191-1
+Pin C676-1 -> C14-1
+Pin R1797-1 -> R163-1
+Pin R113-1 -> R201-1
+Pin R1350-1 -> R57-1
+Pin R65-2 -> R155-2
+Pin DS2-A -> DS11-A
+Pin U104-5 -> U11-5
+Pin C810-1 -> C41-1
+Pin C1245-1 -> C103-1
+Pin U98-14 -> U18-14
+Pin R1787-1 -> R97-1
+Pin C330-1 -> C45-1
+Pin U32-17 -> U6-17
+Pin U3-E10 -> U16-E10
+Pin C26-1 -> C116-1
+Pin L35-1 -> L7-1
+Pin R1112-1 -> R17-1
+Pin U110-AL26 -> U21-AL26
+Pin U110-V27 -> U21-V27
+Pin C1142-1 -> C168-1
+Pin C666-1 -> C101-1
+Pin C54-1 -> C127-1
+Pin U110-AE43 -> U21-AE43
+Pin U110-Y41 -> U21-Y41
+Pin J166-12 -> J13-12
+Pin Q64-5 -> Q12-5
+Pin C668-1 -> C93-1
+Pin U3-N12 -> U16-N12
+Pin J25-D4 -> J8-D4
+Pin U3-N6 -> U16-N6
+Pin J25-B2 -> J8-B2
+Pin C17-2 -> C61-2
+Pin U110-AC4 -> U21-AC4
+Pin U110-AL2 -> U21-AL2
+Pin J217-A80 -> J26-A80
+Pin J217-A81 -> J26-A81
+Pin C102-1 -> C205-1
+Pin C123-2 -> C204-2
+Pin C6P9-2 -> C6P1-2
+Pin U110-H41 -> U21-H41
+Pin C127-2 -> C218-2
+Pin J217-A25 -> J26-A25
+Pin C98-1 -> C224-1
+Pin J217-A17 -> J26-A17
+Pin U110-B33 -> U21-B33
+Pin U110-B41 -> U21-B41
+Pin J217-B41 -> J26-B41
+Pin U110-B47 -> U21-B47
+Pin J217-B27 -> J26-B27
+Pin U110-M55 -> U21-M55
+Pin J217-B14 -> J26-B14
+Pin R1639-1 -> R145-1
+Pin R27-1 -> R74-1
+Pin Q5-3 -> Q14-3
+Pin R17-2 -> R34-2
+Pin U3-N1 -> U16-N1
+Pin R1806-1 -> R152-1
+Pin U3-K1 -> U16-K1
+Pin J25-C16 -> J8-C16
+Pin U3-F1 -> U16-F1
+Pin J25-A14 -> J8-A14
+Pin U5-7 -> U22-7
+Pin J8-1 -> J24-1
+Pin C1126-1 -> C114-1
+Pin DS27-C -> DS19-C
+Pin U110-R11 -> U21-R11
+Pin U110-M12 -> U21-M12
+Pin R425-1 -> R225-1
+Pin U79-1 -> U5-1
+Pin U87-1 -> U8-1
+Pin Q8-3 -> Q3-3
+Pin R135-2 -> R177-2
+Pin DS10-C -> DS2-C
+Pin U3-F13 -> U16-F13
+Pin J7-2 -> J5-2
+Pin DS33-C -> DS18-C
+Pin U98-10 -> U18-10
+Pin R216-2 -> R67-2
+Pin C800-1 -> C39-1
+Pin U112-1 -> U1-1
+Pin R1681-2 -> R197-2
+Pin R1282-1 -> R232-1
+Pin R1281-2 -> R223-2
+Pin U110-R20 -> U21-R20
+Pin R1275-1 -> R227-1
+Pin U110-H22 -> U21-H22
+Pin U110-B17 -> U21-B17
+Pin U110-AE11 -> U21-AE11
+Pin U110-Y9 -> U21-Y9
+Pin R474-2 -> R219-2
+Pin R160-1 -> R95-1
+Pin R41-1 -> R79-1
+Pin R1525-1 -> R105-1
+Pin Y4-5 -> Y3-5
+Pin U3-J13 -> U16-J13
+Pin R12-1 -> R89-1
+Pin C39-1 -> C133-1
+Pin U110-Y43 -> U21-Y43
+Pin C799-1 -> C46-1
+Pin U82-4 -> U9-4
+Pin R1116-1 -> R185-1
+Pin C1254-1 -> C4-1
+Pin Y3-6 -> Y2-6
+Pin R1410-1 -> R157-1
+Pin R1742-1 -> R68-1
+Pin DS4-A -> DS15-A
+Pin C1192-1 -> C87-1
+Pin C113-1 -> C154-1
+Pin R1762-1 -> R1-1
+Pin C2-1 -> C24-1
+Pin U32-13 -> U6-13
+Pin U32-16 -> U6-16
+Pin R290-2 -> R29-2
+Pin J25-B12 -> J8-B12
+Pin J166-8 -> J13-8
+Pin J25-C6 -> J8-C6
+Pin U3-D10 -> U16-D10
+Pin R59-1 -> R53-1
+Pin J25-A1 -> J8-A1
+Pin C27-1 -> C122-1
+Pin R1349-1 -> R58-1
+Pin U110-AA30 -> U21-AA30
+Pin U110-AE32 -> U21-AE32
+Pin C47-1 -> C125-1
+Pin C667-1 -> C97-1
+Pin U3-F11 -> U16-F11
+Pin C1004-1 -> C57-1
+Pin L27-1 -> L2-1
+Pin R1125-2 -> R13-2
+Pin J25-D2 -> J8-D2
+Pin U3-N9 -> U16-N9
+Pin U3-B11 -> U16-B11
+Pin C717-1 -> C62-1
+Pin U110-AN4 -> U21-AN4
+Pin U3-A3 -> U16-A3
+Pin C718-1 -> C66-1
+Pin C712-1 -> C69-1
+Pin C132-2 -> C199-2
+Pin U110-H31 -> U21-H31
+Pin U110-J36 -> U21-J36
+Pin C119-1 -> C211-1
+Pin U110-J41 -> U21-J41
+Pin C105-1 -> C216-1
+Pin J217-B66 -> J26-B66
+Pin J217-B55 -> J26-B55
+Pin J217-B28 -> J26-B28
+Pin U110-L53 -> U21-L53
+Pin U6-6 -> U17-6
+Pin J4-6 -> J6-6
+Pin J4-3 -> J6-3
+Pin U110-AB8 -> U21-AB8
+Pin U110-BF55 -> U21-BF55
+Pin R1742-2 -> R68-2
+Pin R1335-1 -> R195-1
+Pin U112-5 -> U1-5
+Pin R34-1 -> R45-1
+Pin C31-1 -> C48-1
+Pin R1798-2 -> R69-2
+Pin J68-60 -> J14-60
+Pin R1653-2 -> R116-2
+Pin R112-1 -> R75-1
+Pin Q6-5 -> Q5-5
+Pin R161-2 -> R31-2
+Pin Q2-2 -> Q1-2
+Pin R3-1 -> R128-1
+Pin J8-3 -> J24-3
+Pin U110-M9 -> U21-M9
+Pin U110-M3 -> U21-M3
+Pin R1787-2 -> R97-2
+Pin R1784-2 -> R102-2
+Pin R1447-2 -> R230-2
+Pin C783-1 -> C36-1
+Pin C809-1 -> C40-1
+Pin DS20-C -> DS6-C
+Pin Q6-3 -> Q5-3
+Pin R18-2 -> R39-2
+Pin Q87-C -> Q11-C
+Pin R4K1-1 -> R4K2-1
+Pin C673-2 -> C11-2
+Pin R1351-1 -> R44-1
+Pin U102-4 -> U12-4
+Pin J3-1 -> J22-1
+Pin J212-1 -> J19-1
+Pin J68-34 -> J14-34
+Pin R1280-1 -> R146-1
+Pin J68-11 -> J14-11
+Pin U8-4 -> U19-4
+Pin R1741-1 -> R144-1
+Pin C18-2 -> C76-2
+Pin U3-F3 -> U16-F3
+Pin U110-R22 -> U21-R22
+Pin J166-2 -> J13-2
+Pin R1796-1 -> R7-1
+Pin R336-1 -> R165-1
+Pin U60-13 -> U3-13
+Pin R64-1 -> R187-1
+Pin J226-1 -> J25-1
+Pin U78-5 -> U15-5
+Pin C1233-1 -> C152-1
+Pin DS16-A -> DS4-A
+Pin C1219-1 -> C95-1
+Pin R1382-1 -> R153-1
+Pin U32-19 -> U6-19
+Pin R295-1 -> R54-1
+Pin C97-1 -> C136-1
+Pin C1243-1 -> C124-1
+Pin R1261-2 -> R63-2
+Pin R1150-1 -> R208-1
+Pin C1251-1 -> C147-1
+Pin U110-AL8 -> U21-AL8
+Pin C85-1 -> C107-1
+Pin R1802-1 -> R182-1
+Pin U110-U20 -> U21-U20
+Pin C1231-1 -> C74-1
+Pin U60-4 -> U3-4
+Pin C1156-1 -> C174-1
+Pin C1149-1 -> C181-1
+Pin U110-AC20 -> U21-AC20
+Pin U110-Y30 -> U21-Y30
+Pin C57-1 -> C138-1
+Pin U110-AG43 -> U21-AG43
+Pin C55-1 -> C126-1
+Pin U60-9 -> U3-9
+Pin J25-C3 -> J8-C3
+Pin U3-M8 -> U16-M8
+Pin J25-A3 -> J8-A3
+Pin U110-AC2 -> U21-AC2
+Pin C13-1 -> C59-1
+Pin C713-2 -> C65-2
+Pin C107-2 -> C200-2
+Pin J217-A76 -> J26-A76
+Pin C106-1 -> C207-1
+Pin J217-A47 -> J26-A47
+Pin C128-1 -> C215-1
+Pin U110-H48 -> U21-H48
+Pin C99-2 -> C220-2
+Pin U110-R46 -> U21-R46
+Pin C117-2 -> C223-2
+Pin J217-B75 -> J26-B75
+Pin U110-B31 -> U21-B31
+Pin U76-4 -> U14-4
+Pin Q5-5 -> Q14-5
+Pin U3-A6 -> U16-A6
+Pin J3-2 -> J22-2
+Pin U110-A12 -> U21-A12
+Pin J25-D15 -> J8-D15
+Pin Q1-5 -> Q8-5
+Pin R20-1 -> R38-1
+Pin U102-6 -> U12-6
+Pin U3-E12 -> U16-E12
+Pin U3-D12 -> U16-D12
+Pin J1-5 -> J2-5
+Pin J1-6 -> J2-6
+Pin J1-3 -> J2-3
+Pin R1029-1 -> R213-1
+Pin R1379-2 -> R50-2
+Pin J68-39 -> J14-39
+Pin U79-3 -> U5-3
+Pin U110-L12 -> U21-L12
+Pin R124-1 -> R181-1
+Pin R124-2 -> R181-2
+Pin DS12-C -> DS10-C
+Pin L46-1 -> L6-1
+Pin R166-2 -> R103-2
+Pin Q5-2 -> Q14-2
+Pin R1682-1 -> R196-1
+Pin DS30-C -> DS21-C
+Pin R1794-2 -> R115-2
+Pin U110-AC26 -> U21-AC26
+Pin J217-B81 -> J26-B81
+Note: Exporting data to project T:\CPIC_F100_X001\PCB\CPIC.pcb
+Note: Export completed successfully.
+Tue Aug 03 11:47:50 2010
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project T:\APM2M_F200_X200\pcb\APM2M_F200.pcb
+Note: Export completed successfully.
+Wed Sep 22 13:10:40 2010
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project T:\CBEX_X100\PCB\CBEX.pcb
+Note: Export completed successfully.
+Mon Oct 11 21:10:36 2010
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project T:\CBEX_X100\PCB\CBEX.pcb
+Note: Export completed successfully.
+Tue Oct 12 14:43:20 2010
+
+ERROR: Wrong active project in Dashboard.
+Tue Oct 12 15:33:00 2010
+
+ERROR: Wrong active project in Dashboard.
+Tue Oct 12 20:19:41 2010
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project T:\CBEX_X100\PCB\CBEX.pcb
+Note: Export completed successfully.
+Wed Oct 13 08:11:56 2010
+
+ERROR: Wrong active project in Dashboard.
+Wed Oct 13 08:24:10 2010
+
+ERROR: Wrong active project in Dashboard.
+Wed Oct 13 11:02:52 2010
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project T:\CBEX_X100\PCB\CBEX.pcb
+Note: Export completed successfully.
+Wed Dec 22 14:22:18 2010
+
+ERROR: Wrong active project in Dashboard.
+Wed Dec 22 14:59:03 2010
+
+ERROR: Wrong active project in Dashboard.
+Wed Dec 22 15:03:27 2010
+
+ERROR: Wrong active project in Dashboard.
+Wed Dec 22 15:52:02 2010
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project T:\CBEX_X100\PCB\CBEX.pcb
+Note: Export completed successfully.
+Wed Jan 19 12:03:46 2011
+
+ERROR: Wrong active project in Dashboard.
+Mon May 16 16:47:07 2011
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project T:\BAL_TCPCB_X008\PCB\BAL_TCPCB.pcb
+Note: Export completed successfully.
+Fri May 20 13:35:53 2011
+
+ERROR: Wrong active project in Dashboard.
+Tue May 24 10:23:52 2011
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project T:\BAL_TCPCB_X009\PCB\BAL_TCPCB.pcb
+Note: Export completed successfully.
+Wed May 25 16:18:34 2011
+
+ERROR: Wrong active project in Dashboard.
+Note: Orphaned constraint ACT_DELAY_LENGTH='364.188583000000' on object $8N591
+Note: Orphaned constraint ACT_DELAY_LENGTH='50.169567000000' on object $8N595
+Note: Orphaned constraint ACT_DELAY_LENGTH='191.203898000000' on object $8N599
+Note: Orphaned constraint ACT_DELAY_LENGTH='760.873071000000' on object $8N600
+Note: Orphaned constraint ACT_DELAY_LENGTH='153.180866000000' on object $10N267
+Note: Orphaned constraint ACT_DELAY_LENGTH='90.444409000000' on object $10N269
+Note: Orphaned constraint ACT_DELAY_LENGTH='81.953228000000' on object $10N277
+Note: Orphaned constraint ACT_DELAY_LENGTH='87.420866000000' on object $10N275
+Note: Orphaned constraint ACT_DELAY_LENGTH='94.131142000000' on object $10N276
+Note: Orphaned constraint ACT_DELAY_LENGTH='96.537008000000' on object $10N278
+Note: Orphaned constraint ACT_DELAY_LENGTH='85.000000000000' on object $20N163
+Note: Orphaned constraint ACT_DELAY_LENGTH='83.000000000000' on object $20N164
+Note: Orphaned constraint ACT_DELAY_LENGTH='103.866496000000' on object $20N445
+Note: Orphaned constraint ACT_DELAY_LENGTH='101.250748000000' on object $20N447
+Note: Orphaned constraint ACT_DELAY_LENGTH='106.251063000000' on object $20N449
+Note: Orphaned constraint ACT_DELAY_LENGTH='405.512126000000' on object $21N1
+Note: Orphaned constraint ACT_DELAY_LENGTH='151.103504000000' on object $21N5
+Note: Orphaned constraint ACT_DELAY_LENGTH='54.919331000000' on object $21N7
+Note: Orphaned constraint ACT_DELAY_LENGTH='122.412126000000' on object $21N11
+Note: Orphaned constraint ACT_DELAY_LENGTH='229.040512000000' on object $21N12
+Note: Orphaned constraint ACT_DELAY_LENGTH='76.008740000000' on object $21N22
+Note: Orphaned constraint ACT_DELAY_LENGTH='183.030433000000' on object $21N21
+Note: Orphaned constraint ACT_DELAY_LENGTH='72.564528000000' on object $21N43
+Note: Orphaned constraint ACT_DELAY_LENGTH='79.087480000000' on object $21N24
+Note: Orphaned constraint ACT_DELAY_LENGTH='386.751575000000' on object $21N27
+Note: Orphaned constraint ACT_DELAY_LENGTH='83.440394000000' on object $21N75
+Note: Orphaned constraint ACT_DELAY_LENGTH='403.873937000000' on object $22N639
+Note: Orphaned constraint ACT_DELAY_LENGTH='263.425118000000' on object $22N643
+Note: Orphaned constraint ACT_DELAY_LENGTH='383.193819000000' on object $22N679
+Note: Orphaned constraint ACT_DELAY_LENGTH='450.700630000000' on object $22N680
+Note: Orphaned constraint ACT_DELAY_LENGTH='287.591457000000' on object $22N681
+Note: Orphaned constraint ACT_DELAY_LENGTH='306.490157000000' on object $22N682
+Note: Orphaned constraint ACT_DELAY_LENGTH='212.237677000000' on object $22N683
+Note: Orphaned constraint ACT_DELAY_LENGTH='161.847008000000' on object $22N684
+Note: Orphaned constraint ACT_DELAY_LENGTH='109.629488000000' on object $22N685
+Note: Orphaned constraint ACT_DELAY_LENGTH='204.898661000000' on object $22N686
+Note: Orphaned constraint ACT_DELAY_LENGTH='211.490157000000' on object $22N687
+Note: Orphaned constraint ACT_DELAY_LENGTH='264.427795000000' on object $22N728
+Note: Orphaned constraint ACT_DELAY_LENGTH='200.406181000000' on object $22N733
+Note: Orphaned constraint ACT_DELAY_LENGTH='141.886181000000' on object $22N740
+Note: Orphaned constraint ACT_DELAY_LENGTH='175.718189000000' on object $22N742
+Note: Orphaned constraint ACT_DELAY_LENGTH='363.309606000000' on object $22N749
+Note: Orphaned constraint ACT_DELAY_LENGTH='382.877953000000' on object $22N756
+Note: Orphaned constraint ACT_DELAY_LENGTH='317.599803000000' on object $22N758
+Note: Orphaned constraint ACT_DELAY_LENGTH='198.078937000000' on object $22N779
+Note: Orphaned constraint ACT_DELAY_LENGTH='122.018622000000' on object $22N787
+Note: Orphaned constraint ACT_DELAY_LENGTH='507.813819000000' on object $22N852
+Note: Orphaned constraint ACT_DELAY_LENGTH='208.857717000000' on object $22N857
+Note: Orphaned constraint ACT_DELAY_LENGTH='333.682638000000' on object $22N860
+Note: Orphaned constraint ACT_DELAY_LENGTH='314.752402000000' on object $22N870
+Note: Orphaned constraint ACT_DELAY_LENGTH='308.155276000000' on object $22N872
+Note: Orphaned constraint ACT_DELAY_LENGTH='267.477638000000' on object $22N874
+Note: Orphaned constraint ACT_DELAY_LENGTH='302.918740000000' on object $22N876
+Note: Orphaned constraint ACT_DELAY_LENGTH='151.381378000000' on object $22N889
+Note: Orphaned constraint ACT_DELAY_LENGTH='223.337520000000' on object $22N898
+Note: Orphaned constraint ACT_DELAY_LENGTH='380.180984000000' on object $22N900
+Note: Orphaned constraint ACT_DELAY_LENGTH='137.516260000000' on object $22N939
+Note: Orphaned constraint ACT_DELAY_LENGTH='178.363780000000' on object $22N941
+Note: Orphaned constraint ACT_DELAY_LENGTH='167.726102000000' on object $23N882
+Note: Orphaned constraint ACT_DELAY_LENGTH='172.096181000000' on object $23N884
+Note: Orphaned constraint ACT_DELAY_LENGTH='209.799488000000' on object $23N886
+Note: Orphaned constraint ACT_DELAY_LENGTH='155.196614000000' on object $23N888
+Note: Orphaned constraint ACT_DELAY_LENGTH='106.810118000000' on object $24N425
+Note: Orphaned constraint ACT_DELAY_LENGTH='106.656850000000' on object $24N426
+Note: Orphaned constraint ACT_DELAY_LENGTH='90.345394000000' on object $24N463
+Note: Orphaned constraint ACT_DELAY_LENGTH='112.000000000000' on object $25N438
+Note: Orphaned constraint ACT_DELAY_LENGTH='147.891496000000' on object $26N684
+Note: Orphaned constraint ACT_DELAY_LENGTH='233.292913000000' on object $26N744
+Note: Orphaned constraint ACT_DELAY_LENGTH='182.739094000000' on object $26N746
+Note: Orphaned constraint ACT_DELAY_LENGTH='430.599882000000' on object $26N1518
+Note: Orphaned constraint ACT_DELAY_LENGTH='387.563465000000' on object $26N1520
+Note: Orphaned constraint ACT_DELAY_LENGTH='181.938583000000' on object $26N1525
+Note: Orphaned constraint ACT_DELAY_LENGTH='296.314528000000' on object $26N1586
+Note: Orphaned constraint ACT_DELAY_LENGTH='289.058622000000' on object $26N1587
+Note: Orphaned constraint ACT_DELAY_LENGTH='385.869528000000' on object $26N1591
+Note: Orphaned constraint ACT_DELAY_LENGTH='342.552520000000' on object $26N1592
+Note: Orphaned constraint ACT_DELAY_LENGTH='139.310394000000' on object $29N563
+Note: Orphaned constraint ACT_DELAY_LENGTH='148.749173000000' on object $29N571
+Note: Orphaned constraint ACT_DELAY_LENGTH='699.504764000000' on object $29N573
+Note: Orphaned constraint ACT_DELAY_LENGTH='287.204764000000' on object $29N584
+Note: Orphaned constraint ACT_DELAY_LENGTH='174.592126000000' on object $29N586
+Note: Orphaned constraint ACT_DELAY_LENGTH='810.937205000000' on object $29N605
+Note: Orphaned constraint ACT_DELAY_LENGTH='230.091299000000' on object $29N608
+Note: Orphaned constraint ACT_DELAY_LENGTH='116.228583000000' on object $29N612
+Note: Orphaned constraint ACT_DELAY_LENGTH='166.821732000000' on object $29N616
+Note: Orphaned constraint ACT_DELAY_LENGTH='162.349764000000' on object $29N619
+Note: Orphaned constraint ACT_DELAY_LENGTH='243.216693000000' on object $29N648
+Note: Orphaned constraint ACT_DELAY_LENGTH='129.217047000000' on object $29N690
+Note: Orphaned constraint ACT_DELAY_LENGTH='122.276535000000' on object $29N698
+Note: Orphaned constraint ACT_DELAY_LENGTH='114.508071000000' on object $29N709
+Note: Orphaned constraint ACT_DELAY_LENGTH='282.693898000000' on object $29N718
+Note: Orphaned constraint ACT_DELAY_LENGTH='214.185866000000' on object $29N723
+Note: Orphaned constraint ACT_DELAY_LENGTH='115.975945000000' on object $29N781
+Note: Orphaned constraint ACT_DELAY_LENGTH='234.258465000000' on object $29N803
+Note: Orphaned constraint ACT_DELAY_LENGTH='119.315118000000' on object $29N812
+Note: Orphaned constraint ACT_DELAY_LENGTH='447.389370000000' on object $30N161
+Note: Orphaned constraint ACT_DELAY_LENGTH='55.000000000000' on object $30N169
+Note: Orphaned constraint ACT_DELAY_LENGTH='85.358858000000' on object $31N653
+Note: Orphaned constraint ACT_DELAY_LENGTH='471.741339000000' on object $31N675
+Note: Orphaned constraint ACT_DELAY_LENGTH='86.091890000000' on object $32N272
+Note: Orphaned constraint ACT_DELAY_LENGTH='29.778150000000' on object $32N274
+Note: Orphaned constraint ACT_DELAY_LENGTH='92.081614000000' on object $32N307
+Note: Orphaned constraint ACT_DELAY_LENGTH='117.035354000000' on object $32N320
+Note: Orphaned constraint ACT_DELAY_LENGTH='29.485276000000' on object $32N322
+Note: Orphaned constraint ACT_DELAY_LENGTH='206.161969000000' on object $32N323
+Note: Orphaned constraint ACT_DELAY_LENGTH='195.805433000000' on object $32N343
+Note: Orphaned constraint ACT_DELAY_LENGTH='46.464449000000' on object $32N344
+Note: Orphaned constraint ACT_DELAY_LENGTH='62.462126000000' on object $32N345
+Note: Orphaned constraint ACT_DELAY_LENGTH='130.892047000000' on object $32N357
+Note: Orphaned constraint ACT_DELAY_LENGTH='160.710630000000' on object $32N388
+Note: Orphaned constraint ACT_DELAY_LENGTH='64.638504000000' on object $32N393
+Note: Orphaned constraint ACT_DELAY_LENGTH='92.844567000000' on object $32N398
+Note: Orphaned constraint ACT_DELAY_LENGTH='96.227638000000' on object $32N406
+Note: Orphaned constraint ACT_DELAY_LENGTH='396.582953000000' on object $32N476
+Note: Orphaned constraint ACT_DELAY_LENGTH='51.524488000000' on object $33N295
+Note: Orphaned constraint ACT_DELAY_LENGTH='80.372165000000' on object $33N323
+Note: Orphaned constraint ACT_DELAY_LENGTH='64.655827000000' on object $33N334
+Note: Orphaned constraint ACT_DELAY_LENGTH='109.770000000000' on object $33N364
+Note: Orphaned constraint ACT_DELAY_LENGTH='55.961693000000' on object $33N368
+Note: Orphaned constraint ACT_DELAY_LENGTH='306.646299000000' on object $34N111
+Note: Orphaned constraint ACT_DELAY_LENGTH='163.682047000000' on object $34N133
+Note: Orphaned constraint ACT_DELAY_LENGTH='995.764882000000' on object $34N141
+Note: Orphaned constraint ACT_DELAY_LENGTH='175.359134000000' on object $34N142
+Note: Orphaned constraint ACT_DELAY_LENGTH='126.890630000000' on object $34N184
+Note: Orphaned constraint ACT_DELAY_LENGTH='78.326457000000' on object $34N201
+Note: Orphaned constraint ACT_DELAY_LENGTH='63.604409000000' on object $34N209
+Note: Orphaned constraint ACT_DELAY_LENGTH='77.998740000000' on object $34N215
+Note: Orphaned constraint ACT_DELAY_LENGTH='92.652835000000' on object $34N222
+Note: Orphaned constraint ACT_DELAY_LENGTH='75.513976000000' on object $34N223
+Note: Orphaned constraint ACT_DELAY_LENGTH='201.509252000000' on object $34N227
+Note: Orphaned constraint ACT_DELAY_LENGTH='82.423425000000' on object $34N228
+Note: Orphaned constraint ACT_DELAY_LENGTH='83.288819000000' on object $34N247
+Note: Orphaned constraint ACT_DELAY_LENGTH='216.177323000000' on object $35N668
+Note: Orphaned constraint ACT_DELAY_LENGTH='75.000000000000' on object $35N669
+Note: Orphaned constraint ACT_DELAY_LENGTH='102.656850000000' on object $36N555
+Note: Orphaned constraint ACT_DELAY_LENGTH='102.810118000000' on object $36N556
+Note: Orphaned constraint ACT_DELAY_LENGTH='102.656850000000' on object $36N601
+Note: Orphaned constraint ACT_DELAY_LENGTH='102.810118000000' on object $36N602
+Note: Orphaned constraint PCLASS='Power' on object 3V3_OUT
+Note: Orphaned constraint ACT_DELAY_LENGTH='123.247205000000' on object 3V3_OUT
+Note: Orphaned constraint ACT_DELAY_LENGTH='55.341260000000' on object 82574_DEV_OFF#
+Note: Orphaned constraint ACT_DELAY_LENGTH='80.940630000000' on object 82574_JTAG_TCK
+Note: Orphaned constraint ACT_DELAY_LENGTH='90.617323000000' on object 82574_JTAG_TMS
+Note: Orphaned constraint ACT_DELAY_LENGTH='61.156102000000' on object 82574_SI_CLK_IN
+Note: Orphaned constraint ACT_DELAY_LENGTH='78.789134000000' on object 82574_SI_TX_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='57.748898000000' on object 82574_SI_TXD0
+Note: Orphaned constraint ACT_DELAY_LENGTH='60.638071000000' on object 82574_SI_TXD1
+Note: Orphaned constraint ACT_DELAY_LENGTH='60.933622000000' on object 82574_TEST_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='144.446142000000' on object 82574_XTAL1
+Note: Orphaned constraint ACT_DELAY_LENGTH='203.852795000000' on object 82574_XTAL2
+Note: Orphaned constraint ACT_DELAY_LENGTH='422.993465000000' on object CLK_38.4MHZ_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='213.785669000000' on object CLK_PCIE_DB_OE#
+Note: Orphaned constraint ACT_DELAY_LENGTH='2106.529409000000' on object CPLD-GPIO-0
+Note: Orphaned constraint ACT_DELAY_LENGTH='2237.396063000000' on object CPLD-GPIO-1
+Note: Orphaned constraint ACT_DELAY_LENGTH='2051.297638000000' on object CPLD-GPIO-2
+Note: Orphaned constraint ACT_DELAY_LENGTH='2004.214016000000' on object CPLD-GPIO-3
+Note: Orphaned constraint ACT_DELAY_LENGTH='140.857244000000' on object CPLD_TDO
+Note: Orphaned constraint ACT_DELAY_LENGTH='784.371378000000' on object CPLD_TDO_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='396.747323000000' on object CTRL10_ETH
+Note: Orphaned constraint ACT_DELAY_LENGTH='445.410394000000' on object CTRL19_ETH
+Note: Orphaned constraint ACT_DELAY_LENGTH='3690.863071000000' on object DB_PWRGOOD
+Note: Orphaned constraint ACT_DELAY_LENGTH='1631.608780000000' on object $21N261
+Note: Orphaned constraint ACT_DELAY_LENGTH='82.157362000000' on object ETH0_LED0
+Note: Orphaned constraint ACT_DELAY_LENGTH='1985.096339000000' on object $21N262
+Note: Orphaned constraint ACT_DELAY_LENGTH='140.311260000000' on object ETH0_LED1
+Note: Orphaned constraint ACT_DELAY_LENGTH='1566.756614000000' on object ETH0_LED2
+Note: Orphaned constraint ACT_DELAY_LENGTH='2064.561654000000' on object EXT_CLK_SEL
+Note: Orphaned constraint ACT_DELAY_LENGTH='531.002205000000' on object EXT_CLK_SEL_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='125.669016000000' on object $36N615
+Note: Orphaned constraint ACT_DELAY_LENGTH='2003.683622000000' on object EXT_CLKIN_LED
+Note: Orphaned constraint ACT_DELAY_LENGTH='126.083228000000' on object $36N654
+Note: Orphaned constraint ACT_DELAY_LENGTH='2026.129488000000' on object EXT_CLKOUT_LED
+Note: Orphaned constraint ACT_DELAY_LENGTH='2066.225315000000' on object EXT_LINK_IN
+Note: Orphaned constraint ACT_DELAY_LENGTH='573.166417000000' on object EXT_LINK_IN_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='1884.303386000000' on object EXT_LINK_OUT
+Note: Orphaned constraint ACT_DELAY_LENGTH='605.478740000000' on object EXT_LINK_OUT_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='2122.630866000000' on object EXT_RESET_DET
+Note: Orphaned constraint ACT_DELAY_LENGTH='515.928228000000' on object EXT_RESET_DET_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='1871.329882000000' on object EXT_RESET_IN
+Note: Orphaned constraint ACT_DELAY_LENGTH='575.081260000000' on object EXT_RESET_IN_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='2275.777126000000' on object EXT_RESET_OUT
+Note: Orphaned constraint ACT_DELAY_LENGTH='648.501339000000' on object EXT_RESET_OUT_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='2005.419370000000' on object EXT_RESET_SEL
+Note: Orphaned constraint ACT_DELAY_LENGTH='553.911417000000' on object EXT_RESET_SEL_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='2056.986220000000' on object EXT_TRIG_IO1
+Note: Orphaned constraint ACT_DELAY_LENGTH='537.319449000000' on object EXT_TRIG_IO1_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='128.051260000000' on object $36N699
+Note: Orphaned constraint ACT_DELAY_LENGTH='2045.200945000000' on object EXT_TRIG_IO2
+Note: Orphaned constraint ACT_DELAY_LENGTH='558.308780000000' on object EXT_TRIG_IO2_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='2453.915197000000' on object EXT_TRIG_IO3
+Note: Orphaned constraint ACT_DELAY_LENGTH='494.841850000000' on object EXT_TRIG_IO3_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='127.551260000000' on object $36N721
+Note: Orphaned constraint ACT_DELAY_LENGTH='2225.837638000000' on object EXT_TRIG_IO4
+Note: Orphaned constraint ACT_DELAY_LENGTH='479.688110000000' on object EXT_TRIG_IO4_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='128.051260000000' on object $36N701
+Note: Orphaned constraint ACT_DELAY_LENGTH='2009.252087000000' on object EXT_TRIG_IO5
+Note: Orphaned constraint ACT_DELAY_LENGTH='527.814803000000' on object EXT_TRIG_IO5_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='128.051260000000' on object $36N703
+Note: Orphaned constraint ACT_DELAY_LENGTH='1971.317638000000' on object EXT_TRIG_IO6
+Note: Orphaned constraint ACT_DELAY_LENGTH='538.948504000000' on object EXT_TRIG_IO6_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='127.551260000000' on object $36N715
+Note: Orphaned constraint ACT_DELAY_LENGTH='2455.785276000000' on object EXT_TRIG_IO7
+Note: Orphaned constraint ACT_DELAY_LENGTH='544.359134000000' on object EXT_TRIG_IO7_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='2115.844173000000' on object EXT_TRIG_IO8
+Note: Orphaned constraint ACT_DELAY_LENGTH='526.966811000000' on object EXT_TRIG_IO8_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='1041.401929000000' on object FPGA_CONF_DONE
+Note: Orphaned constraint PCLASS='55 OHM 3:1' on object $18N672
+Note: Orphaned constraint ACT_DELAY_LENGTH='174.291693000000' on object $18N672
+Note: Orphaned constraint PCLASS='55 OHM 3:1' on object FPGA_CONFIG#
+Note: Orphaned constraint ACT_DELAY_LENGTH='5430.857047000000' on object FPGA_CONFIG#
+Note: Orphaned constraint ACT_DELAY_LENGTH='908.787441000000' on object FPGA_DBG_LED#
+Note: Orphaned constraint ACT_DELAY_LENGTH='124.965551000000' on object FPGA_DEV_CLR#
+Note: Orphaned constraint ACT_DELAY_LENGTH='121.527874000000' on object FPGA_DEV_OE
+Note: Orphaned constraint ACT_DELAY_LENGTH='1684.276024000000' on object FPGA_EXP0
+Note: Orphaned constraint ACT_DELAY_LENGTH='1643.899134000000' on object FPGA_EXP1
+Note: Orphaned constraint ACT_DELAY_LENGTH='1614.905630000000' on object FPGA_EXP2
+Note: Orphaned constraint ACT_DELAY_LENGTH='1673.865591000000' on object FPGA_EXP3
+Note: Orphaned constraint ACT_DELAY_LENGTH='1693.922638000000' on object FPGA_EXP4
+Note: Orphaned constraint ACT_DELAY_LENGTH='1525.490945000000' on object FPGA_EXP5
+Note: Orphaned constraint ACT_DELAY_LENGTH='1409.416614000000' on object FPGA_EXP6
+Note: Orphaned constraint ACT_DELAY_LENGTH='1357.394449000000' on object FPGA_EXP7
+Note: Orphaned constraint ACT_DELAY_LENGTH='374.999961000000' on object FPGA_MSEL0
+Note: Orphaned constraint ACT_DELAY_LENGTH='364.117520000000' on object FPGA_MSEL1
+Note: Orphaned constraint ACT_DELAY_LENGTH='312.537205000000' on object FPGA_MSEL2
+Note: Orphaned constraint PCLASS='55 OHM 3:1' on object FPGA_RST#
+Note: Orphaned constraint ACT_DELAY_LENGTH='2205.539134000000' on object FPGA_RST#
+Note: Orphaned constraint ACT_DELAY_LENGTH='91.171614000000' on object FPGA_STATUS#
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object FPGA_TCK
+Note: Orphaned constraint ACT_DELAY_LENGTH='1453.158465000000' on object FPGA_TCK
+Note: Orphaned constraint ACT_DELAY_LENGTH='1129.046339000000' on object FPGA_TDI
+Note: Orphaned constraint ACT_DELAY_LENGTH='941.772165000000' on object FPGA_TDO
+Note: Orphaned constraint ACT_DELAY_LENGTH='537.283150000000' on object FPGA_TDO_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='1102.618386000000' on object FPGA_TMS
+Note: Orphaned constraint ACT_DELAY_LENGTH='157.805039000000' on object GTL2005_GTLREF
+Note: Orphaned constraint ACT_DELAY_LENGTH='1908.130512000000' on object INT_CLK_DIS
+Note: Orphaned constraint ACT_DELAY_LENGTH='493.639606000000' on object INT_CLK_DIS_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='130.503583000000' on object $26N1642
+Note: Orphaned constraint ACT_DELAY_LENGTH='119.427480000000' on object $26N1644
+Note: Orphaned constraint ACT_DELAY_LENGTH='1355.117047000000' on object IOH-GPIO-11
+Note: Orphaned constraint ACT_DELAY_LENGTH='351.628898000000' on object L_DDC_CLK
+Note: Orphaned constraint ACT_DELAY_LENGTH='120.413268000000' on object L_DDC_DATA
+Note: Orphaned constraint ACT_DELAY_LENGTH='5869.672677000000' on object $23N776
+Note: Orphaned constraint ACT_DELAY_LENGTH='102.055236000000' on object LED_WLAN_N
+Note: Orphaned constraint ACT_DELAY_LENGTH='1250.317559000000' on object $23N778
+Note: Orphaned constraint ACT_DELAY_LENGTH='102.097402000000' on object LED_WPAN_N
+Note: Orphaned constraint ACT_DELAY_LENGTH='1322.812953000000' on object $23N774
+Note: Orphaned constraint ACT_DELAY_LENGTH='101.780669000000' on object LED_WWAN_N
+Note: Orphaned constraint ACT_DELAY_LENGTH='132.186929000000' on object PCIE_ETH_CLKDIS
+Note: Orphaned constraint ACT_DELAY_LENGTH='155.280866000000' on object $23N798
+Note: Orphaned constraint ACT_DELAY_LENGTH='927.554803000000' on object PCIE_MINI_CLKREQ_N
+Note: Orphaned constraint ACT_DELAY_LENGTH='1640.914252000000' on object PCIE_MINI_WDIS_N
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object $21N430
+Note: Orphaned constraint ACT_DELAY_LENGTH='97.044370000000' on object $21N430
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object $28N536
+Note: Orphaned constraint ACT_DELAY_LENGTH='116.110118000000' on object $28N536
+Note: Orphaned constraint ACT_DELAY_LENGTH='1095.163425000000' on object PEX-GPIO-0
+Note: Orphaned constraint ACT_DELAY_LENGTH='1091.318622000000' on object PEX-GPIO-1
+Note: Orphaned constraint ACT_DELAY_LENGTH='1934.490394000000' on object PEX_FATAL_ERR#
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object PEX_INTA#
+Note: Orphaned constraint ACT_DELAY_LENGTH='1259.835118000000' on object PEX_INTA#
+Note: Orphaned constraint ACT_DELAY_LENGTH='211.936299000000' on object PEX_LN0_GD#
+Note: Orphaned constraint ACT_DELAY_LENGTH='824.542283000000' on object PEX_LN4_GD#
+Note: Orphaned constraint ACT_DELAY_LENGTH='262.584173000000' on object PEX_LN5_GD#
+Note: Orphaned constraint ACT_DELAY_LENGTH='173.345079000000' on object PEX_SHPC_INT#
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object PEX_TCK
+Note: Orphaned constraint ACT_DELAY_LENGTH='3050.688307000000' on object PEX_TCK
+Note: Orphaned constraint ACT_DELAY_LENGTH='2777.595551000000' on object PEX_TDI
+Note: Orphaned constraint ACT_DELAY_LENGTH='2912.909055000000' on object PEX_TDO
+Note: Orphaned constraint ACT_DELAY_LENGTH='3187.411693000000' on object PEX_TMS
+Note: Orphaned constraint ACT_DELAY_LENGTH='199.549291000000' on object $35N785
+Note: Orphaned constraint ACT_DELAY_LENGTH='3085.206772000000' on object PEX_TRST#
+Note: Orphaned constraint ACT_DELAY_LENGTH='1990.200906000000' on object PM_2.5A_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='2142.301260000000' on object PM_3.3A_DELAY_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='1089.918346000000' on object PM_V1.2_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='2753.303937000000' on object PM_V1.2S_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='2601.715512000000' on object PM_V1.8_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='1663.251732000000' on object PM_V1.8S_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='1872.418268000000' on object PM_V5S_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='2363.912283000000' on object PWRMODE0_3P3
+Note: Orphaned constraint ACT_DELAY_LENGTH='2316.965906000000' on object PWRMODE1_3P3
+Note: Orphaned constraint ACT_DELAY_LENGTH='2496.302087000000' on object PWRMODE2_3P3
+Note: Orphaned constraint ACT_DELAY_LENGTH='759.044685000000' on object SATA0_LEDCTL
+Note: Orphaned constraint ACT_DELAY_LENGTH='2174.897165000000' on object TC-GPIO-SUS-1
+Note: Orphaned constraint ACT_DELAY_LENGTH='2273.188228000000' on object TC-GPIO-SUS-2
+Note: Orphaned constraint ACT_DELAY_LENGTH='51.284252000000' on object $33N470
+Note: Orphaned constraint ACT_DELAY_LENGTH='119.702362000000' on object TPS54318_COMP
+Note: Orphaned constraint ACT_DELAY_LENGTH='255.100984000000' on object TPS54318_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='77.188150000000' on object TPS54318_RTCLK
+Note: Orphaned constraint ACT_DELAY_LENGTH='45.912559000000' on object TPS54318_SS
+Note: Orphaned constraint ACT_DELAY_LENGTH='44.000000000000' on object $8N559
+Note: Orphaned constraint ACT_DELAY_LENGTH='6065.011575000000' on object VCC_BAT_DB
+Note: Orphaned constraint ACT_DELAY_LENGTH='102.256535000000' on object VCC_CCV
+Note: Orphaned constraint ACT_DELAY_LENGTH='73.974764000000' on object VCC_DPRSLPVR
+Note: Orphaned constraint ACT_DELAY_LENGTH='66.907126000000' on object VCC_DPRSTP#
+Note: Orphaned constraint ACT_DELAY_LENGTH='62.846496000000' on object VCC_FB
+Note: Orphaned constraint ACT_DELAY_LENGTH='139.066457000000' on object VCC_GND_SENSE
+Note: Orphaned constraint ACT_DELAY_LENGTH='267.404134000000' on object VCC_HS_DRV
+Note: Orphaned constraint ACT_DELAY_LENGTH='85.347008000000' on object VCC_ILM
+Note: Orphaned constraint ACT_DELAY_LENGTH='580.389449000000' on object VCC_LS_DRV
+Note: Orphaned constraint ACT_DELAY_LENGTH='279.048740000000' on object VCC_PGD_IN
+Note: Orphaned constraint ACT_DELAY_LENGTH='61.208504000000' on object VCC_PROCHOT#_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='851.621732000000' on object VCC_THRM
+Note: Orphaned constraint ACT_DELAY_LENGTH='55.216575000000' on object VCC_TIME
+Note: Orphaned constraint ACT_DELAY_LENGTH='46.948268000000' on object VCC_TON
+Note: Orphaned constraint ACT_DELAY_LENGTH='1735.884961000000' on object VCC_VID0
+Note: Orphaned constraint ACT_DELAY_LENGTH='1611.689803000000' on object VCC_VID1
+Note: Orphaned constraint ACT_DELAY_LENGTH='1623.017362000000' on object VCC_VID2
+Note: Orphaned constraint ACT_DELAY_LENGTH='1627.257756000000' on object VCC_VID3
+Note: Orphaned constraint ACT_DELAY_LENGTH='1536.847717000000' on object VCC_VID4
+Note: Orphaned constraint ACT_DELAY_LENGTH='1381.661220000000' on object VCC_VID5
+Note: Orphaned constraint ACT_DELAY_LENGTH='1403.516260000000' on object VCC_VID6
+Note: Orphaned constraint ACT_DELAY_LENGTH='2128.313504000000' on object VCC_VR_ON
+Note: Orphaned constraint PCLASS='Power' on object $8N686
+Note: Orphaned constraint ACT_DELAY_LENGTH='48.271850000000' on object $8N686
+Note: Orphaned constraint PCLASS='Power' on object VCCRTCEXT
+Note: Orphaned constraint ACT_DELAY_LENGTH='1484.603622000000' on object VCCRTCEXT
+Note: Orphaned constraint ACT_DELAY_LENGTH='102.256535000000' on object VNN_CCV
+Note: Orphaned constraint ACT_DELAY_LENGTH='83.002008000000' on object VNN_DPRSLPVR
+Note: Orphaned constraint ACT_DELAY_LENGTH='89.636417000000' on object VNN_DPRSTP#
+Note: Orphaned constraint ACT_DELAY_LENGTH='62.476614000000' on object VNN_FB
+Note: Orphaned constraint ACT_DELAY_LENGTH='82.283740000000' on object VNN_GND_SENSE
+Note: Orphaned constraint ACT_DELAY_LENGTH='527.226299000000' on object VNN_HS_DRV
+Note: Orphaned constraint ACT_DELAY_LENGTH='86.325906000000' on object VNN_ILM
+Note: Orphaned constraint ACT_DELAY_LENGTH='408.214134000000' on object VNN_LS_DRV
+Note: Orphaned constraint ACT_DELAY_LENGTH='261.581063000000' on object VNN_PGD_IN
+Note: Orphaned constraint ACT_DELAY_LENGTH='60.794291000000' on object VNN_PROCHOT#_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='782.404882000000' on object VNN_THRM
+Note: Orphaned constraint ACT_DELAY_LENGTH='56.109528000000' on object VNN_TIME
+Note: Orphaned constraint ACT_DELAY_LENGTH='46.992362000000' on object VNN_TON
+Note: Orphaned constraint ACT_DELAY_LENGTH='1468.627362000000' on object VNN_VID0
+Note: Orphaned constraint ACT_DELAY_LENGTH='1582.997126000000' on object VNN_VID1
+Note: Orphaned constraint ACT_DELAY_LENGTH='1476.019134000000' on object VNN_VID2
+Note: Orphaned constraint ACT_DELAY_LENGTH='1401.183150000000' on object VNN_VID3
+Note: Orphaned constraint ECLASS='Power' on object VNN_VID4
+Note: Orphaned constraint ACT_DELAY_LENGTH='1671.330315000000' on object VNN_VID4
+Note: Orphaned constraint ACT_DELAY_LENGTH='86.520118000000' on object VNN_VID6
+Note: Orphaned constraint ACT_DELAY_LENGTH='1329.915394000000' on object VNN_VR_ON
+Note: Orphaned constraint ORDER_TYPE='Custom' on object $21N412
+Note: Orphaned constraint ECLASS='PCIe/PCIE_RXN1^^^,PCIE_RXP1^^^' on object $21N412
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object $21N412
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object $21N412
+Note: Orphaned constraint ACT_DELAY_LENGTH='1957.173071000000' on object $21N412
+Note: Orphaned constraint DP_TOL='5.000000000000' on object $21N412
+Note: Orphaned constraint ORDER_TYPE='Custom' on object $21N414
+Note: Orphaned constraint ECLASS='PCIe/PCIE_RXN1^^^,PCIE_RXP1^^^' on object $21N414
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object $21N414
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object $21N414
+Note: Orphaned constraint ACT_DELAY_LENGTH='1957.273504000000' on object $21N414
+Note: Orphaned constraint DP_TOL='5.000000000000' on object $21N414
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_RXN2_C
+Note: Orphaned constraint ECLASS='PCIe/PCIE_RXN2^^^,PCIE_RXP2^^^' on object PCIE_RXN2_C
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_RXN2_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_RXN2_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='183.486969000000' on object PCIE_RXN2_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_RXN2_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_RXP2_C
+Note: Orphaned constraint ECLASS='PCIe/PCIE_RXN2^^^,PCIE_RXP2^^^' on object PCIE_RXP2_C
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_RXP2_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_RXP2_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='181.903661000000' on object PCIE_RXP2_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_RXP2_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_SW0_RXN
+Note: Orphaned constraint ECLASS='PCIe/PCIE_SW0_RXN,PCIE_SW0_RXP' on object PCIE_SW0_RXN
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_SW0_RXN
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_SW0_RXN
+Note: Orphaned constraint ACT_DELAY_LENGTH='3227.583583000000' on object PCIE_SW0_RXN
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_SW0_RXN
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_SW0_RXP
+Note: Orphaned constraint ECLASS='PCIe/PCIE_SW0_RXN,PCIE_SW0_RXP' on object PCIE_SW0_RXP
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_SW0_RXP
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_SW0_RXP
+Note: Orphaned constraint ACT_DELAY_LENGTH='3228.805394000000' on object PCIE_SW0_RXP
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_SW0_RXP
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_SW0_TXN
+Note: Orphaned constraint ECLASS='PCIe/PCIE_SW0_TXN^^^,PCIE_SW0_TXP^^^' on object PCIE_SW0_TXN
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_SW0_TXN
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_SW0_TXN
+Note: Orphaned constraint ACT_DELAY_LENGTH='3318.525827000000' on object PCIE_SW0_TXN
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_SW0_TXN
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_SW0_TXN_C
+Note: Orphaned constraint ECLASS='PCIe/PCIE_SW0_TXN^^^,PCIE_SW0_TXP^^^' on object PCIE_SW0_TXN_C
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_SW0_TXN_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_SW0_TXN_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='190.173268000000' on object PCIE_SW0_TXN_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_SW0_TXN_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_SW0_TXP
+Note: Orphaned constraint ECLASS='PCIe/PCIE_SW0_TXN^^^,PCIE_SW0_TXP^^^' on object PCIE_SW0_TXP
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_SW0_TXP
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_SW0_TXP
+Note: Orphaned constraint ACT_DELAY_LENGTH='3321.041102000000' on object PCIE_SW0_TXP
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_SW0_TXP
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_SW0_TXP_C
+Note: Orphaned constraint ECLASS='PCIe/PCIE_SW0_TXN^^^,PCIE_SW0_TXP^^^' on object PCIE_SW0_TXP_C
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_SW0_TXP_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_SW0_TXP_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='191.113858000000' on object PCIE_SW0_TXP_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_SW0_TXP_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_SW4_RXN
+Note: Orphaned constraint ECLASS='PCIe/PCIE_SW4_RXN^^^,PCIE_SW4_RXP^^^' on object PCIE_SW4_RXN
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_SW4_RXN
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_SW4_RXN
+Note: Orphaned constraint ACT_DELAY_LENGTH='2121.107795000000' on object PCIE_SW4_RXN
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_SW4_RXN
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_SW4_RXN_C
+Note: Orphaned constraint ECLASS='PCIe/PCIE_SW4_RXN^^^,PCIE_SW4_RXP^^^' on object PCIE_SW4_RXN_C
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_SW4_RXN_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_SW4_RXN_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='150.541969000000' on object PCIE_SW4_RXN_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_SW4_RXN_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_SW4_RXP
+Note: Orphaned constraint ECLASS='PCIe/PCIE_SW4_RXN^^^,PCIE_SW4_RXP^^^' on object PCIE_SW4_RXP
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_SW4_RXP
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_SW4_RXP
+Note: Orphaned constraint ACT_DELAY_LENGTH='2121.217835000000' on object PCIE_SW4_RXP
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_SW4_RXP
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_SW4_RXP_C
+Note: Orphaned constraint ECLASS='PCIe/PCIE_SW4_RXN^^^,PCIE_SW4_RXP^^^' on object PCIE_SW4_RXP_C
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_SW4_RXP_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_SW4_RXP_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='150.543780000000' on object PCIE_SW4_RXP_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_SW4_RXP_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_SW4_TXN
+Note: Orphaned constraint ECLASS='PCIe/PCIE_SW4_TXN^^^,PCIE_SW4_TXP^^^' on object PCIE_SW4_TXN
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_SW4_TXN
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_SW4_TXN
+Note: Orphaned constraint ACT_DELAY_LENGTH='2242.532598000000' on object PCIE_SW4_TXN
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_SW4_TXN
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_SW4_TXN_C
+Note: Orphaned constraint ECLASS='PCIe/PCIE_SW4_TXN^^^,PCIE_SW4_TXP^^^' on object PCIE_SW4_TXN_C
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_SW4_TXN_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_SW4_TXN_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='189.220748000000' on object PCIE_SW4_TXN_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_SW4_TXN_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_SW4_TXP
+Note: Orphaned constraint ECLASS='PCIe/PCIE_SW4_TXN^^^,PCIE_SW4_TXP^^^' on object PCIE_SW4_TXP
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_SW4_TXP
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_SW4_TXP
+Note: Orphaned constraint ACT_DELAY_LENGTH='2242.484173000000' on object PCIE_SW4_TXP
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_SW4_TXP
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_SW4_TXP_C
+Note: Orphaned constraint ECLASS='PCIe/PCIE_SW4_TXN^^^,PCIE_SW4_TXP^^^' on object PCIE_SW4_TXP_C
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_SW4_TXP_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_SW4_TXP_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='187.042087000000' on object PCIE_SW4_TXP_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_SW4_TXP_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_TXN2
+Note: Orphaned constraint ECLASS='PCIe/PCIE_TXN2^^^,PCIE_TXP2^^^' on object PCIE_TXN2
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_TXN2
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_TXN2
+Note: Orphaned constraint ACT_DELAY_LENGTH='3993.423661000000' on object PCIE_TXN2
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_TXN2
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_TXP2
+Note: Orphaned constraint ECLASS='PCIe/PCIE_TXN2^^^,PCIE_TXP2^^^' on object PCIE_TXP2
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_TXP2
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_TXP2
+Note: Orphaned constraint ACT_DELAY_LENGTH='3993.084252000000' on object PCIE_TXP2
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_TXP2
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_TXN3
+Note: Orphaned constraint ECLASS='PCIe/PCIE_TXN3^^^,PCIE_TXP3^^^' on object PCIE_TXN3
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_TXN3
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_TXN3
+Note: Orphaned constraint ACT_DELAY_LENGTH='136.889921000000' on object PCIE_TXN3
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_TXN3
+Note: Orphaned constraint ORDER_TYPE='Custom' on object PCIE_TXP3
+Note: Orphaned constraint ECLASS='PCIe/PCIE_TXN3^^^,PCIE_TXP3^^^' on object PCIE_TXP3
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object PCIE_TXP3
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object PCIE_TXP3
+Note: Orphaned constraint ACT_DELAY_LENGTH='138.098819000000' on object PCIE_TXP3
+Note: Orphaned constraint DP_TOL='5.000000000000' on object PCIE_TXP3
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_DBN3
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_DBN3^^^,CLK_PCIE_DBP3^^^' on object CLK_PCIE_DBN3
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_DBN3
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_DBN3
+Note: Orphaned constraint ACT_DELAY_LENGTH='629.351339000000' on object CLK_PCIE_DBN3
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_DBN3
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_DBN3_R
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_DBN3^^^,CLK_PCIE_DBP3^^^' on object CLK_PCIE_DBN3_R
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_DBN3_R
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_DBN3_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='50.557205000000' on object CLK_PCIE_DBN3_R
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_DBN3_R
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_DBP3
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_DBN3^^^,CLK_PCIE_DBP3^^^' on object CLK_PCIE_DBP3
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_DBP3
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_DBP3
+Note: Orphaned constraint ACT_DELAY_LENGTH='628.591811000000' on object CLK_PCIE_DBP3
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_DBP3
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_DBP3_R
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_DBN3^^^,CLK_PCIE_DBP3^^^' on object CLK_PCIE_DBP3_R
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_DBP3_R
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_DBP3_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='47.734370000000' on object CLK_PCIE_DBP3_R
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_DBP3_R
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_ETHN1
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_ETHN1^^^,CLK_PCIE_ETHP1^^^' on object CLK_PCIE_ETHN1
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_ETHN1
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_ETHN1
+Note: Orphaned constraint ACT_DELAY_LENGTH='1265.082205000000' on object CLK_PCIE_ETHN1
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_ETHN1
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_ETHN1_R
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_ETHN1^^^,CLK_PCIE_ETHP1^^^' on object CLK_PCIE_ETHN1_R
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_ETHN1_R
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_ETHN1_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='48.828425000000' on object CLK_PCIE_ETHN1_R
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_ETHN1_R
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_ETHP1
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_ETHN1^^^,CLK_PCIE_ETHP1^^^' on object CLK_PCIE_ETHP1
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_ETHP1
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_ETHP1
+Note: Orphaned constraint ACT_DELAY_LENGTH='1265.124843000000' on object CLK_PCIE_ETHP1
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_ETHP1
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_ETHP1_R
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_ETHN1^^^,CLK_PCIE_ETHP1^^^' on object CLK_PCIE_ETHP1_R
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_ETHP1_R
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_ETHP1_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='49.787283000000' on object CLK_PCIE_ETHP1_R
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_ETHP1_R
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_FPGAN5
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_FPGAN5^^^,CLK_PCIE_FPGAP5^^^' on object CLK_PCIE_FPGAN5
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_FPGAN5
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_FPGAN5
+Note: Orphaned constraint ACT_DELAY_LENGTH='2746.690354000000' on object CLK_PCIE_FPGAN5
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_FPGAN5
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_FPGAN5_R
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_FPGAN5^^^,CLK_PCIE_FPGAP5^^^' on object CLK_PCIE_FPGAN5_R
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_FPGAN5_R
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_FPGAN5_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='51.289567000000' on object CLK_PCIE_FPGAN5_R
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_FPGAN5_R
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_FPGAP5
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_FPGAN5^^^,CLK_PCIE_FPGAP5^^^' on object CLK_PCIE_FPGAP5
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_FPGAP5
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_FPGAP5
+Note: Orphaned constraint ACT_DELAY_LENGTH='2747.131457000000' on object CLK_PCIE_FPGAP5
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_FPGAP5
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_FPGAP5_R
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_FPGAN5^^^,CLK_PCIE_FPGAP5^^^' on object CLK_PCIE_FPGAP5_R
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_FPGAP5_R
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_FPGAP5_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='51.987559000000' on object CLK_PCIE_FPGAP5_R
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_FPGAP5_R
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_INN_R
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_INN^^^,CLK_PCIE_INP^^^' on object CLK_PCIE_INN_R
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_INN_R
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_INN_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='99.667874000000' on object CLK_PCIE_INN_R
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_INN_R
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_INP_R
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_INN^^^,CLK_PCIE_INP^^^' on object CLK_PCIE_INP_R
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_INP_R
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_INP_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='96.637953000000' on object CLK_PCIE_INP_R
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_INP_R
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_IOHN0_R
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_IOHN0^^^,CLK_PCIE_IOHP0^^^' on object CLK_PCIE_IOHN0_R
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_IOHN0_R
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_IOHN0_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='65.893543000000' on object CLK_PCIE_IOHN0_R
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_IOHN0_R
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_IOHP0_R
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_IOHN0^^^,CLK_PCIE_IOHP0^^^' on object CLK_PCIE_IOHP0_R
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_IOHP0_R
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_IOHP0_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='65.506339000000' on object CLK_PCIE_IOHP0_R
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_IOHP0_R
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_MININ2
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_MININ2^^^,CLK_PCIE_MINIP2^^^' on object CLK_PCIE_MININ2
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_MININ2
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_MININ2
+Note: Orphaned constraint ACT_DELAY_LENGTH='466.016142000000' on object CLK_PCIE_MININ2
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_MININ2
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_MININ2_R
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_MININ2^^^,CLK_PCIE_MINIP2^^^' on object CLK_PCIE_MININ2_R
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_MININ2_R
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_MININ2_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='101.969252000000' on object CLK_PCIE_MININ2_R
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_MININ2_R
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_MINIP2
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_MININ2^^^,CLK_PCIE_MINIP2^^^' on object CLK_PCIE_MINIP2
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_MINIP2
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_MINIP2
+Note: Orphaned constraint ACT_DELAY_LENGTH='465.899961000000' on object CLK_PCIE_MINIP2
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_MINIP2
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_MINIP2_R
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_MININ2^^^,CLK_PCIE_MINIP2^^^' on object CLK_PCIE_MINIP2_R
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_MINIP2_R
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_MINIP2_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='103.587756000000' on object CLK_PCIE_MINIP2_R
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_MINIP2_R
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_SWN2
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_SWN2^^^,CLK_PCIE_SWP2^^^' on object CLK_PCIE_SWN2
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_SWN2
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_SWN2
+Note: Orphaned constraint ACT_DELAY_LENGTH='1599.821181000000' on object CLK_PCIE_SWN2
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_SWN2
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_SWN2_C
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_SWN2^^^,CLK_PCIE_SWP2^^^' on object CLK_PCIE_SWN2_C
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_SWN2_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_SWN2_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='26.000000000000' on object CLK_PCIE_SWN2_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_SWN2_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_SWN2_R
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_SWN2^^^,CLK_PCIE_SWP2^^^' on object CLK_PCIE_SWN2_R
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_SWN2_R
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_SWN2_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='53.230315000000' on object CLK_PCIE_SWN2_R
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_SWN2_R
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_SWP2
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_SWN2^^^,CLK_PCIE_SWP2^^^' on object CLK_PCIE_SWP2
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_SWP2
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_SWP2
+Note: Orphaned constraint ACT_DELAY_LENGTH='1596.705551000000' on object CLK_PCIE_SWP2
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_SWP2
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_SWP2_C
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_SWN2^^^,CLK_PCIE_SWP2^^^' on object CLK_PCIE_SWP2_C
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_SWP2_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_SWP2_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='26.000000000000' on object CLK_PCIE_SWP2_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_SWP2_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object CLK_PCIE_SWP2_R
+Note: Orphaned constraint ECLASS='PCIe/CLK_PCIE_SWN2^^^,CLK_PCIE_SWP2^^^' on object CLK_PCIE_SWP2_R
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object CLK_PCIE_SWP2_R
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object CLK_PCIE_SWP2_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='53.390157000000' on object CLK_PCIE_SWP2_R
+Note: Orphaned constraint DP_TOL='5.000000000000' on object CLK_PCIE_SWP2_R
+Note: Orphaned constraint ECLASS='USB/USB_PN2,USB_PP2' on object USB_PN2
+Note: Orphaned constraint MAX_DELAY='6500.000000000000' on object USB_PN2
+Note: Orphaned constraint PCLASS='90 OHM DIFF_USB' on object USB_PN2
+Note: Orphaned constraint DP_TOL_LENGTH='150.000000000000' on object USB_PN2
+Note: Orphaned constraint MAX_DELAY_LENGTH='6500.000000000000' on object USB_PN2
+Note: Orphaned constraint ACT_DELAY_LENGTH='1824.423976000000' on object USB_PN2
+Note: Orphaned constraint DP_TOL='150.000000000000' on object USB_PN2
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='6500.000000000000' on object USB_PN2
+Note: Orphaned constraint ECLASS='USB/USB_PN2,USB_PP2' on object USB_PP2
+Note: Orphaned constraint MAX_DELAY='6500.000000000000' on object USB_PP2
+Note: Orphaned constraint PCLASS='90 OHM DIFF_USB' on object USB_PP2
+Note: Orphaned constraint DP_TOL_LENGTH='150.000000000000' on object USB_PP2
+Note: Orphaned constraint MAX_DELAY_LENGTH='6500.000000000000' on object USB_PP2
+Note: Orphaned constraint ACT_DELAY_LENGTH='1805.370118000000' on object USB_PP2
+Note: Orphaned constraint DP_TOL='150.000000000000' on object USB_PP2
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='6500.000000000000' on object USB_PP2
+Note: Orphaned constraint ECLASS='USB/USB_PN3,USB_PP3' on object USB_PN3
+Note: Orphaned constraint MAX_DELAY='6500.000000000000' on object USB_PN3
+Note: Orphaned constraint PCLASS='90 OHM DIFF_USB' on object USB_PN3
+Note: Orphaned constraint DP_TOL_LENGTH='150.000000000000' on object USB_PN3
+Note: Orphaned constraint MAX_DELAY_LENGTH='6500.000000000000' on object USB_PN3
+Note: Orphaned constraint ACT_DELAY_LENGTH='3075.439409000000' on object USB_PN3
+Note: Orphaned constraint DP_TOL='150.000000000000' on object USB_PN3
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='6500.000000000000' on object USB_PN3
+Note: Orphaned constraint ECLASS='USB/USB_PN3,USB_PP3' on object USB_PP3
+Note: Orphaned constraint MAX_DELAY='6500.000000000000' on object USB_PP3
+Note: Orphaned constraint PCLASS='90 OHM DIFF_USB' on object USB_PP3
+Note: Orphaned constraint DP_TOL_LENGTH='150.000000000000' on object USB_PP3
+Note: Orphaned constraint MAX_DELAY_LENGTH='6500.000000000000' on object USB_PP3
+Note: Orphaned constraint ACT_DELAY_LENGTH='3076.991535000000' on object USB_PP3
+Note: Orphaned constraint DP_TOL='150.000000000000' on object USB_PP3
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='6500.000000000000' on object USB_PP3
+Note: Orphaned constraint ECLASS='USB/USB_PN5,USB_PP5' on object USB_PN5
+Note: Orphaned constraint MAX_DELAY='4500.000000000000' on object USB_PN5
+Note: Orphaned constraint PCLASS='90 OHM DIFF_USB' on object USB_PN5
+Note: Orphaned constraint DP_TOL_LENGTH='150.000000000000' on object USB_PN5
+Note: Orphaned constraint MAX_DELAY_LENGTH='4500.000000000000' on object USB_PN5
+Note: Orphaned constraint ACT_DELAY_LENGTH='3190.062244000000' on object USB_PN5
+Note: Orphaned constraint DP_TOL='150.000000000000' on object USB_PN5
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='4500.000000000000' on object USB_PN5
+Note: Orphaned constraint ECLASS='USB/USB_PN5,USB_PP5' on object USB_PP5
+Note: Orphaned constraint MAX_DELAY='4500.000000000000' on object USB_PP5
+Note: Orphaned constraint PCLASS='90 OHM DIFF_USB' on object USB_PP5
+Note: Orphaned constraint DP_TOL_LENGTH='150.000000000000' on object USB_PP5
+Note: Orphaned constraint MAX_DELAY_LENGTH='4500.000000000000' on object USB_PP5
+Note: Orphaned constraint ACT_DELAY_LENGTH='3190.874016000000' on object USB_PP5
+Note: Orphaned constraint DP_TOL='150.000000000000' on object USB_PP5
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='4500.000000000000' on object USB_PP5
+Note: Orphaned constraint ORDER_TYPE='Custom' on object USB_PN2_L
+Note: Orphaned constraint ECLASS='USB/USB_PN2_L,USB_PP2_L' on object USB_PN2_L
+Note: Orphaned constraint PCLASS='90 OHM DIFF_USB' on object USB_PN2_L
+Note: Orphaned constraint ACT_DELAY_LENGTH='119.692441000000' on object USB_PN2_L
+Note: Orphaned constraint ORDER_TYPE='Custom' on object USB_PP2_L
+Note: Orphaned constraint ECLASS='USB/USB_PN2_L,USB_PP2_L' on object USB_PP2_L
+Note: Orphaned constraint PCLASS='90 OHM DIFF_USB' on object USB_PP2_L
+Note: Orphaned constraint ACT_DELAY_LENGTH='118.381496000000' on object USB_PP2_L
+Note: Orphaned constraint ORDER_TYPE='Custom' on object USB-DEV-FILT-DN
+Note: Orphaned constraint ECLASS='USB/USB-DEV-FILT-DN,USB-DEV-FILT-DP' on object USB-DEV-FILT-DN
+Note: Orphaned constraint PCLASS='90 OHM DIFF_USB' on object USB-DEV-FILT-DN
+Note: Orphaned constraint ACT_DELAY_LENGTH='413.466024000000' on object USB-DEV-FILT-DN
+Note: Orphaned constraint ORDER_TYPE='Custom' on object USB-DEV-FILT-DP
+Note: Orphaned constraint ECLASS='USB/USB-DEV-FILT-DN,USB-DEV-FILT-DP' on object USB-DEV-FILT-DP
+Note: Orphaned constraint PCLASS='90 OHM DIFF_USB' on object USB-DEV-FILT-DP
+Note: Orphaned constraint ACT_DELAY_LENGTH='411.770630000000' on object USB-DEV-FILT-DP
+Note: Orphaned constraint ORDER_TYPE='Custom' on object USB_DEV_DN
+Note: Orphaned constraint ECLASS='USB/USB_DEV_DN,USB_DEV_DP' on object USB_DEV_DN
+Note: Orphaned constraint MAX_DELAY='6500.000000000000' on object USB_DEV_DN
+Note: Orphaned constraint PCLASS='90 OHM DIFF_USB' on object USB_DEV_DN
+Note: Orphaned constraint DP_TOL_LENGTH='150.000000000000' on object USB_DEV_DN
+Note: Orphaned constraint MAX_DELAY_LENGTH='6500.000000000000' on object USB_DEV_DN
+Note: Orphaned constraint ACT_DELAY_LENGTH='5301.350197000000' on object USB_DEV_DN
+Note: Orphaned constraint DP_TOL='150.000000000000' on object USB_DEV_DN
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='6500.000000000000' on object USB_DEV_DN
+Note: Orphaned constraint ORDER_TYPE='Custom' on object USB_DEV_DP
+Note: Orphaned constraint ECLASS='USB/USB_DEV_DN,USB_DEV_DP' on object USB_DEV_DP
+Note: Orphaned constraint MAX_DELAY='6500.000000000000' on object USB_DEV_DP
+Note: Orphaned constraint PCLASS='90 OHM DIFF_USB' on object USB_DEV_DP
+Note: Orphaned constraint DP_TOL_LENGTH='150.000000000000' on object USB_DEV_DP
+Note: Orphaned constraint MAX_DELAY_LENGTH='6500.000000000000' on object USB_DEV_DP
+Note: Orphaned constraint ACT_DELAY_LENGTH='5349.310906000000' on object USB_DEV_DP
+Note: Orphaned constraint DP_TOL='150.000000000000' on object USB_DEV_DP
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='6500.000000000000' on object USB_DEV_DP
+Note: Orphaned constraint ECLASS='USB' on object USB-DEV-VBUS
+Note: Orphaned constraint ACT_DELAY_LENGTH='432.559764000000' on object USB-DEV-VBUS
+Note: Orphaned constraint ECLASS='USB' on object USB2_PWR_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='1003.299016000000' on object USB2_PWR_EN
+Note: Orphaned constraint ORDER_TYPE='Custom' on object SDVO_TVCLKINN
+Note: Orphaned constraint ECLASS='SDVO/SDVO_TVCLKINN,SDVO_TVCLKINP' on object SDVO_TVCLKINN
+Note: Orphaned constraint MAX_DELAY='3000.000000000000' on object SDVO_TVCLKINN
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object SDVO_TVCLKINN
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object SDVO_TVCLKINN
+Note: Orphaned constraint MAX_DELAY_LENGTH='3000.000000000000' on object SDVO_TVCLKINN
+Note: Orphaned constraint ACT_DELAY_LENGTH='1562.627480000000' on object SDVO_TVCLKINN
+Note: Orphaned constraint DP_TOL='5.000000000000' on object SDVO_TVCLKINN
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='3000.000000000000' on object SDVO_TVCLKINN
+Note: Orphaned constraint ORDER_TYPE='Custom' on object SDVO_TVCLKINP
+Note: Orphaned constraint ECLASS='SDVO/SDVO_TVCLKINN,SDVO_TVCLKINP' on object SDVO_TVCLKINP
+Note: Orphaned constraint MAX_DELAY='3000.000000000000' on object SDVO_TVCLKINP
+Note: Orphaned constraint PCLASS='80_OHM DIFF_PCIE_SDVO_DDRCLK' on object SDVO_TVCLKINP
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object SDVO_TVCLKINP
+Note: Orphaned constraint MAX_DELAY_LENGTH='3000.000000000000' on object SDVO_TVCLKINP
+Note: Orphaned constraint ACT_DELAY_LENGTH='1563.305236000000' on object SDVO_TVCLKINP
+Note: Orphaned constraint DP_TOL='5.000000000000' on object SDVO_TVCLKINP
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='3000.000000000000' on object SDVO_TVCLKINP
+Note: Orphaned constraint ECLASS='System Clocks' on object $21N422
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object $21N422
+Note: Orphaned constraint ACT_DELAY_LENGTH='79.996181000000' on object $21N422
+Note: Orphaned constraint ECLASS='System Clocks' on object $21N423
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object $21N423
+Note: Orphaned constraint ACT_DELAY_LENGTH='90.950118000000' on object $21N423
+Note: Orphaned constraint ECLASS='System Clocks' on object CLK_33.3MHZ
+Note: Orphaned constraint PCLASS='55 OHM 3:1' on object CLK_33.3MHZ
+Note: Orphaned constraint ACT_DELAY_LENGTH='6424.139921000000' on object CLK_33.3MHZ
+Note: Orphaned constraint ECLASS='System Clocks' on object $26N977
+Note: Orphaned constraint PCLASS='55 OHM 3:1' on object $26N977
+Note: Orphaned constraint ACT_DELAY_LENGTH='215.836496000000' on object $26N977
+Note: Orphaned constraint ECLASS='System Clocks' on object CLK_38.4MHZ
+Note: Orphaned constraint PCLASS='55 OHM 3:1' on object CLK_38.4MHZ
+Note: Orphaned constraint ACT_DELAY_LENGTH='160.744252000000' on object CLK_38.4MHZ
+Note: Orphaned constraint ECLASS='System Clocks' on object $22N979
+Note: Orphaned constraint PCLASS='55 OHM 3:1' on object $22N979
+Note: Orphaned constraint ACT_DELAY_LENGTH='728.345866000000' on object $22N979
+Note: Orphaned constraint ECLASS='System Clocks' on object $26N1608
+Note: Orphaned constraint PCLASS='55 OHM 3:1' on object $26N1608
+Note: Orphaned constraint ACT_DELAY_LENGTH='131.821260000000' on object $26N1608
+Note: Orphaned constraint ECLASS='System Clocks' on object $22N980
+Note: Orphaned constraint PCLASS='55 OHM 3:1' on object $22N980
+Note: Orphaned constraint ACT_DELAY_LENGTH='719.175236000000' on object $22N980
+Note: Orphaned constraint ECLASS='System Clocks' on object $26N1609
+Note: Orphaned constraint PCLASS='55 OHM 3:1' on object $26N1609
+Note: Orphaned constraint ACT_DELAY_LENGTH='132.694291000000' on object $26N1609
+Note: Orphaned constraint ECLASS='System Clocks' on object SUS_CLK
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object SUS_CLK
+Note: Orphaned constraint ACT_DELAY_LENGTH='956.146181000000' on object SUS_CLK
+Note: Orphaned constraint ORDER_TYPE='Custom' on object EXT_CLKIN_N_L
+Note: Orphaned constraint ECLASS='System Clocks/EXT_CLKIN_N_L,EXT_CLKIN_P_L' on object EXT_CLKIN_N_L
+Note: Orphaned constraint MAX_DELAY='5200.000000000000' on object EXT_CLKIN_N_L
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object EXT_CLKIN_N_L
+Note: Orphaned constraint DP_TOL_LENGTH='10.000000000000' on object EXT_CLKIN_N_L
+Note: Orphaned constraint MAX_DELAY_LENGTH='5200.000000000000' on object EXT_CLKIN_N_L
+Note: Orphaned constraint ACT_DELAY_LENGTH='216.820551000000' on object EXT_CLKIN_N_L
+Note: Orphaned constraint DP_TOL='10.000000000000' on object EXT_CLKIN_N_L
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='5200.000000000000' on object EXT_CLKIN_N_L
+Note: Orphaned constraint ORDER_TYPE='Custom' on object EXT_CLKIN_P_L
+Note: Orphaned constraint ECLASS='System Clocks/EXT_CLKIN_N_L,EXT_CLKIN_P_L' on object EXT_CLKIN_P_L
+Note: Orphaned constraint MAX_DELAY='5200.000000000000' on object EXT_CLKIN_P_L
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object EXT_CLKIN_P_L
+Note: Orphaned constraint DP_TOL_LENGTH='10.000000000000' on object EXT_CLKIN_P_L
+Note: Orphaned constraint MAX_DELAY_LENGTH='5200.000000000000' on object EXT_CLKIN_P_L
+Note: Orphaned constraint ACT_DELAY_LENGTH='220.558504000000' on object EXT_CLKIN_P_L
+Note: Orphaned constraint DP_TOL='10.000000000000' on object EXT_CLKIN_P_L
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='5200.000000000000' on object EXT_CLKIN_P_L
+Note: Orphaned constraint ORDER_TYPE='Custom' on object EXT_CLKIN_N
+Note: Orphaned constraint ECLASS='System Clocks/EXT_CLKIN_N,EXT_CLKIN_P' on object EXT_CLKIN_N
+Note: Orphaned constraint MAX_DELAY='5200.000000000000' on object EXT_CLKIN_N
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object EXT_CLKIN_N
+Note: Orphaned constraint DP_TOL_LENGTH='10.000000000000' on object EXT_CLKIN_N
+Note: Orphaned constraint MAX_DELAY_LENGTH='5200.000000000000' on object EXT_CLKIN_N
+Note: Orphaned constraint ACT_DELAY_LENGTH='1843.240039000000' on object EXT_CLKIN_N
+Note: Orphaned constraint DP_TOL='10.000000000000' on object EXT_CLKIN_N
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='5200.000000000000' on object EXT_CLKIN_N
+Note: Orphaned constraint ORDER_TYPE='Custom' on object EXT_CLKOUT_N_L
+Note: Orphaned constraint ECLASS='System Clocks/EXT_CLKOUT_N_L,EXT_CLKOUT_P_L' on object EXT_CLKOUT_N_L
+Note: Orphaned constraint MAX_DELAY='5200.000000000000' on object EXT_CLKOUT_N_L
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object EXT_CLKOUT_N_L
+Note: Orphaned constraint DP_TOL_LENGTH='10.000000000000' on object EXT_CLKOUT_N_L
+Note: Orphaned constraint MAX_DELAY_LENGTH='5200.000000000000' on object EXT_CLKOUT_N_L
+Note: Orphaned constraint ACT_DELAY_LENGTH='217.234764000000' on object EXT_CLKOUT_N_L
+Note: Orphaned constraint DP_TOL='10.000000000000' on object EXT_CLKOUT_N_L
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='5200.000000000000' on object EXT_CLKOUT_N_L
+Note: Orphaned constraint ORDER_TYPE='Custom' on object EXT_CLKOUT_P_L
+Note: Orphaned constraint ECLASS='System Clocks/EXT_CLKOUT_N_L,EXT_CLKOUT_P_L' on object EXT_CLKOUT_P_L
+Note: Orphaned constraint MAX_DELAY='5200.000000000000' on object EXT_CLKOUT_P_L
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object EXT_CLKOUT_P_L
+Note: Orphaned constraint DP_TOL_LENGTH='10.000000000000' on object EXT_CLKOUT_P_L
+Note: Orphaned constraint MAX_DELAY_LENGTH='5200.000000000000' on object EXT_CLKOUT_P_L
+Note: Orphaned constraint ACT_DELAY_LENGTH='217.812598000000' on object EXT_CLKOUT_P_L
+Note: Orphaned constraint DP_TOL='10.000000000000' on object EXT_CLKOUT_P_L
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='5200.000000000000' on object EXT_CLKOUT_P_L
+Note: Orphaned constraint ORDER_TYPE='Custom' on object EXT_CLKOUT_N
+Note: Orphaned constraint ECLASS='System Clocks/EXT_CLKOUT_N,EXT_CLKOUT_P' on object EXT_CLKOUT_N
+Note: Orphaned constraint MAX_DELAY='5200.000000000000' on object EXT_CLKOUT_N
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object EXT_CLKOUT_N
+Note: Orphaned constraint DP_TOL_LENGTH='10.000000000000' on object EXT_CLKOUT_N
+Note: Orphaned constraint MAX_DELAY_LENGTH='5200.000000000000' on object EXT_CLKOUT_N
+Note: Orphaned constraint ACT_DELAY_LENGTH='1665.539724000000' on object EXT_CLKOUT_N
+Note: Orphaned constraint DP_TOL='10.000000000000' on object EXT_CLKOUT_N
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='5200.000000000000' on object EXT_CLKOUT_N
+Note: Orphaned constraint ORDER_TYPE='Custom' on object EXT_CLKOUT_P
+Note: Orphaned constraint ECLASS='System Clocks/EXT_CLKOUT_N,EXT_CLKOUT_P' on object EXT_CLKOUT_P
+Note: Orphaned constraint MAX_DELAY='5200.000000000000' on object EXT_CLKOUT_P
+Note: Orphaned constraint PCLASS='97 OHM DIFF_MISC' on object EXT_CLKOUT_P
+Note: Orphaned constraint DP_TOL_LENGTH='10.000000000000' on object EXT_CLKOUT_P
+Note: Orphaned constraint MAX_DELAY_LENGTH='5200.000000000000' on object EXT_CLKOUT_P
+Note: Orphaned constraint ACT_DELAY_LENGTH='1663.896181000000' on object EXT_CLKOUT_P
+Note: Orphaned constraint DP_TOL='10.000000000000' on object EXT_CLKOUT_P
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='5200.000000000000' on object EXT_CLKOUT_P
+Note: Orphaned constraint ECLASS='Power' on object +5VS_SATA
+Note: Orphaned constraint PCLASS='Power' on object +5VS_SATA
+Note: Orphaned constraint ACT_DELAY_LENGTH='751.171614000000' on object +5VS_SATA
+Note: Orphaned constraint ECLASS='Power' on object $33N438
+Note: Orphaned constraint PCLASS='Power' on object $33N438
+Note: Orphaned constraint ACT_DELAY_LENGTH='528.916732000000' on object $33N438
+Note: Orphaned constraint ECLASS='Power' on object $33N494
+Note: Orphaned constraint PCLASS='Power' on object $33N494
+Note: Orphaned constraint ACT_DELAY_LENGTH='63.172205000000' on object $33N494
+Note: Orphaned constraint ECLASS='Power' on object +V1.0A
+Note: Orphaned constraint PCLASS='Power' on object +V1.0A
+Note: Orphaned constraint ACT_DELAY_LENGTH='2634.732953000000' on object +V1.0A
+Note: Orphaned constraint ECLASS='Power' on object +V1.0A_SENSE
+Note: Orphaned constraint PCLASS='Power' on object +V1.0A_SENSE
+Note: Orphaned constraint ACT_DELAY_LENGTH='416.447874000000' on object +V1.0A_SENSE
+Note: Orphaned constraint ECLASS='Power' on object $32N314
+Note: Orphaned constraint PCLASS='Power' on object $32N314
+Note: Orphaned constraint ACT_DELAY_LENGTH='75.891496000000' on object $32N314
+Note: Orphaned constraint ECLASS='Power' on object $32N546
+Note: Orphaned constraint PCLASS='Power' on object $32N546
+Note: Orphaned constraint ACT_DELAY_LENGTH='110.159685000000' on object $32N546
+Note: Orphaned constraint ECLASS='Power' on object VNN_VID5
+Note: Orphaned constraint PCLASS='Power' on object VNN_VID5
+Note: Orphaned constraint ACT_DELAY_LENGTH='111.033228000000' on object VNN_VID5
+Note: Orphaned constraint ECLASS='Power' on object +V1.2A_VCCD_PLL
+Note: Orphaned constraint PCLASS='Power' on object +V1.2A_VCCD_PLL
+Note: Orphaned constraint ACT_DELAY_LENGTH='331.967480000000' on object +V1.2A_VCCD_PLL
+Note: Orphaned constraint ECLASS='Power' on object +V1.2A_VCCL_GXB
+Note: Orphaned constraint PCLASS='Power' on object +V1.2A_VCCL_GXB
+Note: Orphaned constraint ACT_DELAY_LENGTH='354.814882000000' on object +V1.2A_VCCL_GXB
+Note: Orphaned constraint ECLASS='Power' on object +V1.5S_MINIPCIE
+Note: Orphaned constraint PCLASS='Power' on object +V1.5S_MINIPCIE
+Note: Orphaned constraint ACT_DELAY_LENGTH='435.199685000000' on object +V1.5S_MINIPCIE
+Note: Orphaned constraint ECLASS='Power' on object $32N278
+Note: Orphaned constraint PCLASS='Power' on object $32N278
+Note: Orphaned constraint ACT_DELAY_LENGTH='68.834882000000' on object $32N278
+Note: Orphaned constraint ECLASS='Power' on object +V1.9_CT_ETH1
+Note: Orphaned constraint PCLASS='Power' on object +V1.9_CT_ETH1
+Note: Orphaned constraint ACT_DELAY_LENGTH='202.320709000000' on object +V1.9_CT_ETH1
+Note: Orphaned constraint ECLASS='Power' on object +V2.5A
+Note: Orphaned constraint PCLASS='Power' on object +V2.5A
+Note: Orphaned constraint ACT_DELAY_LENGTH='2787.678819000000' on object +V2.5A
+Note: Orphaned constraint ECLASS='Power' on object +V2.5A_PCIESW
+Note: Orphaned constraint PCLASS='Power' on object +V2.5A_PCIESW
+Note: Orphaned constraint ACT_DELAY_LENGTH='982.377756000000' on object +V2.5A_PCIESW
+Note: Orphaned constraint ECLASS='Power' on object +V2.5A_VCCA
+Note: Orphaned constraint PCLASS='Power' on object +V2.5A_VCCA
+Note: Orphaned constraint ACT_DELAY_LENGTH='305.875669000000' on object +V2.5A_VCCA
+Note: Orphaned constraint ECLASS='Power' on object +V2.5A_VCCX_GXB
+Note: Orphaned constraint PCLASS='Power' on object +V2.5A_VCCX_GXB
+Note: Orphaned constraint ACT_DELAY_LENGTH='293.608228000000' on object +V2.5A_VCCX_GXB
+Note: Orphaned constraint ECLASS='Power' on object PM_1.05_PWRGD
+Note: Orphaned constraint PCLASS='Power' on object PM_1.05_PWRGD
+Note: Orphaned constraint ACT_DELAY_LENGTH='1181.761063000000' on object PM_1.05_PWRGD
+Note: Orphaned constraint ECLASS='Power' on object PM_1.5S_PWRGD
+Note: Orphaned constraint PCLASS='Power' on object PM_1.5S_PWRGD
+Note: Orphaned constraint ACT_DELAY_LENGTH='5112.336063000000' on object PM_1.5S_PWRGD
+Note: Orphaned constraint ECLASS='Power' on object +V3.3A
+Note: Orphaned constraint PCLASS='Power' on object +V3.3A
+Note: Orphaned constraint ACT_DELAY_LENGTH='6897.902205000000' on object +V3.3A
+Note: Orphaned constraint ECLASS='Power' on object $24N598
+Note: Orphaned constraint PCLASS='Power' on object $24N598
+Note: Orphaned constraint ACT_DELAY_LENGTH='289.426850000000' on object $24N598
+Note: Orphaned constraint ECLASS='Power' on object +V3.3S
+Note: Orphaned constraint PCLASS='Power' on object +V3.3S
+Note: Orphaned constraint ACT_DELAY_LENGTH='4659.108504000001' on object +V3.3S
+Note: Orphaned constraint ECLASS='Power' on object +V3.3S_CLKBUF2_VDDA
+Note: Orphaned constraint PCLASS='Power' on object +V3.3S_CLKBUF2_VDDA
+Note: Orphaned constraint ACT_DELAY_LENGTH='0.000000000000' on object +V3.3S_CLKBUF2_VDDA
+Note: Orphaned constraint ECLASS='Power' on object +V3.3S_CLKBUF2_VDDIO
+Note: Orphaned constraint PCLASS='Power' on object +V3.3S_CLKBUF2_VDDIO
+Note: Orphaned constraint ACT_DELAY_LENGTH='364.888110000000' on object +V3.3S_CLKBUF2_VDDIO
+Note: Orphaned constraint ECLASS='Power' on object +V5_USB2
+Note: Orphaned constraint PCLASS='Power' on object +V5_USB2
+Note: Orphaned constraint ACT_DELAY_LENGTH='269.902913000000' on object +V5_USB2
+Note: Orphaned constraint ECLASS='Power' on object +V5A
+Note: Orphaned constraint PCLASS='Power' on object +V5A
+Note: Orphaned constraint ACT_DELAY_LENGTH='3389.586693000000' on object +V5A
+Note: Orphaned constraint ECLASS='Power' on object +V12A_UNFLT
+Note: Orphaned constraint PCLASS='Power' on object +V12A_UNFLT
+Note: Orphaned constraint ACT_DELAY_LENGTH='365.042205000000' on object +V12A_UNFLT
+Note: Orphaned constraint ECLASS='Power' on object $30N205
+Note: Orphaned constraint ACT_DELAY_LENGTH='162.546732000000' on object $30N205
+Note: Orphaned constraint ECLASS='Power' on object +VCC_CORE
+Note: Orphaned constraint PCLASS='Power' on object +VCC_CORE
+Note: Orphaned constraint ACT_DELAY_LENGTH='3591.349724000000' on object +VCC_CORE
+Note: Orphaned constraint ECLASS='Power' on object VCC_BOOST
+Note: Orphaned constraint ACT_DELAY_LENGTH='115.722008000000' on object VCC_BOOST
+Note: Orphaned constraint ECLASS='Power' on object VCC_SENSE_P
+Note: Orphaned constraint ACT_DELAY_LENGTH='1375.041929000000' on object VCC_SENSE_P
+Note: Orphaned constraint ECLASS='Power' on object VCC_SWITCH
+Note: Orphaned constraint PCLASS='Power' on object VCC_SWITCH
+Note: Orphaned constraint ACT_DELAY_LENGTH='664.340906000000' on object VCC_SWITCH
+Note: Orphaned constraint ECLASS='Power' on object $31N699
+Note: Orphaned constraint ACT_DELAY_LENGTH='77.467795000000' on object $31N699
+Note: Orphaned constraint ECLASS='Power' on object +VNN_CORE
+Note: Orphaned constraint PCLASS='Power' on object +VNN_CORE
+Note: Orphaned constraint ACT_DELAY_LENGTH='2684.411614000000' on object +VNN_CORE
+Note: Orphaned constraint ECLASS='Power' on object VNN_BOOST
+Note: Orphaned constraint ACT_DELAY_LENGTH='67.086614000000' on object VNN_BOOST
+Note: Orphaned constraint ECLASS='Power' on object VNN_SENSE_P
+Note: Orphaned constraint ACT_DELAY_LENGTH='832.099016000000' on object VNN_SENSE_P
+Note: Orphaned constraint ECLASS='Power' on object VNN_SWITCH
+Note: Orphaned constraint PCLASS='Power' on object VNN_SWITCH
+Note: Orphaned constraint ACT_DELAY_LENGTH='510.078150000000' on object VNN_SWITCH
+Note: Orphaned constraint ECLASS='Power Management' on object PM_1.0A_PWRGD
+Note: Orphaned constraint ACT_DELAY_LENGTH='1299.270748000000' on object PM_1.0A_PWRGD
+Note: Orphaned constraint ECLASS='Power Management' on object PM_1.2A_PWRGD
+Note: Orphaned constraint ACT_DELAY_LENGTH='1988.244646000000' on object PM_1.2A_PWRGD
+Note: Orphaned constraint ECLASS='Power Management' on object PM_1.05_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='1193.770118000000' on object PM_1.05_EN
+Note: Orphaned constraint ECLASS='Power Management' on object PM_1.05S_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='3186.752441000000' on object PM_1.05S_EN
+Note: Orphaned constraint ECLASS='Power Management' on object PM_1.5S_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='3430.787441000000' on object PM_1.5S_EN
+Note: Orphaned constraint ECLASS='Power Management' on object PM_1.05S_PWRGD
+Note: Orphaned constraint ACT_DELAY_LENGTH='2930.671811000000' on object PM_1.05S_PWRGD
+Note: Orphaned constraint ECLASS='Power Management' on object $18N600
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object $18N600
+Note: Orphaned constraint ACT_DELAY_LENGTH='149.106654000000' on object $18N600
+Note: Orphaned constraint ECLASS='Power Management' on object PM_BUF_RST#
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object PM_BUF_RST#
+Note: Orphaned constraint ACT_DELAY_LENGTH='5348.162638000001' on object PM_BUF_RST#
+Note: Orphaned constraint ECLASS='Power Management' on object $20N219
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object $20N219
+Note: Orphaned constraint ACT_DELAY_LENGTH='60.593898000000' on object $20N219
+Note: Orphaned constraint ECLASS='Power Management' on object PM_DDR_PWRGD
+Note: Orphaned constraint ACT_DELAY_LENGTH='3038.420709000000' on object PM_DDR_PWRGD
+Note: Orphaned constraint ECLASS='Power Management' on object PM_DDR_VTT_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='2806.512283000000' on object PM_DDR_VTT_EN
+Note: Orphaned constraint ECLASS='Power Management' on object $18N756
+Note: Orphaned constraint ACT_DELAY_LENGTH='725.856850000000' on object $18N756
+Note: Orphaned constraint ECLASS='Power Management' on object PM_HIGHZ#_3V3
+Note: Orphaned constraint ACT_DELAY_LENGTH='674.457717000000' on object PM_HIGHZ#_3V3
+Note: Orphaned constraint ECLASS='Power Management' on object PM_PROCHOT_3P3
+Note: Orphaned constraint ACT_DELAY_LENGTH='1950.803543000000' on object PM_PROCHOT_3P3
+Note: Orphaned constraint ECLASS='Power Management' on object PM_RST#_R
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object PM_RST#_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='86.374882000000' on object PM_RST#_R
+Note: Orphaned constraint ECLASS='Power Management' on object PM_SLP_S3_DB
+Note: Orphaned constraint ACT_DELAY_LENGTH='3298.116535000000' on object PM_SLP_S3_DB
+Note: Orphaned constraint ECLASS='Power Management' on object PM_SRC_PWRGD
+Note: Orphaned constraint ACT_DELAY_LENGTH='2059.225315000000' on object PM_SRC_PWRGD
+Note: Orphaned constraint ECLASS='Power Management' on object PM_THRMTRIP#_3P3
+Note: Orphaned constraint ACT_DELAY_LENGTH='2757.129803000000' on object PM_THRMTRIP#_3P3
+Note: Orphaned constraint ECLASS='Power Management' on object PM_V1.2A_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='2512.537165000000' on object PM_V1.2A_EN
+Note: Orphaned constraint ECLASS='Power Management' on object PM_V3.3_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='1802.515433000000' on object PM_V3.3_EN
+Note: Orphaned constraint ECLASS='Power Management' on object PM_V3.3S_EN
+Note: Orphaned constraint ACT_DELAY_LENGTH='1394.437598000000' on object PM_V3.3S_EN
+Note: Orphaned constraint ECLASS='Power Management' on object PM_V5A_V3.3A_PWRGD
+Note: Orphaned constraint ACT_DELAY_LENGTH='3112.907165000000' on object PM_V5A_V3.3A_PWRGD
+Note: Orphaned constraint ECLASS='Power Management' on object PM_VCC_PWRGD
+Note: Orphaned constraint ACT_DELAY_LENGTH='2195.810276000000' on object PM_VCC_PWRGD
+Note: Orphaned constraint ECLASS='Power Management' on object PM_VNN_PWRGD
+Note: Orphaned constraint ACT_DELAY_LENGTH='1380.370197000000' on object PM_VNN_PWRGD
+Note: Orphaned constraint ECLASS='UART' on object RS232-CTS
+Note: Orphaned constraint ACT_DELAY_LENGTH='1027.232677000000' on object RS232-CTS
+Note: Orphaned constraint ECLASS='UART' on object RS232-RTS
+Note: Orphaned constraint ACT_DELAY_LENGTH='921.186378000000' on object RS232-RTS
+Note: Orphaned constraint ECLASS='UART' on object RS232-RXD
+Note: Orphaned constraint ACT_DELAY_LENGTH='813.531693000000' on object RS232-RXD
+Note: Orphaned constraint ECLASS='UART' on object RS232-TXD
+Note: Orphaned constraint ACT_DELAY_LENGTH='912.620512000000' on object RS232-TXD
+Note: Orphaned constraint ECLASS='Ethernet/MDI/TRD00N,TRD00P' on object TRD00N
+Note: Orphaned constraint PCLASS='97 OHM DIFF_Eth' on object TRD00N
+Note: Orphaned constraint DP_TOL_LENGTH='50.000000000000' on object TRD00N
+Note: Orphaned constraint ACT_DELAY_LENGTH='1736.623661000000' on object TRD00N
+Note: Orphaned constraint DP_TOL='50.000000000000' on object TRD00N
+Note: Orphaned constraint ECLASS='Ethernet/MDI/TRD00N,TRD00P' on object TRD00P
+Note: Orphaned constraint PCLASS='97 OHM DIFF_Eth' on object TRD00P
+Note: Orphaned constraint DP_TOL_LENGTH='50.000000000000' on object TRD00P
+Note: Orphaned constraint ACT_DELAY_LENGTH='1782.592362000000' on object TRD00P
+Note: Orphaned constraint DP_TOL='50.000000000000' on object TRD00P
+Note: Orphaned constraint ECLASS='Ethernet/MDI/TRD01N,TRD01P' on object TRD01N
+Note: Orphaned constraint PCLASS='97 OHM DIFF_Eth' on object TRD01N
+Note: Orphaned constraint DP_TOL_LENGTH='50.000000000000' on object TRD01N
+Note: Orphaned constraint ACT_DELAY_LENGTH='1422.255748000000' on object TRD01N
+Note: Orphaned constraint DP_TOL='50.000000000000' on object TRD01N
+Note: Orphaned constraint ECLASS='Ethernet/MDI/TRD01N,TRD01P' on object TRD01P
+Note: Orphaned constraint PCLASS='97 OHM DIFF_Eth' on object TRD01P
+Note: Orphaned constraint DP_TOL_LENGTH='50.000000000000' on object TRD01P
+Note: Orphaned constraint ACT_DELAY_LENGTH='1418.525394000000' on object TRD01P
+Note: Orphaned constraint DP_TOL='50.000000000000' on object TRD01P
+Note: Orphaned constraint ECLASS='Ethernet/MDI/TRD02N,TRD02P' on object TRD02N
+Note: Orphaned constraint PCLASS='97 OHM DIFF_Eth' on object TRD02N
+Note: Orphaned constraint DP_TOL_LENGTH='50.000000000000' on object TRD02N
+Note: Orphaned constraint ACT_DELAY_LENGTH='2128.396063000000' on object TRD02N
+Note: Orphaned constraint DP_TOL='50.000000000000' on object TRD02N
+Note: Orphaned constraint ECLASS='Ethernet/MDI/TRD02N,TRD02P' on object TRD02P
+Note: Orphaned constraint PCLASS='97 OHM DIFF_Eth' on object TRD02P
+Note: Orphaned constraint DP_TOL_LENGTH='50.000000000000' on object TRD02P
+Note: Orphaned constraint ACT_DELAY_LENGTH='2165.740315000000' on object TRD02P
+Note: Orphaned constraint DP_TOL='50.000000000000' on object TRD02P
+Note: Orphaned constraint ECLASS='Ethernet/MDI/TRD03N,TRD03P' on object TRD03N
+Note: Orphaned constraint PCLASS='97 OHM DIFF_Eth' on object TRD03N
+Note: Orphaned constraint DP_TOL_LENGTH='50.000000000000' on object TRD03N
+Note: Orphaned constraint ACT_DELAY_LENGTH='1517.563740000000' on object TRD03N
+Note: Orphaned constraint DP_TOL='50.000000000000' on object TRD03N
+Note: Orphaned constraint ECLASS='Ethernet/MDI/TRD03N,TRD03P' on object TRD03P
+Note: Orphaned constraint PCLASS='97 OHM DIFF_Eth' on object TRD03P
+Note: Orphaned constraint DP_TOL_LENGTH='50.000000000000' on object TRD03P
+Note: Orphaned constraint ACT_DELAY_LENGTH='1521.583150000000' on object TRD03P
+Note: Orphaned constraint DP_TOL='50.000000000000' on object TRD03P
+Note: Orphaned constraint ECLASS='Ethernet/RGMII' on object IOH_MII_MDC
+Note: Orphaned constraint PCLASS='55 OHM 3:1' on object IOH_MII_MDC
+Note: Orphaned constraint ACT_DELAY_LENGTH='4934.377953000000' on object IOH_MII_MDC
+Note: Orphaned constraint ECLASS='Ethernet/RGMII' on object $26N1372
+Note: Orphaned constraint MAX_DELAY='500.000000000000' on object $26N1372
+Note: Orphaned constraint PCLASS='55 OHM 3:1' on object $26N1372
+Note: Orphaned constraint MAX_DELAY_LENGTH='500.000000000000' on object $26N1372
+Note: Orphaned constraint ACT_DELAY_LENGTH='223.893661000000' on object $26N1372
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='500.000000000000' on object $26N1372
+Note: Orphaned constraint ECLASS='Ethernet/RGMII' on object IOH_MII_RXD0_R
+Note: Orphaned constraint MAX_DELAY='500.000000000000' on object IOH_MII_RXD0_R
+Note: Orphaned constraint MAX_DELAY_LENGTH='500.000000000000' on object IOH_MII_RXD0_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='256.569528000000' on object IOH_MII_RXD0_R
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='500.000000000000' on object IOH_MII_RXD0_R
+Note: Orphaned constraint ECLASS='Ethernet/RGMII' on object IOH_MII_RXD1_R
+Note: Orphaned constraint MAX_DELAY='500.000000000000' on object IOH_MII_RXD1_R
+Note: Orphaned constraint MAX_DELAY_LENGTH='500.000000000000' on object IOH_MII_RXD1_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='214.781811000000' on object IOH_MII_RXD1_R
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='500.000000000000' on object IOH_MII_RXD1_R
+Note: Orphaned constraint ECLASS='Ethernet/RGMII' on object IOH_MII_RXD2_R
+Note: Orphaned constraint MAX_DELAY='500.000000000000' on object IOH_MII_RXD2_R
+Note: Orphaned constraint MAX_DELAY_LENGTH='500.000000000000' on object IOH_MII_RXD2_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='165.362992000000' on object IOH_MII_RXD2_R
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='500.000000000000' on object IOH_MII_RXD2_R
+Note: Orphaned constraint ECLASS='Ethernet/RGMII' on object IOH_MII_RXD3_R
+Note: Orphaned constraint MAX_DELAY='500.000000000000' on object IOH_MII_RXD3_R
+Note: Orphaned constraint MAX_DELAY_LENGTH='500.000000000000' on object IOH_MII_RXD3_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='124.429528000000' on object IOH_MII_RXD3_R
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='500.000000000000' on object IOH_MII_RXD3_R
+Note: Orphaned constraint ECLASS='Ethernet/RGMII' on object IOH_MII_RXDV-CRS_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='387.610079000000' on object IOH_MII_RXDV-CRS_R
+Note: Orphaned constraint ECLASS='Ethernet/RGMII' on object IOH_MII_TXD0
+Note: Orphaned constraint MAX_DELAY='2100.000000000000' on object IOH_MII_TXD0
+Note: Orphaned constraint MAX_DELAY_LENGTH='2100.000000000000' on object IOH_MII_TXD0
+Note: Orphaned constraint ACT_DELAY_LENGTH='4903.565079000000' on object IOH_MII_TXD0
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='2100.000000000000' on object IOH_MII_TXD0
+Note: Orphaned constraint ECLASS='Ethernet/RGMII' on object IOH_MII_TXD1
+Note: Orphaned constraint MAX_DELAY='2100.000000000000' on object IOH_MII_TXD1
+Note: Orphaned constraint MAX_DELAY_LENGTH='2100.000000000000' on object IOH_MII_TXD1
+Note: Orphaned constraint ACT_DELAY_LENGTH='4863.896535000000' on object IOH_MII_TXD1
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='2100.000000000000' on object IOH_MII_TXD1
+Note: Orphaned constraint ECLASS='Ethernet/RGMII' on object IOH_MII_TXD2
+Note: Orphaned constraint MAX_DELAY='2100.000000000000' on object IOH_MII_TXD2
+Note: Orphaned constraint MAX_DELAY_LENGTH='2100.000000000000' on object IOH_MII_TXD2
+Note: Orphaned constraint ACT_DELAY_LENGTH='5037.697874000000' on object IOH_MII_TXD2
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='2100.000000000000' on object IOH_MII_TXD2
+Note: Orphaned constraint ECLASS='Ethernet/RGMII' on object IOH_MII_TXD3
+Note: Orphaned constraint MAX_DELAY='2100.000000000000' on object IOH_MII_TXD3
+Note: Orphaned constraint MAX_DELAY_LENGTH='2100.000000000000' on object IOH_MII_TXD3
+Note: Orphaned constraint ACT_DELAY_LENGTH='4903.567598000000' on object IOH_MII_TXD3
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='2100.000000000000' on object IOH_MII_TXD3
+Note: Orphaned constraint ECLASS='Ethernet/RGMII' on object IOH_MII_TXEN
+Note: Orphaned constraint ACT_DELAY_LENGTH='5052.623189000000' on object IOH_MII_TXEN
+Note: Orphaned constraint ECLASS='Ethernet/RGMII' on object $10N533
+Note: Orphaned constraint ACT_DELAY_LENGTH='4274.204882000000' on object $10N533
+Note: Orphaned constraint ECLASS='Ethernet/RGMII' on object IOH_MII_TXER
+Note: Orphaned constraint ACT_DELAY_LENGTH='223.257480000000' on object IOH_MII_TXER
+Note: Orphaned constraint ECLASS='Ethernet/RGMII' on object IOH_RGMII_TXCLKO
+Note: Orphaned constraint MAX_DELAY='2100.000000000000' on object IOH_RGMII_TXCLKO
+Note: Orphaned constraint PCLASS='55 OHM 3:1' on object IOH_RGMII_TXCLKO
+Note: Orphaned constraint MAX_DELAY_LENGTH='2100.000000000000' on object IOH_RGMII_TXCLKO
+Note: Orphaned constraint ACT_DELAY_LENGTH='4963.031260000001' on object IOH_RGMII_TXCLKO
+Note: Orphaned constraint MAX_DELAY_LENGTH_SWITCH='2100.000000000000' on object IOH_RGMII_TXCLKO
+Note: Orphaned constraint ECLASS='XDP' on object XDP_DBRESET#
+Note: Orphaned constraint ACT_DELAY_LENGTH='4609.930630000000' on object XDP_DBRESET#
+Note: Orphaned constraint ORDER_TYPE='Custom' on object SATA0_RXN_C
+Note: Orphaned constraint ECLASS='SATA/SATA0_RXN^^^,SATA0_RXP^^^' on object SATA0_RXN_C
+Note: Orphaned constraint PCLASS='97 OHM DIFF_SATA' on object SATA0_RXN_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object SATA0_RXN_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='116.970551000000' on object SATA0_RXN_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object SATA0_RXN_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object SATA0_RXP_C
+Note: Orphaned constraint ECLASS='SATA/SATA0_RXN^^^,SATA0_RXP^^^' on object SATA0_RXP_C
+Note: Orphaned constraint PCLASS='97 OHM DIFF_SATA' on object SATA0_RXP_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object SATA0_RXP_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='116.970551000000' on object SATA0_RXP_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object SATA0_RXP_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object SATA0_TXN_C
+Note: Orphaned constraint ECLASS='SATA/SATA0_TXN^^^,SATA0_TXP^^^' on object SATA0_TXN_C
+Note: Orphaned constraint PCLASS='97 OHM DIFF_SATA' on object SATA0_TXN_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object SATA0_TXN_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='116.970551000000' on object SATA0_TXN_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object SATA0_TXN_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object SATA0_TXP_C
+Note: Orphaned constraint ECLASS='SATA/SATA0_TXN^^^,SATA0_TXP^^^' on object SATA0_TXP_C
+Note: Orphaned constraint PCLASS='97 OHM DIFF_SATA' on object SATA0_TXP_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object SATA0_TXP_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='115.970551000000' on object SATA0_TXP_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object SATA0_TXP_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object SATA1_RXN_C
+Note: Orphaned constraint ECLASS='SATA/SATA1_RXN^^^,SATA1_RXP^^^' on object SATA1_RXN_C
+Note: Orphaned constraint PCLASS='97 OHM DIFF_SATA' on object SATA1_RXN_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object SATA1_RXN_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='49.000000000000' on object SATA1_RXN_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object SATA1_RXN_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object SATA1_RXP_C
+Note: Orphaned constraint ECLASS='SATA/SATA1_RXN^^^,SATA1_RXP^^^' on object SATA1_RXP_C
+Note: Orphaned constraint PCLASS='97 OHM DIFF_SATA' on object SATA1_RXP_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object SATA1_RXP_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='49.000000000000' on object SATA1_RXP_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object SATA1_RXP_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object SATA1_TXN_C
+Note: Orphaned constraint ECLASS='SATA/SATA1_TXN^^^,SATA1_TXP^^^' on object SATA1_TXN_C
+Note: Orphaned constraint PCLASS='97 OHM DIFF_SATA' on object SATA1_TXN_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object SATA1_TXN_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='49.000000000000' on object SATA1_TXN_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object SATA1_TXN_C
+Note: Orphaned constraint ORDER_TYPE='Custom' on object SATA1_TXP_C
+Note: Orphaned constraint ECLASS='SATA/SATA1_TXN^^^,SATA1_TXP^^^' on object SATA1_TXP_C
+Note: Orphaned constraint PCLASS='97 OHM DIFF_SATA' on object SATA1_TXP_C
+Note: Orphaned constraint DP_TOL_LENGTH='5.000000000000' on object SATA1_TXP_C
+Note: Orphaned constraint ACT_DELAY_LENGTH='49.000000000000' on object SATA1_TXP_C
+Note: Orphaned constraint DP_TOL='5.000000000000' on object SATA1_TXP_C
+Note: Orphaned constraint ECLASS='Reset' on object PWR_BTN#
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object PWR_BTN#
+Note: Orphaned constraint ACT_DELAY_LENGTH='1145.787913000000' on object PWR_BTN#
+Note: Orphaned constraint ECLASS='Reset' on object RST_BTN#
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object RST_BTN#
+Note: Orphaned constraint ACT_DELAY_LENGTH='1060.941969000000' on object RST_BTN#
+Note: Orphaned constraint ECLASS='SPI' on object EPCS_ASD0
+Note: Orphaned constraint ACT_DELAY_LENGTH='828.312205000000' on object EPCS_ASD0
+Note: Orphaned constraint ECLASS='SPI' on object EPCS_D0
+Note: Orphaned constraint ACT_DELAY_LENGTH='685.317874000000' on object EPCS_D0
+Note: Orphaned constraint ECLASS='SPI' on object EPCS_DCLK
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object EPCS_DCLK
+Note: Orphaned constraint ACT_DELAY_LENGTH='216.177323000000' on object EPCS_DCLK
+Note: Orphaned constraint ECLASS='SPI' on object EPCS_DCLK_R
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object EPCS_DCLK_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='699.467165000000' on object EPCS_DCLK_R
+Note: Orphaned constraint ECLASS='SPI' on object PEX_EE_CS#
+Note: Orphaned constraint ACT_DELAY_LENGTH='285.980315000000' on object PEX_EE_CS#
+Note: Orphaned constraint ECLASS='SPI' on object PEX_EE_DI
+Note: Orphaned constraint ACT_DELAY_LENGTH='353.953110000000' on object PEX_EE_DI
+Note: Orphaned constraint ECLASS='SPI' on object PEX_EE_DO
+Note: Orphaned constraint ACT_DELAY_LENGTH='358.410118000000' on object PEX_EE_DO
+Note: Orphaned constraint ECLASS='SPI' on object PEX_EE_SCLK
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object PEX_EE_SCLK
+Note: Orphaned constraint ACT_DELAY_LENGTH='194.772717000000' on object PEX_EE_SCLK
+Note: Orphaned constraint ECLASS='SPI' on object PEX_EE_SCLK_R
+Note: Orphaned constraint PCLASS='55 OHM 2:1' on object PEX_EE_SCLK_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='419.075669000000' on object PEX_EE_SCLK_R
+Note: Orphaned constraint ECLASS='SPI' on object SPI_CLK_R
+Note: Orphaned constraint PCLASS='55 OHM 3:1' on object SPI_CLK_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='82.848937000000' on object SPI_CLK_R
+Note: Orphaned constraint ECLASS='SPI' on object SPI_CS0#_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='111.000000000000' on object SPI_CS0#_R
+Note: Orphaned constraint ECLASS='SPI' on object SPI_MISO_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='278.267874000000' on object SPI_MISO_R
+Note: Orphaned constraint ECLASS='SPI' on object SPI_MOSI
+Note: Orphaned constraint ACT_DELAY_LENGTH='57.107598000000' on object SPI_MOSI
+Note: Orphaned constraint ECLASS='SPI' on object SPI_SI_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='83.000000000000' on object SPI_SI_R
+Note: Orphaned constraint ECLASS='SPI' on object SPI_SO_R
+Note: Orphaned constraint ACT_DELAY_LENGTH='84.000000000000' on object SPI_SO_R
+ElecNet XDP_TDO -> XDP-TDO
+ElecNet SERIAL2-RXD -> SERIAL1-RXD
+ElecNet PM_PWROK^^^ -> PM-PWROK
+ElecNet LPC_FRAME# -> LPC-FRAME#
+ElecNet LPC_AD0 -> LPC-AD0
+ElecNet SDVO_CTRLCLK -> SDVO-CTRLCLK
+ElecNet SDVO_GREENP^^^ -> SDVO-GREENP
+ElecNet PCIE_RXP3 -> PCIE-RXP2
+ElecNet PCIE_RXN0^^^ -> PCIE-RXN0
+ElecNet M_A_A12 -> M-A-A12
+ElecNet M_A_A11 -> M-A-A11
+ElecNet M_A_A8 -> M-A-A8
+ElecNet M_A_A6 -> M-A-A6
+ElecNet M_A_A5 -> M-A-A5
+ElecNet M_A_A4 -> M-A-A4
+ElecNet M_A_A1 -> M-A-A1
+ElecNet M_A_DQ11 -> M-A-DQ13
+ElecNet M_A_DQ0 -> M-A-DQ0
+ElecNet IOH-GPIO-9 -> RTC-IRQ#
+ElecNet IOH-GPIO-8 -> SD0-FAULT#
+Net SPI_SO -> SPI-SO
+Net EPCS_CS# -> VNN-DPRSLPVR
+Net CLK_IOH_SATAP -> CLK-IOH-SATAP
+Net XDP_TDI -> XDP-TDI
+Net $10N544 -> RGMII-TXCLK-R
+Pin U8-Y16 -> U15-Y16
+Net IOH_MII_RXD0 -> RGMII-RXD0
+Pin U8-C21 -> U15-C21
+Pin U32-B5 -> U42-B5
+Net PM_SLPRDY# -> PM-SLPRDY#
+Pin R304-1 -> R466-1
+Net PM_CK505_EN -> PM-CK505-EN
+Pin C223-1 -> C159-1
+Pin U8-W19 -> U15-W19
+Pin C106-1 -> C125-1
+Pin U8-C18 -> U15-C18
+Pin C452-1 -> C574-1
+Pin R433-1 -> R22-1
+Pin R345-1 -> R415-1
+Pin C384-1 -> C409-1
+Pin U32-R16 -> U42-R16
+Pin U32-T15 -> U42-T15
+Pin U40-C3 -> U9-C3
+Pin U42-C7 -> U11-C7
+Pin U37-A9 -> U6-A9
+Pin U44-C3 -> U13-C3
+Pin C427-1 -> C506-1
+Pin C431-1 -> C510-1
+Pin U39-L1 -> U8-L1
+Pin C10-1 -> C18-1
+Pin R294-1 -> R321-1
+Pin U32-J22 -> U42-J22
+Pin R376-1 -> R455-1
+Pin C378-1 -> C403-1
+Pin C438-1 -> C528-1
+Pin U8-N4 -> U15-N4
+Pin U8-M1 -> U15-M1
+Pin U8-H4 -> U15-H4
+Pin C454-1 -> C576-1
+Pin R205-2 -> R399-2
+Pin R197-2 -> R394-2
+Pin U37-E2 -> U6-E2
+Net CLK_XDPP -> CLK-XDPP
+Net CLK_CPU_BCLKN -> CLK-CPU-BCLKN
+Pin U32-L8 -> U42-L8
+Net RTC_X1 -> RTC-X1
+Pin U8-W5 -> U15-W5
+Pin C49-1 -> C105-1
+Net SDVO_GREENP_C -> SDVO-GREENP-C
+Pin U8-B20 -> U15-B20
+Net PCIE_TXP3_C -> PCIE-TXP2-C
+Pin C28-1 -> C100-1
+Pin U32-AK11 -> U42-AK11
+Pin R171-1 -> R158-1
+Pin U42-F8 -> U11-F8
+Pin U44-F7 -> U13-F7
+Pin U44-G7 -> U13-G7
+Pin U40-G1 -> U9-G1
+Pin U40-G3 -> U9-G3
+Pin U40-G2 -> U9-G2
+Pin U41-L3 -> U10-L3
+Pin U42-L8 -> U11-L8
+Pin U38-L2 -> U7-L2
+Pin U38-K7 -> U7-K7
+Pin U38-H2 -> U7-H2
+Pin U38-J8 -> U7-J8
+Pin U38-J2 -> U7-J2
+Pin U38-H7 -> U7-H7
+Pin U38-H3 -> U7-H3
+Pin U38-H8 -> U7-H8
+Pin U38-B7 -> U7-B7
+Net M_A_DQ26 -> M-A-DQ29
+Pin U44-B9 -> U13-B9
+Pin U44-C8 -> U13-C8
+Net M_A_DQ15 -> M-A-DQ8
+Pin U39-C2 -> U8-C8
+Pin U42-D7 -> U11-D7
+Pin U39-D3 -> U8-D7
+Pin U32-AH1 -> U42-AE4
+Net M_A_DQ2 -> M-A-DQ7
+Pin U8-AB17 -> U15-AB17
+Pin R320-2 -> R335-2
+Pin R350-1 -> R380-1
+Pin R18-2 -> R5-2
+Net PEREQ1_N -> PEREQ1#
+Pin U32-K33 -> U42-K33
+Net FPGA_CE# -> VNN-PGD-IN
+Pin R78-2 -> R58-2
+Net IOH_TCK -> IOH-TCK
+Pin R409-1 -> R456-1
+Pin U32-N18 -> U42-N18
+Pin R619-2 -> R249-2
+Net $26N750 -> RGMII-RXCLK-R
+Pin U8-F21 -> U15-F21
+Pin R92-2 -> R35-2
+Pin R348-2 -> R378-2
+Pin U32-H37 -> U42-H37
+Pin R45-1 -> R238-1
+Pin U32-A24 -> U42-A24
+ElecNet CLK_IOH_SATAP -> CLK-IOH-SATAP
+ElecNet IOH_MII_TXD2^^^ -> RGMII-TXD2-R
+ElecNet IOH_MII_TXD0^^^ -> RGMII-TXD0-R
+ElecNet CLK_XDPN -> CLK-XDPN
+ElecNet IOH_I2C_SCL^^^ -> TOP-I2C-SCL
+ElecNet CLK_IOH_SYS^^^ -> CLK-IOH-SYS
+ElecNet SDVO_BLUEN^^^ -> SDVO-BLUEN
+ElecNet USB_OC5# -> USB-OC5#
+ElecNet PCIE_RXP1^^^ -> PCIE-RXP1
+ElecNet PCIE_TXP0^^^ -> PCIE-TXP0
+ElecNet M_CLK_DDRP0 -> M-CLK-DDRP0
+ElecNet M_A_A14 -> M-A-A14
+ElecNet M_A_A13 -> M-A-A13
+ElecNet M_A_A3 -> M-A-A3
+ElecNet M_A_A2 -> M-A-A2
+ElecNet M_A_DQ26 -> M-A-DQ29
+ElecNet M_A_DQ15 -> M-A-DQ8
+ElecNet M_A_DQ1 -> M-A-DQ6
+ElecNet IOH-GPIO-3 -> SERIAL3-DE
+ElecNet IOH-GPIO-2 -> SERIAL2-DE
+ElecNet CPLD_TDI -> CPLD-TMS
+Net SPI_SI -> SPI-SI
+Pin U8-N2 -> U15-N2
+Pin U8-G2 -> U15-G2
+Pin U32-R2 -> U42-R2
+Pin R432-2 -> R21-2
+Net SERIAL1_RTS -> SERIAL0-RTS
+Pin R347-2 -> R377-2
+Pin R39-1 -> R465-1
+Net +V5S -> +V3.3S
+Pin C337-1 -> C205-1
+Pin C396-1 -> C444-1
+Pin U36-20 -> U49-20
+Pin U8-P3 -> U15-P3
+Pin U8-P14 -> U15-P14
+Pin U8-T20 -> U15-T20
+Pin C449-1 -> C571-1
+Pin U40-F2 -> U9-F2
+Pin U44-E9 -> U13-E9
+Pin C61-1 -> C62-1
+Pin U40-H9 -> U9-H9
+Pin U42-E1 -> U11-E1
+Pin C330-1 -> C186-1
+Pin U40-E9 -> U9-E9
+Pin C320-1 -> C176-1
+Pin U44-H9 -> U13-H9
+Pin U38-C7 -> U7-C7
+Pin C354-1 -> C379-1
+Pin C374-1 -> C399-1
+Pin U32-P15 -> U42-P15
+Pin R371-1 -> R449-1
+Pin C58-1 -> C429-1
+Pin C372-1 -> C397-1
+Pin R357-1 -> R427-1
+Pin U32-V13 -> U42-V13
+Pin U32-K15 -> U42-K15
+Pin U8-U2 -> U15-U2
+Pin C475-1 -> C631-1
+Pin FB31-1 -> FB12-1
+Pin U8-K19 -> U15-K19
+Pin C168-1 -> C139-1
+Pin C174-1 -> C203-1
+Pin R179-2 -> R390-2
+Pin C160-1 -> C168-1
+Pin Y2-3 -> Y1-3
+Pin R156-2 -> R357-2
+Pin R322-2 -> R344-2
+Pin U32-G12 -> U42-G12
+Pin R138-1 -> R237-1
+Net CLK_LPC_FPGA -> CLK-LPC-TPM
+Net SDVO_GREENP -> SDVO-GREENP
+Pin U32-A16 -> U42-A16
+Pin U32-D17 -> U42-D17
+Pin U32-B27 -> U42-B27
+Pin U32-D31 -> U42-D31
+Pin U8-T2 -> U15-T2
+Pin C48-2 -> C102-2
+Net PCIE_TXN1_C -> PCIE-TXN1-C
+Net PCIE_TXN1 -> PCIE-TXN1
+Pin U41-F9 -> U10-F9
+Pin U39-F9 -> U8-F9
+Pin U32-AN14 -> U42-AN14
+Pin R187-1 -> R160-1
+Pin U38-F8 -> U7-F8
+Pin U40-F7 -> U9-F7
+Pin U40-G7 -> U9-G7
+Pin U37-L3 -> U6-L3
+Pin U38-L8 -> U7-L8
+Pin U32-AL10 -> U42-AL10
+Pin U43-D1 -> U12-D1
+Pin U38-C8 -> U7-C2
+Pin U32-AT21 -> U42-AU16
+Net M_A_DQ19 -> M-A-DQ16
+Pin U37-D3 -> U6-D7
+Pin U32-AT5 -> U42-AT5
+Pin U41-C8 -> U10-C8
+Pin U32-AG4 -> U42-AH1
+Net M_A_DQ3 -> M-A-DQ5
+Net M_A_DM0 -> M-A-DM0
+Pin U32-AP29 -> U42-AP29
+Net VBUS_IO_GPIO5 -> SERIAL1-SEL
+Net PM_RST_PLA# -> PM-SRC-PWRGD
+Pin R356-2 -> R426-2
+Pin R370-1 -> R446-1
+Pin U36-16 -> U49-16
+Pin U32-M15 -> U42-M15
+Pin U32-AJ22 -> U42-AJ22
+Pin R51-2 -> R18-2
+Pin R361-1 -> R431-1
+Pin U8-Y10 -> U15-Y10
+Pin R294-2 -> R321-2
+Pin R272-1 -> R439-1
+Pin R418-1 -> R549-1
+ElecNet SD0_CD# -> SD0-CD#
+ElecNet XDP_TCK_0 -> XDP-TCK-0
+ElecNet XDP_PRDY# -> XDP-PRDY#
+ElecNet IOH_RGMII_TXCLKO^^^ -> RGMII-TXCLK-R
+ElecNet IOH_MII_RXD3^^^ -> RGMII-RXD3
+ElecNet INT_SERIRQ -> INT-SERIRQ
+ElecNet USB_OC1# -> USB-OC1#
+ElecNet PCIE_TXN1^^^ -> PCIE-TXN1
+ElecNet M_ODT1 -> M-ODT1
+ElecNet M_A_DQS2 -> M-A-DQS2
+ElecNet M_A_DQ19 -> M-A-DQ16
+ElecNet M_A_DQ2 -> M-A-DQ7
+ElecNet $26N748 -> RGMII-RXCTL-R
+ElecNet $10N90 -> ETH1-INT#
+Net SATA1_RXP -> SATA1-RXP
+Pin U8-J2 -> U15-J2
+Pin U32-AL16 -> U42-AL16
+Pin U32-AM33 -> U42-AM33
+Pin R215-2 -> R195-2
+Pin R218-2 -> R197-2
+Pin U8-AB11 -> U15-AB11
+Pin U8-AA12 -> U15-AA12
+Net PM_WDT_TOUT -> PM-WDT-TOUT
+Pin U8-Y21 -> U15-Y21
+Pin U32-M5 -> U42-M5
+Net PM_RST_PLB# -> PM-RST-PLB#
+Net PM_PWRGD -> PM-PWRGD
+Net +V3.3S_CLKBUF_VDDA -> +V3.3S-CLKBUF-VDDA
+Pin U36-7 -> U49-7
+Pin C470-1 -> C626-1
+Pin U8-P18 -> U15-P18
+Pin C115-1 -> C130-1
+Pin C97-1 -> C119-1
+Pin C394-1 -> C434-1
+Pin C444-1 -> C566-1
+Pin U32-AH9 -> U42-AH9
+Pin C31-1 -> C54-1
+Pin U43-C3 -> U12-C3
+Pin U38-E1 -> U7-E1
+Pin U38-L1 -> U7-L1
+Pin U39-C3 -> U8-C3
+Pin U42-L1 -> U11-L1
+Pin R120-1 -> R55-1
+Pin U32-AB13 -> U42-AB13
+Pin R215-1 -> R195-1
+Pin C368-1 -> C393-1
+Pin U32-N24 -> U42-N24
+Pin C35-1 -> C425-1
+Pin C250-1 -> C165-1
+Pin U8-D2 -> U15-D2
+Pin U8-R19 -> U15-R19
+Pin C138-1 -> C135-1
+Pin R206-2 -> R402-2
+Pin R199-2 -> R404-2
+Pin C201-1 -> C197-1
+Pin U42-E2 -> U11-E2
+Pin U32-V5 -> U42-V5
+Pin U32-AT25 -> U42-AT25
+Pin U8-W6 -> U15-W6
+Pin U36-42 -> U49-42
+Net CLK_IOH_SYS_R -> CLK-IOH-SYS-R
+Pin C474-1 -> C630-1
+Pin R188-2 -> R522-2
+Pin U36-36 -> U49-36
+Pin U32-D13 -> U42-D13
+Net CLK_PCIE_SRC0_P -> CLK-PCIE-SRC0P
+Net CLK_PCIE_SRC0_N -> CLK-PCIE-SRC0N
+Pin U32-A26 -> U42-A26
+Net PCIE_RXN0_C -> PCIE-RXN0-C
+Net PCIE_RXN0 -> PCIE-RXN0
+Pin U41-G8 -> U10-G8
+Pin U39-G8 -> U8-G8
+Pin U42-E8 -> U11-E8
+Pin U42-F3 -> U11-F3
+Net M_A_WE# -> M-A-WE#
+Pin R178-1 -> R391-1
+Net M_A_DQ30 -> M-A-DQ30
+Pin U38-B1 -> U7-B9
+Pin U44-C2 -> U13-C2
+Pin U32-AU20 -> U42-AU20
+Net M_A_DQS1 -> M-A-DQS1
+Pin U39-B3 -> U8-B3
+Pin U41-D9 -> U10-D9
+Pin U32-AE4 -> U42-AF1
+Pin U32-M19 -> U42-M19
+Pin R343-1 -> R413-1
+Pin U32-F7 -> U42-F7
+Pin U32-AC8 -> U42-AC8
+Pin U32-U4 -> U42-U4
+Pin U32-AP23 -> U42-AP23
+Pin R367-2 -> R443-2
+Pin R403-1 -> R509-1
+Pin R374-2 -> R452-2
+Pin U32-H7 -> U42-H7
+Pin C439-1 -> C530-1
+Pin R22-2 -> R9-2
+Net $10N410 -> ETH1-ALT-RST#
+Pin R359-1 -> R429-1
+Net $8N650 -> VCCRTCEXT
+Pin U48-1 -> C543-1
+Pin R213-1 -> R193-1
+Pin U32-AB33 -> U42-AB33
+ElecNet SPI_CS0#^^^ -> SPI-CS0#
+ElecNet SPI_CLK^^^ -> SPI-CLK
+ElecNet SD1_CMD -> $11N495
+ElecNet XDP_TRST# -> XDP-TRST#
+ElecNet CLK_HPLL_REFCLKN -> CLK-HPLL-REFCLKN
+ElecNet SDVO_INTP -> SDVO-INTP
+ElecNet CLK_PCIE_SRC0_P -> CLK-PCIE-SRC0P
+ElecNet PCIE_RXP2^^^ -> PCIE-RXP3
+ElecNet M_CS#1 -> M-CS#1
+ElecNet M_CS#0 -> M-CS#0
+ElecNet M_A_DQ30 -> M-A-DQ30
+ElecNet M_A_DQ3 -> M-A-DQ5
+ElecNet M_SRFWEN -> M-SRFWEN
+ElecNet H_PROCHOT# -> H-PROCHOT#
+ElecNet $10N235 -> $10N661
+Pin U8-E7 -> U15-E7
+Net XDP_PRDY# -> XDP-PRDY#
+Net $10N523 -> RGMII-TXD2-R
+Pin U8-Y13 -> U15-Y13
+Pin U8-AB14 -> U15-AB14
+Pin U8-V10 -> U15-V10
+Pin U8-D21 -> U15-E22
+Pin U8-D19 -> U15-D19
+Pin U36-38 -> U49-38
+Pin C486-1 -> C22-1
+Pin U36-11 -> U49-11
+Pin C417-1 -> C495-1
+Pin C109-1 -> C128-1
+Pin U8-L19 -> U15-L19
+Pin U8-J12 -> U15-J12
+Pin U32-AG12 -> U42-AG12
+Pin U32-AK13 -> U42-AK13
+Net M_CKE0 -> M-CKE0
+Pin C23-1 -> C50-1
+Pin C324-1 -> C180-1
+Pin U43-H9 -> U12-H9
+Pin U37-C7 -> U6-C7
+Pin C44-1 -> C58-1
+Pin C186-1 -> C588-1
+Pin U41-C7 -> U10-C7
+Pin R194-2 -> R163-2
+Pin U32-AB25 -> U42-AB25
+Pin R318-1 -> R334-1
+Pin C381-1 -> C406-1
+Pin C364-1 -> C389-1
+Pin U32-K23 -> U42-K23
+Pin U32-AG26 -> U42-AG26
+Pin U32-L20 -> U42-L20
+Pin C383-1 -> C408-1
+Pin U8-M4 -> U15-M4
+Pin U8-U1 -> U15-U1
+Pin C418-1 -> C496-1
+Pin C670-1 -> R188-1
+Pin C455-1 -> C577-1
+Pin C457-1 -> C579-1
+Pin U8-D13 -> U15-D13
+Pin C178-1 -> C193-1
+Pin R187-2 -> R160-2
+Pin C328-1 -> C184-1
+Pin U36-40 -> U49-40
+Pin C149-1 -> C17-1
+Pin L17-1 -> R505-1
+Pin U32-A10 -> U42-A10
+Pin U32-W4 -> U42-W4
+Pin U36-33 -> U49-33
+Pin R191-2 -> R521-2
+Net CK505_SMB_DATA -> CK505-SMB-DATA
+Pin C66-2 -> C104-2
+Pin U32-A20 -> U42-A20
+Pin C64-1 -> C107-1
+Pin C90-1 -> C108-1
+Net PCIE_TXP2_C -> PCIE-TXP3-C
+Pin U32-C34 -> U42-C34
+Pin U38-E8 -> U7-E8
+Pin R354-2 -> R424-2
+Pin U38-F3 -> U7-F3
+Pin R176-1 -> R405-1
+Pin U32-AL2 -> U42-AL2
+Pin U43-G1 -> U12-G1
+Pin R199-1 -> R404-1
+Pin R184-1 -> R406-1
+Pin U41-K7 -> U10-K7
+Pin U41-H2 -> U10-H2
+Pin U32-AF7 -> U42-AF7
+Pin U43-K3 -> U12-K3
+Pin U41-K8 -> U10-K8
+Pin U41-K2 -> U10-K2
+Pin U41-J7 -> U10-J7
+Pin U41-J3 -> U10-J3
+Pin U41-J8 -> U10-J8
+Pin U43-B9 -> U12-B9
+Pin U32-AU24 -> U42-AU22
+Net M_A_DQ23 -> M-A-DQ20
+Pin U37-B1 -> U6-B9
+Pin U32-AU16 -> U42-AU24
+Net M_A_DM2 -> M-A-DM2
+Pin U32-AK5 -> U42-AM5
+Net M_A_DQ12 -> M-A-DQ14
+Pin U42-B9 -> U11-B9
+Pin U41-B7 -> U10-B7
+Net M_A_DQ4 -> M-A-DQ3
+Pin U32-AT29 -> U42-AT29
+Pin R342-1 -> R412-1
+Pin R93-2 -> R14-2
+Pin C484-1 -> C20-1
+Pin R366-2 -> R442-2
+Net $36N717 -> $36N274
+Net $36N723 -> +V1.2A
+Pin U8-AA6 -> U15-AA6
+Pin U32-AG36 -> U42-AG36
+Pin C89-1 -> C117-1
+Pin U8-P10 -> U15-P10
+Pin U8-B12 -> U15-B12
+Pin R60-2 -> R23-2
+Pin U32-B25 -> U42-B25
+ElecNet XDP_BPM#2 -> XDP-BPM#2
+ElecNet +V3.3A_DELAY^^^ -> +V3.3A_DELAY
+ElecNet +V3.3^^^ -> +V3.3
+ElecNet +V1.5S^^^ -> +V1.5S
+ElecNet CLK_SDVO_REFCLKN -> CLK-SDVO-REFCLKN
+ElecNet CLK_IOH_USB -> CLK-IOH-USB
+ElecNet SDVO_REDP^^^ -> SDVO-REDP
+ElecNet M_CLK_DDRN0 -> M-CLK-DDRN0
+ElecNet M_A_DQ23 -> M-A-DQ20
+ElecNet M_A_DM1 -> M-A-DM1
+ElecNet PEREQ3_N -> PEREQ3#
+ElecNet IOH-GPIO-1^^^ -> SERIAL1-DE
+ElecNet $10N233 -> $10N659
+Net SPI_MOSI_R -> SD0-D4-R
+Net SD0_CD# -> SD0-CD#
+Net IOH_MII_RXD3 -> RGMII-RXD3
+Pin U8-D22 -> U15-D22
+Net SERIAL1_TX -> SERIAL0-TXD
+Pin R427-1 -> R459-1
+Net PM_RSTWARN -> PM-RSTWARN
+Pin R59-1 -> R458-1
+Net PM_RSMRST# -> PM-RSMRST#
+Pin C397-1 -> C445-1
+Pin C416-1 -> C494-1
+Pin C463-1 -> C585-1
+Pin C105-1 -> C124-1
+Pin R432-1 -> R21-1
+Pin C387-1 -> C412-1
+Pin U41-F2 -> U10-F2
+Pin U32-AK7 -> U42-AK7
+Pin U44-C1 -> U13-C1
+Pin U39-H9 -> U8-H9
+Pin U41-E1 -> U10-E1
+Pin C333-1 -> C189-1
+Pin U39-E9 -> U8-E9
+Pin U40-C1 -> U9-C1
+Pin C424-1 -> C503-1
+Pin U43-E9 -> U12-E9
+Pin U37-E1 -> U6-E1
+Pin C362-1 -> C387-1
+Pin U32-U26 -> U42-U26
+Pin C377-1 -> C402-1
+Pin U32-J20 -> U42-J20
+Pin U32-N26 -> U42-N26
+Pin U8-H3 -> U15-H3
+Pin C437-1 -> C527-1
+Pin C453-1 -> C575-1
+Pin R182-2 -> R398-2
+Pin R203-2 -> R393-2
+Pin C264-1 -> C171-1
+Pin U36-15 -> U49-15
+Net IOH_I2C_SDA -> TOP-I2C-SDA
+Pin U36-35 -> U49-35
+Pin U32-D11 -> U42-D11
+Net LPC_AD2 -> LPC-AD2
+Pin U32-E12 -> U42-E12
+Pin U32-A18 -> U42-A18
+Net SDVO_REDP_C -> SDVO-REDP-C
+Pin C84-2 -> C109-2
+Net SDVO_CLKN_C -> SDVO-CLKN-C
+Net USB_OC4# -> USB-OC4#
+Pin U36-23 -> U49-23
+Net PCIE_RXN3 -> PCIE-RXN2
+Pin C47-2 -> C110-2
+Pin U32-E28 -> U42-E28
+Pin U44-F9 -> U13-F9
+Pin U43-F7 -> U12-F7
+Pin R206-1 -> R402-1
+Pin U32-AJ10 -> U42-AJ10
+Pin R186-1 -> R403-1
+Pin U39-G1 -> U8-G1
+Pin U32-AM1 -> U42-AM1
+Pin U43-G3 -> U12-G3
+Pin U32-AB5 -> U42-AB5
+Pin U43-G2 -> U12-G2
+Pin U44-L3 -> U13-L3
+Pin U41-L8 -> U10-L8
+Pin U41-L2 -> U10-L2
+Pin U37-K7 -> U6-K7
+Pin U37-H2 -> U6-H2
+Pin U39-K3 -> U8-K3
+Pin U37-K8 -> U6-K8
+Pin U37-K2 -> U6-K2
+Pin U37-J7 -> U6-J7
+Pin U37-J3 -> U6-J3
+Pin U37-J8 -> U6-J8
+Pin U41-J2 -> U10-J2
+Pin U41-H7 -> U10-H7
+Pin U41-H3 -> U10-H3
+Pin U41-H8 -> U10-H8
+Pin U43-B7 -> U12-B7
+Pin U32-AT11 -> U42-AN8
+Net M_A_DQ27 -> M-A-DQ24
+Net M_A_DQ16 -> M-A-DQ23
+Pin U42-C2 -> U11-C2
+Pin U39-B1 -> U8-B9
+Pin U42-D3 -> U11-D3
+Pin U32-Y5 -> U42-Y5
+Pin U32-AA4 -> U42-AJ2
+Net M_A_DQ5 -> M-A-DQ1
+Pin U32-AK27 -> U42-AK27
+Pin R209-1 -> R175-1
+Pin U32-A6 -> U42-A6
+Pin R321-2 -> R336-2
+Pin R318-2 -> R334-2
+Pin U36-4 -> U49-4
+Net IOH-GPIO-1 -> SERIAL1-DE
+Net IO_RX_GVREF -> IO-RX-GVREF
+Pin R45-2 -> R238-2
+Pin R625-2 -> C492-2
+Net $10N559 -> SERIAL0-SEL
+Pin C589-1 -> C27-1
+Pin U32-AP21 -> U42-AP21
+Pin R380-1 -> R460-1
+Pin FB7-2 -> FB6-2
+Pin U32-AH21 -> U42-AH21
+Pin R618-2 -> R248-2
+Net $26N752 -> RGMII-RXD3-R
+Net $10N368 -> SERIAL3-RXD
+Pin R379-1 -> R262-1
+Pin R360-1 -> R430-1
+Pin U8-AA14 -> U15-AA14
+Pin U32-AK23 -> U42-AK23
+Pin R169-1 -> R154-1
+Pin U32-N30 -> U42-N30
+ElecNet PM_SLPRDY# -> PM-SLPRDY#
+ElecNet PM_CK505_EN -> PM-CK505-EN
+ElecNet XTAL_IN -> XTAL-IN
+ElecNet RTC_X2 -> RTC-X2
+ElecNet LPC_CLKRUN# -> PM-CLKRUN#
+ElecNet LPC_AD1 -> LPC-AD1
+ElecNet SDVO_BLUEP^^^ -> SDVO-BLUEP
+ElecNet CLK_PCIE_REFN -> CLK-PCIE-REFN
+ElecNet PCIE_RXP0^^^ -> PCIE-RXP0
+ElecNet M_A_DQ16 -> M-A-DQ23
+ElecNet M_A_DQ12 -> M-A-DQ14
+ElecNet M_A_DQ4 -> M-A-DQ3
+ElecNet CPU_BSEL0^^^ -> CPU-BSEL0
+Net SATA1_TXN -> SATA1-TXN
+Net SATA0_TXP -> SATA0-TXP
+Net SATA0_RXP -> SATA0-RXP
+Pin U32-AB1 -> U42-AB1
+Pin U32-AN34 -> U42-AN34
+Pin U32-AP33 -> U42-AP33
+Pin U8-C22 -> U15-C22
+Pin R20-2 -> R7-2
+Pin U8-W20 -> U15-W20
+Net PM_PWROK -> PM-PWROK
+Pin FB32-2 -> FB15-2
+Pin U8-F3 -> U15-F3
+Pin U8-N20 -> U15-N20
+Pin C448-1 -> C570-1
+Pin R52-1 -> R19-1
+Pin C134-1 -> C133-1
+Pin U32-T27 -> U42-T27
+Pin L12-1 -> L9-1
+Pin U32-P17 -> U42-P17
+Pin U32-T13 -> U42-T13
+Pin R193-1 -> R162-1
+Pin U39-F2 -> U8-F2
+Pin U37-L1 -> U6-L1
+Pin C322-1 -> C178-1
+Pin U38-C3 -> U7-C3
+Pin U41-L1 -> U10-L1
+Pin C329-1 -> C185-1
+Pin U42-C3 -> U11-C3
+Pin R25-1 -> R11-1
+Pin C353-1 -> C378-1
+Pin C373-1 -> C398-1
+Pin U32-P19 -> U42-P19
+Pin C38-1 -> C428-1
+Pin R375-1 -> R453-1
+Pin U32-W12 -> U42-W12
+Pin R356-1 -> R426-1
+Pin U32-L26 -> U42-L26
+Pin U8-H1 -> U15-H1
+Pin C423-1 -> C501-1
+Pin U8-T4 -> U15-T4
+Net +V1.2A_FPGA -> SER1-485RP
+Pin C175-1 -> C140-1
+Pin U8-G19 -> U15-G19
+Pin C167-1 -> C138-1
+Pin C162-1 -> C200-1
+Pin C200-1 -> C202-1
+Pin R195-2 -> R389-2
+Net XTAL_OUT -> XTAL-OUT
+Pin C148-1 -> C16-1
+Pin U36-39 -> U49-39
+Net CLK_IOH_SYS -> CLK-IOH-SYS
+Pin U36-46 -> U49-46
+Net CK505_SMB_SCLK -> CK505-SMB-SCLK
+Net SDVO_REDP -> SDVO-REDP
+Pin C67-1 -> C101-1
+Net USB_OC0# -> USB-OC0#
+Pin U36-24 -> U49-24
+Pin U32-H31 -> U42-H31
+Pin U32-D33 -> U42-D33
+Pin C102-2 -> C121-2
+Pin U8-V1 -> U15-V1
+Pin C27-1 -> C99-1
+Pin U38-F9 -> U7-F9
+Net M_ODT0 -> M-ODT0
+Pin U44-G8 -> U13-G8
+Pin U41-F8 -> U10-F8
+Pin U39-F7 -> U8-F7
+Pin U32-AP17 -> U42-AP17
+Pin U43-G7 -> U12-G7
+Pin U39-G3 -> U8-G3
+Pin U39-G2 -> U8-G2
+Pin U40-L3 -> U9-L3
+Pin U37-L8 -> U6-L8
+Pin U37-L2 -> U6-L2
+Pin U37-J2 -> U6-J2
+Pin U37-H7 -> U6-H7
+Pin U37-H3 -> U6-H3
+Pin U37-H8 -> U6-H8
+Pin U38-D9 -> U7-D1
+Pin U43-C8 -> U12-C8
+Pin U38-B3 -> U7-B3
+Pin U37-B7 -> U6-B7
+Pin U32-AU22 -> U42-AU18
+Pin U37-D9 -> U6-D1
+Pin U44-D3 -> U13-D3
+Pin U39-D1 -> U8-D9
+Pin U32-AC4 -> U42-AG4
+Net M_A_DQ6 -> M-A-DQ2
+Pin R208-2 -> R174-2
+Pin U32-AT31 -> U42-AT31
+Net TC-GPIO-1 -> FPGA-CFG-DONE
+Net IOH_RTCK -> IOH-RTCK
+Pin R412-1 -> R53-1
+Net IOH-GPIO-0 -> SERIAL0-DE
+Pin U32-N2 -> U42-N2
+Pin U32-AB37 -> U42-AB37
+Pin R438-2 -> R259-2
+Net CPU_BSEL1 -> CPU-BSEL1
+Pin R15-1 -> R2-1
+Net IOH_TMS -> IOH-TMS
+Pin U8-D20 -> U15-D20
+Pin R52-2 -> R19-2
+Pin U8-E21 -> U15-E21
+Pin U8-N21 -> U15-N21
+Pin R362-1 -> R432-1
+Pin R95-2 -> R36-2
+ElecNet SPI_MOSI^^^ -> SD0-D4-R
+ElecNet EPCS_CS# -> VNN-DPRSLPVR
+ElecNet SATA1_TXN^^^ -> SATA1-TXN
+ElecNet XDP_TDI -> XDP-TDI
+ElecNet IOH_MII_TXD3^^^ -> RGMII-TXD3-R
+ElecNet IOH_MII_RXD1^^^ -> RGMII-RXD1
+ElecNet +V1.8^^^ -> +V1.8
+ElecNet RTC_X1 -> RTC-X1
+ElecNet IOH_I2C_SDA^^^ -> TOP-I2C-SDA
+ElecNet M_A_DQ27 -> M-A-DQ24
+ElecNet M_A_DQ5 -> M-A-DQ1
+ElecNet VBUS_IO_GPIO5 -> SERIAL1-SEL
+ElecNet PEREQ1_N -> PEREQ1#
+ElecNet IOH-GPIO-0^^^ -> SERIAL0-DE
+ElecNet FPGA_CE# -> VNN-PGD-IN
+ElecNet EXT_TRIG_IO8^^^ -> $36N274
+ElecNet EXT_TRIG_IO1^^^ -> +V1.2A
+Net SPI_CS0# -> SPI-CS0#
+Net XDP_BPM#2 -> XDP-BPM#2
+Net XDP_BPM#0 -> XDP-BPM#0
+Pin U8-AA10 -> U15-AB14
+Net SERIAL1_CTS -> SERIAL0-CTS
+Pin U36-37 -> U49-37
+Net PM_RSMRST#_R -> PM-RSMRST#-R
+Net +V3.3S_CLKBUF_VDDIO -> +V3.3S-CLKBUF-VDDIO
+Pin C339-1 -> C207-1
+Pin U36-26 -> U49-26
+Pin U36-31 -> U49-31
+Pin C446-1 -> C568-1
+Pin U8-C15 -> U15-C15
+Pin FB28-1 -> FB9-1
+Pin C11-1 -> C19-1
+Pin C60-1 -> C61-1
+Pin U42-H9 -> U11-H9
+Pin U40-A1 -> U9-A1
+Pin U42-E9 -> U11-E9
+Pin C311-1 -> C175-1
+Pin U44-A1 -> U13-A1
+Pin U38-H9 -> U7-H9
+Pin U32-N22 -> U42-N22
+Pin R367-1 -> R443-1
+Pin R369-1 -> R445-1
+Pin C59-1 -> C424-1
+Pin R220-1 -> R198-1
+Pin C371-1 -> C396-1
+Pin U8-V4 -> U15-V4
+Pin C137-1 -> C134-1
+Pin U8-D15 -> U15-D15
+Pin R186-2 -> R403-2
+Pin C195-1 -> C196-1
+Pin U41-E2 -> U10-E2
+Net EXT_CLKIN_P -> PM-V1.2A-EN
+Net CLK_SDVO_REFCLKN -> CLK-SDVO-REFCLKN
+Pin U36-30 -> U49-30
+Net CLK_CPU_BCLKP -> CLK-CPU-BCLKP
+Net IOH_I2C_SCL -> TOP-I2C-SCL
+Pin R156-1 -> R357-1
+Pin R14-2 -> R1-2
+Pin R322-1 -> R344-1
+Pin R155-2 -> R265-2
+Pin U32-E8 -> U42-E8
+Pin R138-2 -> R237-2
+Pin U32-B7 -> U42-B7
+Net SDVO_CLKN -> SDVO-CLKN
+Net SDVO_BLUEP_C -> SDVO-BLUEP-C
+Net CLK_PCIE_INP -> CLK-PCIE-INP
+Net CLK_PCIE_INN -> CLK-PCIE-INN
+Net PCIE_RXP1 -> PCIE-RXP1
+Net PCIE_TXP1_C -> PCIE-TXP1-C
+Net PCIE_TXP1 -> PCIE-TXP1
+Pin U38-G8 -> U7-G8
+Net M_CS#0 -> M-CS#0
+Pin R354-1 -> R424-1
+Pin U37-F8 -> U6-F8
+Pin U39-G7 -> U8-G7
+Pin U44-K8 -> U13-K8
+Pin U44-K2 -> U13-K2
+Pin U44-J7 -> U13-J7
+Pin U44-J3 -> U13-J3
+Pin U32-AT15 -> U42-AP11
+Pin U43-B1 -> U12-B1
+Net M_A_DQ20 -> M-A-DQ17
+Pin U32-AU6 -> U42-AR4
+Pin U42-B3 -> U11-B3
+Net M_A_DQS0 -> M-A-DQS0
+Net M_A_DQ7 -> M-A-DQ4
+Pin U40-B9 -> U9-B1
+Net VCCD_VSSSENSE -> VCCD-VSSSENSE
+Pin U32-AD7 -> U42-AD7
+Pin U8-AB19 -> U15-AB19
+Pin R373-1 -> R451-1
+Pin R357-2 -> R427-2
+Pin R402-1 -> R447-1
+Pin R407-1 -> R512-1
+Net CPU_SMI# -> CPU-SMI#
+Pin R438-1 -> R259-1
+Pin U32-AM31 -> U42-AM31
+Pin C87-1 -> C115-1
+Pin U36-10 -> U49-10
+Pin R50-2 -> R17-2
+Pin U8-B15 -> U15-B15
+Pin U8-Y15 -> U15-Y15
+Pin U8-AB10 -> U15-AB10
+Net $8N628 -> +V3.3A_RTC
+Pin R350-2 -> R380-2
+Pin U32-AT27 -> U42-AT27
+Pin R242-1 -> R253-1
+ElecNet IOH_MII_RXD0^^^ -> RGMII-RXD0
+ElecNet IOH_MII_RXCLK^^^ -> RGMII-RXCLK
+ElecNet SERIAL1_RTS -> SERIAL0-RTS
+ElecNet PM_WDT_TOUT -> PM-WDT-TOUT
+ElecNet PM_RST_PLB# -> PM-RST-PLB#
+ElecNet PM_PWRGD -> PM-PWRGD
+ElecNet +V3.3S_CLKBUF_VDDA -> +V3.3S-CLKBUF-VDDA
+ElecNet SDVO_REDN^^^ -> SDVO-REDN
+ElecNet CLK_PCIE_IOHP0^^^ -> CLK-PCIE-IOHP0
+ElecNet CLK_PCIE_INN^^^ -> CLK-PCIE-INN
+ElecNet M_A_DM3 -> M-A-DM3
+ElecNet M_A_DQ20 -> M-A-DQ17
+ElecNet PM_RST_PLA# -> PM-SRC-PWRGD
+ElecNet FPGA_CONFIG#^^^ -> SERIAL0-SEL
+ElecNet CPU_CMI#_R^^^ -> CPU-CMI#-R
+ElecNet VCC_VSSSENSE -> VCC-VSSSENSE
+ElecNet $26N750 -> RGMII-RXCLK-R
+ElecNet $10N237 -> $10N663
+Pin R110-2 -> R40-2
+Pin R101-2 -> R39-2
+Pin R699-2 -> R373-2
+Net SPI_CLK -> SPI-CLK
+Pin U8-A1 -> U15-A1
+Net XDP_TMS -> XDP-TMS
+Net XDP_TCK_0 -> XDP-TCK-0
+Pin R220-2 -> R198-2
+Pin U8-W13 -> U15-W13
+Net IOH_MII_RXDV-CRS -> RGMII-RXCTL
+Pin U8-W16 -> U15-W16
+Net IOH_MII_RXD1 -> RGMII-RXD1
+Net PM_SPL_PLC# -> PM-SPL-PLC#
+Pin R57-1 -> R457-1
+Net PM_SLPMODE -> PM-SLPMODE
+Pin U32-K7 -> U42-K7
+Net PM_PWROK_R -> PM-PWROK-R
+Pin C481-1 -> C502-1
+Pin C209-1 -> C151-1
+Pin C114-1 -> C129-1
+Pin C104-1 -> C123-1
+Pin C96-1 -> C118-1
+Pin U8-K13 -> U15-K13
+Pin U44-F2 -> U13-F2
+Pin U38-E9 -> U7-E9
+Pin U39-C1 -> U8-C1
+Pin C43-1 -> C57-1
+Pin U41-C3 -> U10-C3
+Pin U43-C1 -> U12-C1
+Pin C26-1 -> C53-1
+Pin R193-2 -> R162-2
+Pin L8-1 -> L5-1
+Pin C367-1 -> C392-1
+Pin U32-L18 -> U42-L18
+Pin R214-1 -> R194-1
+Pin C247-1 -> C164-1
+Pin C456-1 -> C578-1
+Pin U8-M19 -> U15-M19
+Pin R185-2 -> R401-2
+Pin C164-1 -> C192-1
+Pin C327-1 -> C183-1
+Pin U36-29 -> U49-29
+Pin Y3-1 -> Y6-1
+Pin U32-J8 -> U42-J8
+Net SMB_DATA -> SMB-DATA
+Pin U32-D3 -> U42-D3
+Pin U32-B21 -> U42-B21
+Pin U32-B17 -> U42-B17
+Pin U32-A12 -> U42-A12
+Net SDVO_BLUEP -> SDVO-BLUEP
+Pin U8-B19 -> U15-B19
+Net PCIE_TXN2_C -> PCIE-TXN3-C
+Pin U41-E8 -> U10-E8
+Pin U41-F3 -> U10-F3
+Net M_A_RAS# -> M-A-RAS#
+Net M_A_BS2 -> M-A-BS2
+Pin U44-L2 -> U13-L2
+Pin U44-K7 -> U13-K7
+Pin U44-H2 -> U13-H2
+Pin U42-K3 -> U11-K3
+Net M_A_A9 -> M-A-A9
+Pin U40-K8 -> U9-K8
+Pin U40-K2 -> U9-K2
+Pin U40-J7 -> U9-J7
+Pin U40-J3 -> U9-J3
+Pin U44-J8 -> U13-J8
+Pin U44-J2 -> U13-J2
+Pin U44-H7 -> U13-H7
+Pin U44-H3 -> U13-H3
+Pin U44-H8 -> U13-H8
+Pin U32-AU14 -> U42-AU14
+Net M_A_DQS3 -> M-A-DQS3
+Net M_A_DQ31 -> M-A-DQ28
+Pin U38-D7 -> U7-D3
+Pin U37-D7 -> U6-D3
+Pin U44-B1 -> U13-B1
+Pin U32-AP5 -> U42-AK5
+Pin U32-AL4 -> U42-AL4
+Net M_A_DQ8 -> M-A-DQ10
+Pin U40-D1 -> U9-D9
+Pin U32-L2 -> U42-L2
+Pin U32-E6 -> U42-E6
+Net SMB_ALERT# -> SMB-ALERT#
+Pin R104-1 -> R263-1
+Pin U8-A8 -> U15-A8
+Pin U8-B9 -> U15-B9
+Pin U8-AB20 -> U15-AB20
+Pin R375-2 -> R453-2
+Pin FB27-2 -> FB8-2
+Pin R621-2 -> R251-2
+Pin U8-AA7 -> U15-AA7
+Pin R112-1 -> R264-1
+Pin R363-1 -> R433-1
+Pin U32-AN18 -> U42-AN18
+Pin U32-B23 -> U42-B23
+Pin U32-AB35 -> U42-AB35
+ElecNet PM_RSTRDY# -> PM-RSTRDY#
+ElecNet CLK_SDVO_REFCLKP -> CLK-SDVO-REFCLKP
+ElecNet SDVO_INTN -> SDVO-INTN
+ElecNet PCIE_TXN2^^^ -> PCIE-TXN3-C
+ElecNet M_A_RAS# -> M-A-RAS#
+ElecNet M_A_DQ31 -> M-A-DQ28
+ElecNet M_A_DQS1 -> M-A-DQS1
+ElecNet M_A_DQ6 -> M-A-DQ2
+ElecNet CPLD_TCK^^^ -> CPLD-TCK
+Net SPI_SS#_R -> $11N417
+Pin U32-E2 -> U42-E2
+Net SPI_SCK_R -> $11N419
+Pin U8-AB2 -> U15-B5
+Pin C128-1 -> C375-1
+Net SD1_CD# -> $11N493
+Pin U8-L1 -> U15-L1
+Pin U32-AN22 -> U42-AN22
+Net $10N530 -> RGMII-TXCTL-R
+Net $10N525 -> RGMII-TXD3-R
+Pin R433-2 -> R22-2
+Pin U32-AU28 -> U42-AU28
+Net PM_THRMTRIP# -> PM-THRMTRIP#
+Pin U32-G10 -> U42-G10
+Net PM_STPPCI# -> PM-STPPCI#
+Pin R21-2 -> R8-2
+Pin C240-1 -> C161-1
+Pin U8-Y8 -> U15-Y8
+Pin C108-1 -> C127-1
+Pin U8-H19 -> U15-H19
+Pin U8-D14 -> U15-D14
+Pin U8-E17 -> U15-E17
+Pin U32-K13 -> U42-K13
+Pin C386-1 -> C411-1
+Pin U32-W16 -> U42-W16
+Pin U32-Y15 -> U42-Y15
+Pin U41-H9 -> U10-H9
+Pin C36-1 -> C55-1
+Pin C22-1 -> C49-1
+Pin U37-C3 -> U6-C3
+Pin U44-C9 -> U13-C9
+Pin U43-A1 -> U12-A1
+Pin C20-1 -> C47-1
+Pin U40-C9 -> U9-C9
+Pin FB5-1 -> FB33-1
+Pin C356-1 -> C381-1
+Pin R346-1 -> R416-1
+Pin U32-K21 -> U42-K21
+Pin C380-1 -> C405-1
+Pin C363-1 -> C388-1
+Pin U32-P11 -> U42-P11
+Pin FB27-1 -> FB8-1
+Pin R307-1 -> R333-1
+Pin FB31-2 -> FB12-2
+Pin C224-1 -> C167-1
+Pin U8-M3 -> U15-M3
+Pin U8-D10 -> U15-D10
+Pin FB29-2 -> FB10-2
+Pin R175-2 -> R159-2
+Pin R198-2 -> R396-2
+Pin U39-E2 -> U8-E2
+Net XTAL_IN -> XTAL-IN
+Net CLK_HPLL_REFCLKP -> CLK-HPLL-REFCLKP
+Pin Y3-2 -> Y6-2
+Pin U32-E4 -> U42-E4
+Pin R154-2 -> R266-2
+Net SDVO_CTRLDATA -> SDVO-CTRLDATA
+Net SDVO_INTN -> SDVO-INTN
+Pin C68-2 -> C103-2
+Pin U8-Y22 -> U15-Y22
+Pin U32-G32 -> U42-G32
+Net PCIE_RXN2 -> PCIE-RXN3
+Pin U32-A30 -> U42-A30
+Pin U32-D29 -> U42-D29
+Pin C48-1 -> C102-1
+Pin U8-V2 -> U15-V2
+Pin U32-AN12 -> U42-AN12
+Pin R175-1 -> R159-1
+Pin U37-E8 -> U6-E8
+Pin U44-F8 -> U13-F8
+Pin U37-F3 -> U6-F3
+Net M_A_CAS# -> M-A-CAS#
+Pin U42-G1 -> U11-G1
+Pin U42-G3 -> U11-G3
+Net M_A_BS1 -> M-A-BS1
+Pin U42-G2 -> U11-G2
+Net M_A_BS0 -> M-A-BS0
+Pin U43-L3 -> U12-L3
+Pin R426-1 -> R400-1
+Pin U32-AJ8 -> U42-AJ8
+Pin U44-L8 -> U13-L8
+Pin U40-L2 -> U9-L2
+Pin U40-K7 -> U9-K7
+Pin U40-H2 -> U9-H2
+Pin U38-K3 -> U7-K3
+Pin U32-W8 -> U42-W8
+Pin U40-J8 -> U9-J8
+Pin U40-J2 -> U9-J2
+Pin U40-H7 -> U9-H7
+Pin U40-H3 -> U9-H3
+Pin U40-H8 -> U9-H8
+Pin U32-AN8 -> U42-AU12
+Net M_A_DQ24 -> M-A-DQ26
+Pin U32-AU18 -> U42-AT19
+Net M_A_DQ17 -> M-A-DQ22
+Net M_A_DQ13 -> M-A-DQ12
+Pin U39-C8 -> U8-C2
+Pin U42-B1 -> U11-B1
+Pin U40-B1 -> U9-B9
+Pin U32-AR34 -> U42-AR34
+Pin R338-1 -> R408-1
+Pin R17-2 -> R4-2
+Net PEREQ2_N -> PEREQ2#
+Pin U8-W18 -> U15-E4
+Pin U8-A9 -> U15-A9
+Pin U8-AA18 -> U15-AA18
+Pin R19-1 -> R6-1
+Pin U54-V5 -> R256-2
+Pin U32-H3 -> U42-H3
+Pin R15-2 -> R2-2
+Pin R77-2 -> R60-2
+Pin R378-1 -> R261-1
+Pin U8-AA9 -> U15-AA9
+Pin U8-G21 -> U15-G21
+Pin R80-2 -> R30-2
+ElecNet CLK_IOH_SATAN -> CLK-IOH-SATAN
+ElecNet SATA1_TXP^^^ -> SATA1-TXP
+ElecNet IOH_MII_RXDV-CRS^^^ -> RGMII-RXCTL
+ElecNet PM_RSTWARN -> PM-RSTWARN
+ElecNet XTAL_OUT -> XTAL-OUT
+ElecNet CLK_XDPP -> CLK-XDPP
+ElecNet USB_OC4# -> USB-OC4#
+ElecNet PCIE_RXN2^^^ -> PCIE-RXN3
+ElecNet M_A_CAS# -> M-A-CAS#
+ElecNet M_A_BS2 -> M-A-BS2
+ElecNet M_A_A10 -> M-A-A10
+ElecNet M_A_A9 -> M-A-A9
+ElecNet M_A_A0 -> M-A-A0
+ElecNet M_A_DQ24 -> M-A-DQ26
+ElecNet M_A_DQ13 -> M-A-DQ12
+ElecNet M_A_DQ7 -> M-A-DQ4
+ElecNet $10N410 -> ETH1-ALT-RST#
+ElecNet $8N650 -> VCCRTCEXT
+Pin R97-1 -> R151-1
+Pin U8-E2 -> U15-E2
+Net SATA1_RXN -> SATA1-RXN
+Net SATA0_TXN -> SATA0-TXN
+Net SATA0_RXN -> SATA0-RXN
+Net IOH_MII_MDIO -> ETH1-MDIO
+Net SERIAL1_RX -> SERIAL0-RXD
+Pin R365-1 -> R435-1
+Pin C472-1 -> C628-1
+Pin C451-1 -> C573-1
+Pin U8-K20 -> U15-K20
+Pin R431-1 -> R20-1
+Pin R51-1 -> R18-1
+Pin U32-AA16 -> U42-AA16
+Pin FB7-1 -> FB6-1
+Pin U32-AJ14 -> U42-AJ14
+Net M_CKE1 -> M-CKE1
+Pin U39-A1 -> U8-A1
+Pin C331-1 -> C187-1
+Pin C321-1 -> C177-1
+Pin U41-E9 -> U10-E9
+Pin U40-A9 -> U9-A9
+Pin U42-C1 -> U11-C1
+Pin U44-A9 -> U13-A9
+Pin U37-H9 -> U6-H9
+Pin U32-W26 -> U42-W26
+Pin R374-1 -> R452-1
+Pin U32-J18 -> U42-J18
+Pin C376-1 -> C401-1
+Pin U32-AM25 -> U42-AM25
+Pin U8-H2 -> U15-H2
+Pin C477-1 -> C633-1
+Pin U8-D18 -> U15-D18
+Pin R204-2 -> R392-2
+Pin C165-1 -> C201-1
+Pin C252-1 -> C170-1
+Net CLK_HPLL_REFCLKN -> CLK-HPLL-REFCLKN
+Pin U36-27 -> U49-27
+Pin U8-A21 -> U15-A21
+Net SMB_CLK -> SMB-CLK
+Pin U32-G14 -> U42-G14
+Pin U32-D7 -> U42-D7
+Net CLK_LPC_0 -> CLK-LPC-0
+Pin C66-1 -> C104-1
+Net SDVO_GREENN_C -> SDVO-GREENN-C
+Pin C65-2 -> C106-2
+Pin C84-1 -> C109-1
+Pin U32-E18 -> U42-E18
+Pin U8-Y1 -> U15-Y1
+Pin U8-Y2 -> U15-Y2
+Pin C103-1 -> C122-1
+Net PCIE_TXP0_C -> PCIE-TXP0-C
+Net PCIE_TXP0 -> PCIE-TXP0
+Pin U32-D27 -> U42-D27
+Pin U43-F9 -> U12-F9
+Pin R190-1 -> R161-1
+Pin U32-AJ12 -> U42-AJ12
+Net M_CLK_DDRP0 -> M-CLK-DDRP0
+Pin U40-F8 -> U9-F8
+Pin R355-2 -> R425-2
+Pin U42-F7 -> U11-F7
+Pin U42-G7 -> U11-G7
+Pin U38-G1 -> U7-G1
+Pin U38-G3 -> U7-G3
+Pin U38-G2 -> U7-G2
+Pin U39-L3 -> U8-L3
+Pin U40-L8 -> U9-L8
+Pin U32-Y7 -> U42-Y7
+Pin U32-AP11 -> U42-AP9
+Net M_A_DQ28 -> M-A-DQ25
+Pin U38-C2 -> U7-C8
+Pin U43-D9 -> U12-D9
+Pin U43-B3 -> U12-B3
+Pin U44-B7 -> U13-B7
+Pin U44-D9 -> U13-D9
+Pin U39-D9 -> U8-D1
+Pin U42-D1 -> U11-D1
+Net M_A_DQ9 -> M-A-DQ9
+Pin U32-AF5 -> U42-AF5
+Pin U40-B3 -> U9-B3
+Pin U32-D5 -> U42-D5
+Pin U32-AT9 -> U42-AT9
+Pin R703-1 -> R375-1
+Pin U8-AB18 -> U15-AB18
+Net IO_RX_CVREF -> IO-RX-CVREF
+Pin U32-AH37 -> U42-AH37
+Pin R372-2 -> R450-2
+Net $36N719 -> $36N272
+Pin U32-AC34 -> U42-AC34
+Pin U8-AA19 -> U15-AA19
+Net CPU_BSEL0 -> CPU-BSEL0
+Pin C352-1 -> C377-1
+Net $26N754 -> RGMII-RXD2-R
+Pin U8-F19 -> U15-F19
+Net $10N373 -> SERIAL2-RXD
+Net $10N237 -> $10N663
+Pin U8-B18 -> U15-B18
+Pin R278-1 -> R440-1
+Pin U32-AL34 -> U42-AL34
+ElecNet SATA1_RXN^^^ -> SATA1-RXN
+ElecNet SATA0_RXN^^^ -> SATA0-RXN
+ElecNet XDP_PREQ# -> XDP-PREQ#
+ElecNet IOH_MII_TXEN^^^ -> RGMII-TXCTL-R
+ElecNet SERIAL1_TX -> SERIAL0-TXD
+ElecNet PM_THRM# -> PM-THRM#
+ElecNet CLK_HPLL_REFCLKP -> CLK-HPLL-REFCLKP
+ElecNet USB_OC2# -> USB-OC2#
+ElecNet PCIE_TXP3^^^ -> PCIE-TXP2-C
+ElecNet PCIE_RXN1^^^ -> PCIE-RXN1
+ElecNet M_A_BS1 -> M-A-BS1
+ElecNet M_A_BS0 -> M-A-BS0
+ElecNet M_A_DQ28 -> M-A-DQ25
+ElecNet M_A_DQ17 -> M-A-DQ22
+ElecNet M_A_DQ8 -> M-A-DQ10
+ElecNet M_RCVEN -> M-RCVEN
+ElecNet IOH-GPIO-11^^^ -> SD0-D6
+ElecNet IO_RX_GVREF -> IO-RX-GVREF
+Pin U32-F1 -> U42-F1
+Pin U32-AA2 -> U42-AA2
+Pin U8-E1 -> U15-E1
+Pin U32-AM37 -> U42-AM37
+Pin R214-2 -> R194-2
+Pin R217-2 -> R196-2
+Pin U8-W10 -> U15-W10
+Pin R28-2 -> R15-2
+Net PM_SPL_PLB# -> PM-SPL-PLB#
+Pin U32-V1 -> U42-V1
+Pin U8-W3 -> U15-W3
+Pin C445-1 -> C567-1
+Pin U8-C12 -> U15-C12
+Pin C447-1 -> C569-1
+Pin U38-F2 -> U7-F2
+Pin U38-C1 -> U7-C1
+Pin C429-1 -> C508-1
+Pin U39-C9 -> U8-C9
+Pin U37-E9 -> U6-E9
+Pin U43-C9 -> U12-C9
+Pin C41-1 -> C427-1
+Pin U32-AC12 -> U42-AC12
+Pin R368-1 -> R444-1
+Pin U32-AK15 -> U42-AK15
+Pin R218-1 -> R197-1
+Pin C370-1 -> C395-1
+Pin R232-1 -> R199-1
+Pin C422-1 -> C500-1
+Pin C420-1 -> C498-1
+Pin U8-G4 -> U15-G4
+Pin C166-1 -> C137-1
+Pin U8-T19 -> U15-T19
+Pin U8-D12 -> U15-D12
+Pin C9-1 -> C199-1
+Pin R177-2 -> R386-2
+Pin R183-2 -> R388-2
+Pin R184-2 -> R406-2
+Pin U44-E2 -> U13-E2
+Net CLK_14MHZ -> CLK-14MHZ
+Net LPC_AD3 -> LPC-AD3
+Net LPC_AD0 -> LPC-AD0
+Net SDVO_GREENN -> SDVO-GREENN
+Net SDVO_CLKP_C -> SDVO-CLKP-C
+Pin U32-A32 -> U42-A32
+Net PCIE_RXP2 -> PCIE-RXP3
+Pin C28-2 -> C100-2
+Pin U37-F9 -> U6-F9
+Pin U43-G8 -> U12-G8
+Pin U44-E8 -> U13-E8
+Pin U44-F3 -> U13-F3
+Pin U38-F7 -> U7-F7
+Pin U38-G7 -> U7-G7
+Pin R179-1 -> R390-1
+Pin R203-1 -> R393-1
+Pin R204-1 -> R392-1
+Pin R180-1 -> R395-1
+Pin U32-AT23 -> U42-AT17
+Net M_A_DQ21 -> M-A-DQ18
+Net M_A_DM1 -> M-A-DM1
+Pin U40-C2 -> U9-C8
+Pin U41-B9 -> U10-B9
+Pin R16-2 -> R3-2
+Pin J4-1 -> C599-1
+Pin R25-2 -> R11-2
+Net IOH_NTRST -> $11N513
+Net IOH-GPIO-10 -> SERIAL2-SEL
+Pin R369-2 -> R445-2
+Pin R650-1 -> C491-1
+Pin R37-2 -> R16-2
+Net CPU_CMI#_R -> CPU-CMI#-R
+Pin U8-Y5 -> U15-Y5
+Pin U8-AA5 -> U15-AA5
+Pin FB1-2 -> FB5-2
+Pin FB26-2 -> FB7-2
+Pin U8-F20 -> U15-F20
+Pin U8-AA15 -> U15-AA15
+Pin U32-AN26 -> U42-AN26
+Pin U32-AC2 -> U42-AC2
+Pin U32-R6 -> U42-R6
+ElecNet SATA0_TXN^^^ -> SATA0-TXN
+ElecNet PM_THRMTRIP# -> PM-THRMTRIP#
+ElecNet PM_HIGHZ#^^^ -> PM-HIGHZ#-R
+ElecNet +V3.3S_CLKBUF_VDDIO -> +V3.3S-CLKBUF-VDDIO
+ElecNet +V1.2A_FPGA -> SER1-485RP
+ElecNet CK505_SMB_SCLK^^^ -> CK505-SMB-SCLK
+ElecNet LPC_AD2 -> LPC-AD2
+ElecNet SDVO_CLKP^^^ -> SDVO-CLKP
+ElecNet USB_OC0# -> USB-OC0#
+ElecNet M_ODT0 -> M-ODT0
+ElecNet M_A_DQ9 -> M-A-DQ9
+ElecNet VCCD_VSSSENSE -> VCCD-VSSSENSE
+ElecNet TC-GPIO-1 -> FPGA-CFG-DONE
+ElecNet IOH_RTCK -> IOH-RTCK
+ElecNet CPU_BSEL1 -> CPU-BSEL1
+ElecNet $29N757^^^ -> SD0-D2
+ElecNet $26N752 -> RGMII-RXD3-R
+ElecNet $10N368 -> SERIAL3-RXD
+Pin U8-AB3 -> U15-AB3
+Pin U32-AD1 -> U42-AD1
+Net XDP_TDO -> XDP-TDO
+Pin U32-T1 -> U42-T1
+Net XDP_PREQ# -> XDP-PREQ#
+Pin U8-AB13 -> U15-AB13
+Net $10N518 -> RGMII-TXD0-R
+Net IOH_MII_MDC_R -> ETH1-MDC
+Net SERIAL2-RXD -> SERIAL1-RXD
+Net PM_STPCPU# -> PM-STPCPU#
+Pin U32-Y1 -> U42-Y1
+Pin U32-H11 -> U42-H11
+Net PM_PCIE_WAKE# -> PM-PCIE-WAKE#
+Net PM_HIGHZ# -> PM-HIGHZ#-R
+Net PM_CPU_RST# -> PM-CPU-RST#
+Pin R111-1 -> R42-1
+Pin U36-45 -> U49-45
+Pin U8-D17 -> U15-D17
+Pin U8-J18 -> U15-J18
+Pin U32-N12 -> U42-N12
+Pin R194-1 -> R163-1
+Pin U32-AM7 -> U42-AM7
+Pin C46-1 -> C60-1
+Pin C272-1 -> C173-1
+Pin U42-A1 -> U11-A1
+Pin C179-1 -> C589-1
+Pin U43-A9 -> U12-A9
+Pin C425-1 -> C504-1
+Pin C25-1 -> C52-1
+Pin C325-1 -> C181-1
+Pin U38-A1 -> U7-A1
+Pin C39-1 -> C423-1
+Pin U32-AF13 -> U42-AF13
+Pin U32-L24 -> U42-L24
+Pin R321-1 -> R336-1
+Pin C366-1 -> C391-1
+Pin U8-V3 -> U15-V3
+Pin C245-1 -> C163-1
+Pin U8-J19 -> U15-J19
+Pin C459-1 -> C581-1
+Pin C161-1 -> C195-1
+Pin R426-2 -> R400-2
+Pin C335-1 -> C191-1
+Pin R250-2 -> R305-2
+Pin R26-2 -> R12-2
+Pin C49-2 -> C105-2
+Pin U8-D8 -> U15-D8
+Net USB_OC3# -> USB-OC3#
+Net CLK_PCIE_REFP -> CLK-PCIE-REFP
+Net PCIE_RXN1 -> PCIE-RXN1
+Pin C47-1 -> C110-1
+Pin U37-G8 -> U6-G8
+Pin U40-E8 -> U9-E8
+Pin U40-F3 -> U9-F3
+Pin R177-1 -> R386-1
+Pin R195-1 -> R389-1
+Pin U32-AG8 -> U42-AG8
+Pin U43-K7 -> U12-K7
+Pin R183-1 -> R388-1
+Pin U32-W10 -> U42-W10
+Pin U43-H2 -> U12-H2
+Pin U32-AB7 -> U42-AB7
+Pin U43-K8 -> U12-K8
+Pin U43-K2 -> U12-K2
+Pin U32-AH7 -> U42-AH7
+Pin U43-J7 -> U12-J7
+Pin U32-AP7 -> U42-AP7
+Pin U43-J3 -> U12-J3
+Pin R197-1 -> R394-1
+Pin U32-AN2 -> U42-AN2
+Pin U43-J8 -> U12-J8
+Pin R181-1 -> R397-1
+Pin R198-1 -> R396-1
+Pin R182-1 -> R398-1
+Pin R205-1 -> R399-1
+Pin U38-D3 -> U7-D7
+Pin U43-D7 -> U12-D7
+Pin U44-D7 -> U13-D7
+Pin U37-D1 -> U6-D9
+Pin U39-B7 -> U8-B7
+Pin U32-AR4 -> U42-AJ4
+Pin U40-D7 -> U9-D3
+Pin U41-D1 -> U10-D1
+Pin U32-AL26 -> U42-AL26
+Pin U32-AL28 -> U42-AL28
+Pin R341-1 -> R411-1
+Pin U32-L10 -> U42-L10
+Pin U8-Y19 -> U15-Y19
+Net M_RCVEN -> M-RCVEN
+Net IOH-GPIO-9 -> RTC-IRQ#
+Net IOH-GPIO-8 -> SD0-FAULT#
+Pin R408-1 -> R454-1
+Net FPGA_INIT_DONE -> GND
+Net CPLD_TCK -> CPLD-TCK
+Pin C355-1 -> C380-1
+Pin R36-2 -> R172-2
+Pin R224-2 -> R109-1
+Pin C222-2 -> R110-2
+Pin R384-1 -> R464-1
+Pin R113-1 -> R41-1
+Net $10N233 -> $10N659
+Pin R364-1 -> R434-1
+Pin U8-K21 -> U15-K21
+Pin U8-W15 -> U15-W15
+Pin R459-1 -> C544-1
+Pin R349-2 -> R379-2
+Pin R417-1 -> R548-1
+Pin U32-R30 -> U42-R30
+ElecNet SATA1_RXP^^^ -> SATA1-RXP
+ElecNet XDP_TMS -> XDP-TMS
+ElecNet IOH_MII_RXD2^^^ -> RGMII-RXD2
+ElecNet SERIAL1_CTS -> SERIAL0-CTS
+ElecNet PM_SPL_PLC# -> PM-SPL-PLC#
+ElecNet PM_SLPMODE -> PM-SLPMODE
+ElecNet CLK_14MHZ^^^ -> CLK-14MHZ
+ElecNet CLK_PCIE_SRC0_N -> CLK-PCIE-SRC0N
+ElecNet PCIE_TXP2^^^ -> PCIE-TXP3-C
+ElecNet M_A_WE# -> M-A-WE#
+ElecNet M_A_DQ21 -> M-A-DQ18
+ElecNet M_A_DM0 -> M-A-DM0
+ElecNet SMB_ALERT# -> SMB-ALERT#
+ElecNet EXT_TRIG_IO3^^^ -> $36N272
+Pin U8-AB4 -> U15-AB4
+Net SD0_CMD -> SD0-CMD-R
+Pin U8-N1 -> U15-N1
+Pin U32-AN16 -> U42-AN16
+Pin U32-K1 -> U42-K1
+Net PM_RSTRDY# -> PM-RSTRDY#
+Pin R346-2 -> R416-2
+Pin R121-1 -> R56-1
+Pin U8-AA4 -> U15-AA4
+Pin C231-1 -> C160-1
+Pin C207-1 -> C150-1
+Pin U8-U19 -> U15-U19
+Pin C107-1 -> C126-1
+Pin R366-1 -> R442-1
+Pin U8-E11 -> U15-E11
+Pin U32-T25 -> U42-T25
+Pin U43-F2 -> U12-F2
+Pin U41-C1 -> U10-C1
+Pin C42-1 -> C56-1
+Pin U40-C7 -> U9-C7
+Pin C334-1 -> C190-1
+Pin U37-C1 -> U6-C1
+Pin U44-C7 -> U13-C7
+Pin U39-A9 -> U8-A9
+Pin C21-1 -> C48-1
+Pin C393-1 -> C433-1
+Pin C357-1 -> C382-1
+Pin U32-AJ20 -> U42-AJ20
+Pin C379-1 -> C404-1
+Pin U32-J24 -> U42-J24
+Pin C113-1 -> C166-1
+Pin U8-M2 -> U15-M2
+Pin C482-1 -> C529-1
+Pin C473-1 -> C629-1
+Pin C471-1 -> C627-1
+Pin R181-2 -> R397-2
+Pin R180-2 -> R395-2
+Pin R171-2 -> R158-2
+Pin U38-E2 -> U7-E2
+Pin U40-E2 -> U9-E2
+Pin U36-28 -> U49-28
+Pin U32-AU26 -> U42-AU26
+Pin C239-1 -> C11-1
+Pin R250-1 -> R305-1
+Net CPU_BSEL2 -> CPU-BSEL2
+Net LPC_FRAME# -> LPC-FRAME#
+Pin U32-E14 -> U42-E14
+Net SDVO_CTRLCLK -> SDVO-CTRLCLK
+Net SDVO_INTP -> SDVO-INTP
+Net SDVO_CLKP -> SDVO-CLKP
+Pin U36-21 -> U49-21
+Pin U36-22 -> U49-22
+Net CLK_PCIE_REFN -> CLK-PCIE-REFN
+Net PCIE_TXN3_C -> PCIE-TXN2-C
+Pin U8-T1 -> U15-T1
+Pin U32-D25 -> U42-D25
+Net PCIE_TXN0_C -> PCIE-TXN0-C
+Net PCIE_TXN0 -> PCIE-TXN0
+Pin R355-1 -> R425-1
+Pin U41-G1 -> U10-G1
+Net M_A_A14 -> M-A-A14
+Pin U32-AU10 -> U42-AU10
+Pin U43-L8 -> U12-L8
+Pin R200-1 -> R387-1
+Pin U43-L2 -> U12-L2
+Pin U32-AD5 -> U42-AD5
+Pin U39-K7 -> U8-K7
+Pin U39-H2 -> U8-H2
+Pin U41-K3 -> U10-K3
+Pin U39-K8 -> U8-K8
+Pin U39-K2 -> U8-K2
+Pin U39-J7 -> U8-J7
+Pin U39-J3 -> U8-J3
+Pin U39-J8 -> U8-J8
+Pin U43-J2 -> U12-J2
+Pin U43-H7 -> U12-H7
+Pin U32-AN4 -> U42-AN4
+Pin U32-AA10 -> U42-AA10
+Pin U43-H3 -> U12-H3
+Pin U43-H8 -> U12-H8
+Pin U32-AA8 -> U42-AA8
+Pin U32-AP9 -> U42-AT15
+Net M_A_DQ25 -> M-A-DQ31
+Pin U32-AP13 -> U42-AP13
+Pin U32-AP15 -> U42-AP15
+Pin U32-AT17 -> U42-AT21
+Pin U37-B3 -> U6-B3
+Pin U32-AM5 -> U42-AH5
+Net M_A_DQ14 -> M-A-DQ15
+Pin U42-C8 -> U11-C8
+Net M_A_DQ10 -> M-A-DQ11
+Pin U40-D3 -> U9-D7
+Pin U41-B1 -> U10-B1
+Pin U32-AG20 -> U42-AG20
+Pin U32-N20 -> U42-N20
+Pin R340-1 -> R410-1
+Pin R349-1 -> R379-1
+Pin U36-9 -> U49-9
+Net $23N834 -> +V2.5_DVI_AVDD
+Net IOH-GPIO-3 -> SERIAL3-DE
+Net IOH-GPIO-2 -> SERIAL2-DE
+Pin R371-2 -> R449-2
+Pin U36-1 -> U49-1
+Pin R345-2 -> R415-2
+Pin U36-12 -> U49-12
+Net IOH_TDO -> IOH-TDO
+Net IOH_TDI -> IOH-TDI
+Net CPLD_TDI -> CPLD-TMS
+Pin C88-1 -> C116-1
+Pin R620-2 -> R250-2
+Net $26N748 -> RGMII-RXCTL-R
+Pin U8-AA8 -> U15-AA8
+Pin R81-2 -> R33-2
+Pin R79-2 -> R27-2
+Net $10N90 -> ETH1-INT#
+Pin R305-1 -> R324-1
+ElecNet SPI_SO^^^ -> SPI-SO
+ElecNet XDP_BPM#3 -> XDP-BPM#3
+ElecNet XDP_BPM#1 -> XDP-BPM#1
+ElecNet PM_STPPCI# -> PM-STPPCI#
+ElecNet PM_CPU_RST#^^^ -> PM-CPU-RST#
+ElecNet +V1.8S^^^ -> +V1.8S
+ElecNet +V1.8_DDR2^^^ -> $16N212
+ElecNet CK505_SMB_DATA^^^ -> CK505-SMB-DATA
+ElecNet SDVO_CLKN^^^ -> SDVO-CLKN
+ElecNet CLK_PCIE_REFP -> CLK-PCIE-REFP
+ElecNet CLK_PCIE_INP^^^ -> CLK-PCIE-INP
+ElecNet PCIE_TXN3^^^ -> PCIE-TXN2-C
+ElecNet PCIE_TXN0^^^ -> PCIE-TXN0
+ElecNet M_A_DQ14 -> M-A-DQ15
+ElecNet M_A_DQ10 -> M-A-DQ11
+ElecNet M_A_DQS0 -> M-A-DQS0
+ElecNet RUN_V5_V3.3 -> SD0-WP
+ElecNet PCIE_WAKE#^^^ -> $10N449
+ElecNet CPU_TEST# -> CPU-TEST#
+ElecNet CPLD_TMS^^^ -> CPLD-TDI
+ElecNet CPLD_TDO^^^ -> IOH-TDI
+ElecNet $8N628 -> +V3.3A_RTC
+Pin U53-1 -> R501-1
+Pin U8-D6 -> U15-D6
+Pin U36-19 -> U49-19
+Pin U32-AL14 -> U42-AL14
+Pin U32-AN36 -> U42-AN36
+Pin U32-AP35 -> U42-AP35
+Pin U8-AA16 -> U15-AA16
+Net PM_THRM# -> PM-THRM#
+Pin C338-1 -> C206-1
+Pin FB30-2 -> FB11-2
+Pin U8-Y6 -> U15-Y6
+Pin U8-V17 -> U15-V17
+Pin C450-1 -> C572-1
+Pin U8-D11 -> U15-D11
+Pin U32-T31 -> U42-T31
+Pin U32-U14 -> U42-U14
+Pin C385-1 -> C410-1
+Pin U32-U16 -> U42-U16
+Pin U44-E1 -> U13-E1
+Pin U38-C9 -> U7-C9
+Pin C323-1 -> C179-1
+Pin U42-C9 -> U11-C9
+Pin U40-E1 -> U9-E1
+Pin C430-1 -> C509-1
+Pin L8-2 -> L5-2
+Pin U32-T23 -> U42-T23
+Pin U32-H25 -> U42-H25
+Pin R210-1 -> R176-1
+Pin U32-AJ16 -> U42-AJ16
+Pin R347-1 -> R377-1
+Pin C375-1 -> C400-1
+Pin FB26-1 -> FB7-1
+Pin U32-R26 -> U42-R26
+Pin C56-1 -> C431-1
+Pin C476-1 -> C632-1
+Pin U8-U3 -> U15-U3
+Pin U8-N3 -> U15-N3
+Pin U8-N19 -> U15-N19
+Pin FB29-1 -> FB10-1
+Pin R178-2 -> R391-2
+Pin C251-1 -> C169-1
+Pin U32-B11 -> U42-B11
+Pin C238-1 -> C10-1
+Pin R382-1 -> R462-1
+Pin R27-2 -> R13-2
+Pin U32-G8 -> U42-G8
+Pin U32-B19 -> U42-B19
+Pin U32-B13 -> U42-B13
+Net USB_OC5# -> USB-OC5#
+Net USB_OC1# -> USB-OC1#
+Pin U32-E32 -> U42-E32
+Net PCIE_RXP0_C -> PCIE-RXP0-C
+Net PCIE_RXP0 -> PCIE-RXP0
+Pin U32-E30 -> U42-E30
+Pin U42-F9 -> U11-F9
+Net M_ODT1 -> M-ODT1
+Pin U40-F9 -> U9-F9
+Pin U43-F8 -> U12-F8
+Pin U32-AT7 -> U42-AT7
+Pin U41-F7 -> U10-F7
+Pin U37-G1 -> U6-G1
+Pin U41-G3 -> U10-G3
+Pin U41-G2 -> U10-G2
+Pin U42-L3 -> U11-L3
+Pin U39-L8 -> U8-L8
+Pin U39-L2 -> U8-L2
+Pin U37-K3 -> U6-K3
+Pin U39-J2 -> U8-J2
+Pin U39-H7 -> U8-H7
+Pin U39-H3 -> U8-H3
+Pin U39-H8 -> U8-H8
+Pin U43-C2 -> U12-C2
+Net M_A_DM3 -> M-A-DM3
+Net M_A_DQS2 -> M-A-DQS2
+Pin U37-B9 -> U6-B1
+Net M_A_DQ18 -> M-A-DQ19
+Pin U37-C8 -> U6-C2
+Pin U42-D9 -> U11-D9
+Pin U39-D7 -> U8-D3
+Pin U32-AK1 -> U42-AK1
+Pin U41-B3 -> U10-B3
+Pin U32-AU32 -> U42-AU32
+Pin R210-2 -> R176-2
+Pin R339-1 -> R409-1
+Net $11N581 -> SD0-D6
+Pin R406-1 -> R511-1
+Pin U8-Y18 -> U15-Y18
+Pin R75-1 -> R57-1
+Pin R376-2 -> R455-2
+Pin U32-H19 -> U42-H19
+Pin U32-H17 -> U42-H17
+Pin C440-1 -> C531-1
+Net $29N762 -> +V3.3S_SD0
+Net $10N235 -> $10N661
+Pin U32-AE8 -> U42-AE8
+ElecNet SD1_CD# -> $11N493
+ElecNet XDP_BPM#0 -> XDP-BPM#0
+ElecNet IOH_MII_TXD1^^^ -> RGMII-TXD1-R
+ElecNet PM_SPL_PLB# -> PM-SPL-PLB#
+ElecNet EXT_CLKIN_P -> PM-V1.2A-EN
+ElecNet CLK_CPU_BCLKP -> CLK-CPU-BCLKP
+ElecNet CLK_LPC_0^^^ -> CLK-LPC-0
+ElecNet SDVO_CTRLDATA -> SDVO-CTRLDATA
+ElecNet SDVO_GREENN^^^ -> SDVO-GREENN
+ElecNet PCIE_RXN3 -> PCIE-RXN2
+ElecNet M_A_DQS3 -> M-A-DQS3
+ElecNet M_A_DQ25 -> M-A-DQ31
+ElecNet M_A_DQ18 -> M-A-DQ19
+ElecNet M_A_DM2 -> M-A-DM2
+ElecNet PEREQ2_N -> PEREQ2#
+Pin U36-18 -> U49-18
+Pin U8-L2 -> U15-L2
+Pin U8-J1 -> U15-J1
+Pin U8-G1 -> U15-G1
+Net XDP_BPM#3 -> XDP-BPM#3
+Net XDP_BPM#1 -> XDP-BPM#1
+Pin U8-AB12 -> U15-AB12
+Net IOH_MII_RXD2 -> RGMII-RXD2
+Net IOH_MII_RXCLK -> RGMII-RXCLK
+Pin R344-1 -> R414-1
+Pin U8-AB21 -> U15-AB21
+Pin U8-Y20 -> U15-Y20
+Pin U36-44 -> U49-44
+Net CAN_RX -> CAN-RX
+Pin U8-G20 -> U15-G20
+Pin R50-1 -> R17-1
+Pin C127-1 -> C131-1
+Pin U32-AD15 -> U42-AD15
+Pin FB1-1 -> FB5-1
+Pin U32-AH15 -> U42-AH15
+Pin U37-F2 -> U6-F2
+Pin U42-A9 -> U11-A9
+Pin U40-L1 -> U9-L1
+Pin U37-A1 -> U6-A1
+Pin U44-L1 -> U13-L1
+Pin U38-A9 -> U7-A9
+Pin U41-A1 -> U10-A1
+Pin C426-1 -> C505-1
+Pin R372-1 -> R450-1
+Pin C53-1 -> C426-1
+Pin U32-M25 -> U42-M25
+Pin U8-G3 -> U15-G3
+Pin C421-1 -> C499-1
+Pin C159-1 -> C136-1
+Pin R200-2 -> R387-2
+Pin R176-2 -> R405-2
+Pin C163-1 -> C198-1
+Pin U43-E2 -> U12-E2
+Pin U36-14 -> U49-14
+Net CLK_XDPN -> CLK-XDPN
+Pin U36-32 -> U49-32
+Pin U32-J2 -> U42-J2
+Pin U8-AB9 -> U15-AB9
+Net INT_SERIRQ -> INT-SERIRQ
+Pin C65-1 -> C106-1
+Pin C68-1 -> C103-1
+Net SDVO_BLUEN_C -> SDVO-BLUEN-C
+Pin U8-D9 -> U15-D9
+Pin U8-A19 -> U15-A19
+Net USB_OC2# -> USB-OC2#
+Pin U32-B31 -> U42-B31
+Pin U42-G8 -> U11-G8
+Net M_CS#1 -> M-CS#1
+Pin U40-G8 -> U9-G8
+Pin U39-F8 -> U8-F8
+Pin R185-1 -> R401-1
+Pin U37-F7 -> U6-F7
+Pin U41-G7 -> U10-G7
+Pin U37-G3 -> U6-G3
+Pin U37-G2 -> U6-G2
+Pin U38-L3 -> U7-L3
+Net M_A_A7 -> M-A-A7
+Pin U32-AN10 -> U42-AT11
+Net M_A_DQ29 -> M-A-DQ27
+Pin U38-D1 -> U7-D9
+Pin U32-AT19 -> U42-AT23
+Pin U40-C8 -> U9-C2
+Pin U41-C2 -> U10-C2
+Pin U32-AF1 -> U42-AA4
+Pin U32-C4 -> U42-C4
+Net RUN_V5_V3.3 -> SD0-WP
+Pin U36-3 -> U49-3
+Pin R104-2 -> R263-2
+Net PCIE_WAKE# -> PCIE-WAKE#
+Net M_SRFWEN -> M-SRFWEN
+Pin R404-1 -> R448-1
+Pin U32-J34 -> U42-J34
+Pin U32-U2 -> U42-U2
+Net H_PROCHOT# -> H-PROCHOT#
+Pin R381-1 -> R461-1
+Pin U32-K19 -> U42-K19
+Pin R38-1 -> R173-1
+Net $29N757 -> SD0-D2
+Pin U36-8 -> U49-8
+Pin U8-AA17 -> U15-AA17
+Pin U32-E22 -> U42-E22
+Pin R211-1 -> R192-1
+Pin U32-T5 -> U42-T5
+Pin R170-1 -> R155-1
+Pin U32-AJ30 -> U42-AJ30
+ElecNet SPI_SI^^^ -> SPI-SI
+ElecNet SATA0_TXP^^^ -> SATA0-TXP
+ElecNet SATA0_RXP^^^ -> SATA0-RXP
+ElecNet IOH_MII_MDIO -> ETH1-MDIO
+ElecNet SERIAL1_RX -> SERIAL0-RXD
+ElecNet PM_RST#_R^^^ -> RST#
+ElecNet SUS_CLK^^^ -> $6N666
+ElecNet CLK_PCIE_IOHN0^^^ -> CLK-PCIE-IOHN0
+ElecNet PCIE_TXP1^^^ -> PCIE-TXP1
+ElecNet IO_RX_CVREF -> IO-RX-CVREF
+Pin U32-H5 -> U42-H5
+Pin U32-F5 -> U42-F5
+Net SD1_CMD -> $11N495
+Net XDP_TRST# -> XDP-TRST#
+Pin U8-B21 -> U15-B21
+Pin U8-AB22 -> U15-AB22
+Pin U32-W2 -> U42-W2
+Pin U32-K5 -> U42-K5
+Pin U36-2 -> U49-2
+Pin FB28-2 -> FB9-2
+Pin L12-2 -> L9-2
+Pin U32-AH11 -> U42-AH11
+Pin U32-AH13 -> U42-AH13
+Pin U39-C7 -> U8-C7
+Pin C273-1 -> C174-1
+Pin U41-C9 -> U10-C9
+Pin R114-1 -> R54-1
+Pin U43-C7 -> U12-C7
+Pin C428-1 -> C507-1
+Pin C45-1 -> C59-1
+Pin C326-1 -> C182-1
+Pin R114-2 -> R54-2
+Pin U32-AC14 -> U42-AC14
+Pin U32-AJ26 -> U42-AJ26
+Pin C54-1 -> C422-1
+Pin U32-L22 -> U42-L22
+Pin R217-1 -> R196-1
+Pin C369-1 -> C394-1
+Pin U32-AE12 -> U42-AE12
+Pin C419-1 -> C497-1
+Pin U8-U4 -> U15-U4
+Pin U8-D16 -> U15-D16
+Pin C458-1 -> C580-1
+Pin C197-1 -> C194-1
+Pin C332-1 -> C188-1
+Net CLK_SDVO_REFCLKP -> CLK-SDVO-REFCLKP
+Net SUS_CLK_R -> $6N666
+Pin R14-1 -> R1-1
+Pin R155-1 -> R265-1
+Pin C64-2 -> C107-2
+Net SDVO_REDN_C -> SDVO-REDN-C
+Pin C90-2 -> C108-2
+Net SDVO_BLUEN -> SDVO-BLUEN
+Net PCIE_RXP3 -> PCIE-RXP2
+Pin U32-E26 -> U42-E26
+Pin C27-2 -> C99-2
+Pin U43-E8 -> U12-E8
+Pin U32-AU8 -> U42-AU8
+Net M_CLK_DDRN0 -> M-CLK-DDRN0
+Pin U32-AT13 -> U42-AT13
+Pin U43-F3 -> U12-F3
+Pin U37-G7 -> U6-G7
+Net M_A_A11 -> M-A-A11
+Net M_A_A10 -> M-A-A10
+Pin U44-K3 -> U13-K3
+Pin U42-K8 -> U11-K8
+Net M_A_A8 -> M-A-A8
+Pin U42-K2 -> U11-K2
+Pin U42-J7 -> U11-J7
+Net M_A_A6 -> M-A-A6
+Pin U42-J3 -> U11-J3
+Net M_A_A5 -> M-A-A5
+Net M_A_A4 -> M-A-A4
+Pin U43-D3 -> U12-D3
+Net M_A_DQ22 -> M-A-DQ21
+Pin U37-C2 -> U6-C8
+Pin U44-D1 -> U13-D1
+Pin U42-B7 -> U11-B7
+Pin U32-AJ4 -> U42-AP5
+Pin U40-D9 -> U9-D1
+Pin U41-D7 -> U10-D7
+Pin U32-AJ2 -> U42-AC4
+Net M_A_DQ0 -> M-A-DQ0
+Pin U32-AT33 -> U42-AT33
+Pin U32-H1 -> U42-H1
+Net PEREQ3_N -> PEREQ3#
+Pin U8-AB6 -> U15-AB6
+Pin R383-2 -> R463-2
+Pin R368-2 -> R444-2
+Pin U8-AB5 -> U15-AB5
+Net VCC_VSSSENSE -> VCC-VSSSENSE
+Pin C222-1 -> R110-1
+Pin R24-2 -> R10-2
+Pin U8-T21 -> U15-T21
+Pin U8-Y14 -> U15-Y14
+Pin U32-AL24 -> U42-AL24
+ElecNet SD0_CMD -> SD0-CMD-R
+ElecNet IOH_MII_MDC^^^ -> ETH1-MDC
+ElecNet PM_STPCPU# -> PM-STPCPU#
+ElecNet PM_RSMRST#^^^ -> PM-RSMRST#
+ElecNet PM_PCIE_WAKE# -> PM-PCIE-WAKE#
+ElecNet +V5S^^^ -> +V3.3S
+ElecNet CLK_CPU_BCLKN -> CLK-CPU-BCLKN
+ElecNet LPC_AD3 -> LPC-AD3
+ElecNet USB_OC3# -> USB-OC3#
+ElecNet M_A_A7 -> M-A-A7
+ElecNet M_A_DQ29 -> M-A-DQ27
+ElecNet M_A_DQ22 -> M-A-DQ21
+ElecNet IOH_NTRST -> $11N513
+ElecNet IOH-GPIO-10 -> SERIAL2-SEL
+ElecNet $26N754 -> RGMII-RXD2-R
+ElecNet $10N373 -> SERIAL2-RXD
+Pin U8-D4 -> U15-D4
+Net CLK_IOH_SATAN -> CLK-IOH-SATAN
+Net SATA1_TXP -> SATA1-TXP
+Pin R232-2 -> R199-2
+Net $10N521 -> RGMII-TXD1-R
+Pin U8-AB15 -> U15-AB15
+Pin U8-AB16 -> U15-AB16
+Pin R431-2 -> R20-2
+Pin U32-L4 -> U42-L4
+Pin C485-1 -> C21-1
+Pin R111-2 -> R42-2
+Pin R365-2 -> R435-2
+Pin C196-1 -> C149-1
+Pin U8-P19 -> U15-P19
+Pin U8-J14 -> U15-J14
+Pin C392-1 -> C432-1
+Pin U42-F2 -> U11-F2
+Pin U37-C9 -> U6-C9
+Pin U43-L1 -> U12-L1
+Pin C24-1 -> C51-1
+Pin FB5-2 -> FB33-2
+Pin U39-E1 -> U8-E1
+Pin U41-A9 -> U10-A9
+Pin C265-1 -> C172-1
+Pin U43-E1 -> U12-E1
+Pin U32-AC26 -> U42-AC26
+Pin U32-AF27 -> U42-AF27
+Pin R320-1 -> R335-1
+Pin C382-1 -> C407-1
+Pin C365-1 -> C390-1
+Pin U32-AK25 -> U42-AK25
+Pin C242-1 -> C162-1
+Pin U8-AA2 -> U15-AA2
+Pin U8-V19 -> U15-V19
+Pin R190-2 -> R161-2
+Pin Y2-1 -> Y1-1
+Pin U32-M7 -> U42-M7
+Net RTC_X2 -> RTC-X2
+Net CLK_IOH_USB -> CLK-IOH-USB
+Pin U32-AP25 -> U42-AP25
+Pin R154-1 -> R266-1
+Net LPC_CLKRUN# -> PM-CLKRUN#
+Net LPC_AD1 -> LPC-AD1
+Net SDVO_REDN -> SDVO-REDN
+Pin C67-2 -> C101-2
+Net CLK_PCIE_IOHP0 -> CLK-PCIE-IOHP0
+Net CLK_PCIE_IOHN0 -> CLK-PCIE-IOHN0
+Pin U32-B33 -> U42-B33
+Pin C103-2 -> C122-2
+Pin C102-1 -> C121-1
+Pin U39-E8 -> U8-E8
+Pin U39-F3 -> U8-F3
+Pin U44-G1 -> U13-G1
+Pin U44-G3 -> U13-G3
+Pin U44-G2 -> U13-G2
+Net M_A_A13 -> M-A-A13
+Pin U42-L2 -> U11-L2
+Net M_A_A12 -> M-A-A12
+Pin U42-K7 -> U11-K7
+Pin U42-H2 -> U11-H2
+Pin U40-K3 -> U9-K3
+Pin U38-K8 -> U7-K8
+Pin U38-K2 -> U7-K2
+Pin U38-J7 -> U7-J7
+Pin U38-J3 -> U7-J3
+Pin U42-J8 -> U11-J8
+Pin U42-J2 -> U11-J2
+Net M_A_A3 -> M-A-A3
+Pin U42-H7 -> U11-H7
+Net M_A_A2 -> M-A-A2
+Pin U42-H3 -> U11-H3
+Net M_A_A1 -> M-A-A1
+Pin U42-H8 -> U11-H8
+Net M_A_A0 -> M-A-A0
+Pin U38-B9 -> U7-B1
+Pin U32-AU12 -> U42-AN10
+Pin U44-B3 -> U13-B3
+Pin U32-AH5 -> U42-AU6
+Net M_A_DQ11 -> M-A-DQ13
+Pin U39-B9 -> U8-B1
+Pin U40-B7 -> U9-B7
+Pin U41-D3 -> U10-D3
+Net M_A_DQ1 -> M-A-DQ6
+Pin U32-AG2 -> U42-AG2
+Pin U32-M1 -> U42-M1
+Pin R33-2 -> R113-2
+Pin R348-1 -> R378-1
+Pin U8-AA21 -> U15-AA21
+Pin R307-2 -> R333-2
+Pin R405-1 -> R510-1
+Pin U32-AL30 -> U42-AL30
+Pin U36-5 -> U49-5
+Pin C588-1 -> C46-1
+Pin C591-1 -> C553-1
+Net CPU_TEST# -> CPU-TEST#
+Net CPLD_TMS -> CPLD-TDI
+Pin R358-1 -> R428-1
+Pin R296-2 -> R323-2
+Pin R236-1 -> R252-1
+Pin U32-L34 -> U42-L34
+Note: Exporting data to project T:\BAL_TCPCB_X009\PCB\BAL_TCPCB.pcb
+Note: Export completed successfully.
+Sat Aug 13 08:04:02 2011
+
+ERROR: Wrong active project in Dashboard.
+Mon Aug 15 08:25:10 2011
+
+ERROR: Wrong active project in Dashboard.
+Mon Aug 15 08:42:58 2011
+
+ERROR: Wrong active project in Dashboard.
+Mon Aug 15 08:45:10 2011
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project T:\GEHCIC_F100_X004\PCB\GEHCIC.pcb
+Note: Export completed successfully.
+Mon Aug 15 09:49:41 2011
+
+ERROR: Wrong active project in Dashboard.
+Mon Aug 15 09:52:34 2011
+
+ERROR: Wrong active project in Dashboard.
+Mon Aug 15 09:54:50 2011
+
+ERROR: Wrong active project in Dashboard.
+Mon Aug 15 10:11:44 2011
+
+ERROR: Wrong active project in Dashboard.
+Mon Aug 15 10:19:15 2011
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project T:\GEHCIC_F100_X004\PCB\GEHCIC.pcb
+Note: Export completed successfully.
+Wed Oct 05 13:40:12 2011
+
+ERROR: Wrong active project in Dashboard.
+Wed Oct 05 13:42:50 2011
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project T:\UASC_SVP\UASC_SVP_X100\PCB\UASC_SVP.pcb
+Note: Export completed successfully.
+Mon May 14 10:05:58 2012
+
+ERROR: Wrong active project in Dashboard.
+Wed Jun 13 15:48:43 2012
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project C:\My_Designs\My_ADI_Projects\Sanmina_Newisys\Hardware\Source\RISER_F100_X004\pcb\riser.pcb
+Note: Export completed successfully.
+Wed Dec 12 12:24:48 2012
+
+ERROR: Wrong active project in Dashboard.
+Note: Exporting data to project C:\ADI_Projects\Cinnamon_Bay\Hardware\Source\CBSBC_R300\PCB\CBSBC.pcb
+Note: Export completed successfully.

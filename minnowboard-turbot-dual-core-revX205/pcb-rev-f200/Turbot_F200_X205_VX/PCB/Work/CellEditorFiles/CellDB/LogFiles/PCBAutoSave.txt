@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                      10:01 AM Thursday, December 03, 2015
+Job Name: C:\Turbot\Turbot_F200_X205_VX\PCB\Work\CellEditorFiles\CellDB\SO8_W200.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                      10:02 AM Thursday, December 03, 2015
+Job Name: C:\Turbot\Turbot_F200_X205_VX\PCB\Work\CellEditorFiles\CellDB\SO8_W200.pcb
+

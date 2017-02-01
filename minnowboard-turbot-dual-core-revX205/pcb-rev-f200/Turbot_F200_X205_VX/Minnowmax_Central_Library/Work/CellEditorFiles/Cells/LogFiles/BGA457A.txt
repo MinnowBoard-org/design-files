@@ -1,0 +1,27 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        BGA457A
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    IC - BGA
+Mount Type:       Surface
+Number of Pins:   457
+        Placed:   457
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (457)  C13
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

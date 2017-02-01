@@ -1,0 +1,19 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2003.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Border
+	Symbol A
+	Symbol AV
+	Symbol B
+	Symbol C
+	Symbol D
+	Symbol E
+	Symbol F
+SLB2LMC utility complete

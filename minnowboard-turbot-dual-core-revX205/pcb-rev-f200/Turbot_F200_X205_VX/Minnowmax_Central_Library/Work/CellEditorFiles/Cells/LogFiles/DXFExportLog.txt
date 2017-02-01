@@ -1,0 +1,51 @@
+
+                                   DXF Export
+                                   ----------
+
+                          10:27 PM Monday, May 28, 2007
+Job Name: C:\ADI\Mentor\Expedition Footprint Library\Exp_Footprint_Central_Library\Work\CellEditorFiles\Cells\FEMALE_GUIDE.pcb
+
+
+
+    DXF File: C:\ADI\Mentor\Expedition Footprint Library\Exp_Footprint_Central_Library\Output\female.dxf
+
+
+    Total - Export Element
+    ----------------------------------------------------------------------
+
+         2 - Assembly Outlines Top
+
+         1 - Board Origin
+
+         1 - Board Outline
+
+         2 - Cell_Info
+
+         2 - Mounting Hole Pads Layer 1
+
+         2 - Mounting Hole Pads Layer 2
+
+         2 - Mounting Holes Layer 1
+
+         2 - Mounting Holes Layer 2
+
+         1 - NC Drill Origin
+
+         1 - Placement Outlines Top
+
+         2 - Route Obstructs Layer 1
+
+         2 - Route Obstructs Layer 2
+
+         2 - Silkscreen Outlines Top
+
+         2 - Soldermask Pads Btm
+
+         2 - Soldermask Pads Top
+
+
+    Successful Completion.
+
+
+
+                        10:27 PM Monday, May 28, 2007

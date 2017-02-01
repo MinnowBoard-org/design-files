@@ -1,0 +1,36 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        CONN14A_MICRO_SD
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Connector
+Mount Type:       Surface
+Number of Pins:   14
+        Placed:   14
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (1)  R28X41
+        (1)  R46X47
+        (1)  R53X75
+        (8)  R59X32
+        (2)  R71X55
+        (1)  R87X75
+
+User Layers with Graphics: Cell_Info
+                           Mechanical_info
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Route Obstruct           Layers : 1, 2
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

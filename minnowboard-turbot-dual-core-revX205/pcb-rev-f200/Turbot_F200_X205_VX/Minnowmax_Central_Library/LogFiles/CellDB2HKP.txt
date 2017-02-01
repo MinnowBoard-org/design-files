@@ -1,0 +1,18 @@
+
+                          PCB Cell Library to ASCII Log
+                          -----------------------------
+
+                       07:01 PM Saturday, August 27, 2011
+                                   Job Name: 
+
+
+Overwriting existing Cell ASCII file 'C:\ADI_Projects\Universal_Avionics\datasheets\Atom\BGA559A\BGA559A.hkp'.
+
+
+The following cells use these units : MM
+
+    Processing Cell "BGA559A"
+
+Processed '1' cells.
+
+Cell ASCII file 'C:\ADI_Projects\Universal_Avionics\datasheets\Atom\BGA559A\BGA559A.hkp' was created successfully.

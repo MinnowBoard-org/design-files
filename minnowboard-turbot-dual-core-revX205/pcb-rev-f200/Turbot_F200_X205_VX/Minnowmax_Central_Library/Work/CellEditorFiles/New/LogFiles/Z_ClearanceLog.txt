@@ -1,0 +1,6 @@
+The Z_Clearance file cannot be read due to improper format.  This Z_Clearance file will be ignored.
+
+
+Error: on opening parser input file (Config\Z_Clearance.txt) for reading.
+(check for a file or directory permission problem)
+

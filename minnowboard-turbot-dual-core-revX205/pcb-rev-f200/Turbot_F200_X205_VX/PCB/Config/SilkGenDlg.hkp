@@ -1,0 +1,23 @@
+.FILETYPE SILKSCREEN_GENERATOR_DEFINITION
+.VERSION "2.0"
+.DATE "Tuesday, August 04, 2015"
+
+.BaseUnits 0    ! kBaseUnit1NM
+
+.ProcessSide Both
+.ProcessSideTop
+ ..SilkRefDes
+ ..SilkOutline
+ ..BoardOutline
+.ProcessSideBottom
+ ..SilkRefDes
+ ..SilkOutline
+ ..BoardOutline
+.ProcessAllPkgGroups
+.BreakUsing SoldermaskPads
+.BreakGraphicsPad 1, 76200
+.BreakGraphicsVia 0, 0
+.BreakTextPad 1, 76200
+.BreakTextVia 0, 0
+.BreakTextWidth 254000
+.BreakGraphicsWidth 254000

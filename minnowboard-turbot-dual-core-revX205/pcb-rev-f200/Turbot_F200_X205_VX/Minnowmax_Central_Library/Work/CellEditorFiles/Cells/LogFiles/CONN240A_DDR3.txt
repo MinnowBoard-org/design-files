@@ -1,0 +1,28 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        CONN240A_DDR3
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Connector
+Mount Type:       Mixed
+Number of Pins:   240
+        Placed:   240
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (240)  R27X83
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Obstruct       Layers : 1
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

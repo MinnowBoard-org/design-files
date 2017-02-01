@@ -1,0 +1,238 @@
+.FILETYPE GerberPlotSetupFile
+.VERSION "VB99.0"
+.CREATOR "Expedition PCB Gerber Output"
+.DATE "Thursday, December 10, 1998 12:56 PM"
+
+.DataOffset 0 0
+.DataCopies 1 1
+ ..OriginOffset 0 0
+
+.DCodeToApertureFile "d:\\veribest\\VBExpPCB\\Config\\VBExpPCB\\GerberD-Codes.dac"
+.GerberMachineFormatFile ".\\Config\\GerberMachineFile1.gmf"
+
+.GerberOutputFile "SoldermaskTop.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\SoldermaskTop.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..BoardItem SoldermaskTop
+
+.GerberOutputFile "SoldermaskBottom.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\SoldermaskBottom.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..BoardItem SoldermaskBottom
+
+.GerberOutputFile "SolderPasteTop.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\SolderPasteTop.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..BoardItem SolderpasteTop
+
+.GerberOutputFile "SolderPasteBottom.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\SolderPasteBottom.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..BoardItem SolderpasteBottom
+
+.GerberOutputFile "GeneratedSilkscreenTop.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\GeneratedSilkscreenTop.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..BoardItem AlteredSilkscreenTop
+
+.GerberOutputFile "GeneratedSilkscreenBottom.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\GeneratedSilkscreenBottom.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..BoardItem AlteredSilkscreenBottom
+
+.GerberOutputFile "EtchLayer8Bottom.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\EtchLayer8Bottom.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 8
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "EtchLayer7Neg.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\EtchLayer7Neg.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output for Negative Plane Layer"
+ ..ConductiveLayer 7
+   ...ConductiveItem PlaneData
+
+.GerberOutputFile "EtchLayer7.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\EtchLayer7.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 7
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "EtchLayer6Neg.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\EtchLayer6Neg.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output for Negative Plane Layer"
+ ..ConductiveLayer 6
+   ...ConductiveItem PlaneData
+
+.GerberOutputFile "EtchLayer6.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\EtchLayer6.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 6
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "EtchLayer5Neg.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\EtchLayer5Neg.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output for Negative Plane Layer"
+ ..ConductiveLayer 5
+   ...ConductiveItem PlaneData
+
+.GerberOutputFile "EtchLayer5.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\EtchLayer5.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 5
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "EtchLayer4Neg.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\EtchLayer4Neg.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output for Negative Plane Layer"
+ ..ConductiveLayer 4
+   ...ConductiveItem PlaneData
+
+.GerberOutputFile "EtchLayer4.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\EtchLayer4.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 4
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "EtchLayer3Neg.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\EtchLayer3Neg.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output for Negative Plane Layer"
+ ..ConductiveLayer 3
+   ...ConductiveItem PlaneData
+
+.GerberOutputFile "EtchLayer3.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\EtchLayer3.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 3
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "EtchLayer2Neg.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\EtchLayer2Neg.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output for Negative Plane Layer"
+ ..ConductiveLayer 2
+   ...ConductiveItem PlaneData
+
+.GerberOutputFile "EtchLayer2.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\EtchLayer2.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 2
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "EtchLayer1Top.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\EtchLayer1Top.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 1
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "DrillDrawingThrough.gdo"
+ ..ProcessFile Yes
+ ..GerberOutputPath "D:\\job\\FTBVB99\\Central Library\\LayoutTemplates\\Template 8 Layer\\Output\\Gerber\\DrillDrawingThrough.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..BoardItem DrillDrawingThru

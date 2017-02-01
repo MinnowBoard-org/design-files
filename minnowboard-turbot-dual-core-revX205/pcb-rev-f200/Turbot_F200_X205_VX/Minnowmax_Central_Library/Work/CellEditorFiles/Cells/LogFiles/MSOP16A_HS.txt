@@ -1,0 +1,30 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        MSOP16A_HS
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    IC - SOIC
+Mount Type:       Surface
+Number of Pins:   16
+        Placed:   17
+Height:           43.3071
+Underside Space:  0
+
+Pin Padstack Names:
+        (16)  R10X48
+        (1)  R112X65
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+
+Requirements needed before the cell can be saved:
+        -1 pins are not placed.

@@ -1,0 +1,28 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        MLP322A
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    General
+Mount Type:       Surface
+Number of Pins:   3
+        Placed:   3
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (3)  R14X30
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+        Soldermask Shape         Mount Side
+

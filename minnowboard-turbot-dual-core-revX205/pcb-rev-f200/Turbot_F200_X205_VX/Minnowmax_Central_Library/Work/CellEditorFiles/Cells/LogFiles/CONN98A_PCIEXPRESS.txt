@@ -1,0 +1,30 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        CONN98A_PCIEXPRESS
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Edge Connector
+Mount Type:       Surface
+Number of Pins:   98
+        Placed:   98
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (98)  FR27X150
+
+User Layers with Graphics: Cell_Info
+                           Mechanical_info
+
+Electronic Objects Used:
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Route Obstruct           Layers : 1, 2
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+
