@@ -1,0 +1,95 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : #Taaaaaw07352.tmp                             )
+(    Software Version : 16.6S010                                      )
+(    Date/Time        : Wed Aug 14 11:38:01 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		3.5
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		YES
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-360): Design precision is greater than that of the drill output file data.
+ WARNING(SPMHMF-361): Data rounding errors are very possible.
+ WARNING(SPMHMF-365): This design contains 23 slot holes that can NOT be drilled.
+ WARNING(SPMHMF-366): They can be processed by NC routing instead.
+ WARNING(SPMHMF-368): Cannot find NC Drill tool file 'nc_tools.txt'
+ WARNING(SPMHMF-369): ... will auto-generate tool file 'nc_tools_auto.txt'.
+
+
+     Auto-generating tool file 'nc_tools_auto.txt' ...
+
+           Size  Plating  Tool        + Tolerance  - Tolerance
+
+         7.0000  P        T01            3.000000     3.000000
+         8.0000  P        T02            3.000000     3.000000
+        25.0000  P        T03            3.000000     3.000000
+        32.0000  P        T04            3.000000     3.000000
+        33.0000  P        T05            3.000000     3.000000
+        35.0000  P        T06            3.000000     3.000000
+        38.0000  P        T07            3.000000     3.000000
+        40.0000  P        T08            3.000000     3.000000
+        62.0000  P        T09            3.000000     3.000000
+       125.0000  P        T10            3.000000     3.000000
+        31.0000  N        T11            5.000000     5.000000
+        46.0000  N        T12            5.000000     5.000000
+        63.0000  N        T13            5.000000     5.000000
+       118.0000  N        T14            5.000000     5.000000
+       125.0000  N        T15            5.000000     5.000000
+
+
+ Drill files being output to directory 'C:/Cadwork/Circuitco_Minnow_RevA' ...
+
+
+
+     'Minnow_RevA_NCDRILL-1-8.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------------------
+
+     Tool  Num     Size      +/- Tolerance     Plating   Quantity
+
+     T01    1.   7.0000    3.0000/  3.0000      PLATED       1441
+     T02    2.   8.0000    3.0000/  3.0000      PLATED       1357
+     T03    3.  25.0000    3.0000/  3.0000      PLATED          6
+     T04    4.  32.0000    3.0000/  3.0000      PLATED          6
+     T05    5.  33.0000    3.0000/  3.0000      PLATED         26
+     T06    6.  35.0000    3.0000/  3.0000      PLATED         10
+     T07    7.  38.0000    3.0000/  3.0000      PLATED         31
+     T08    8.  40.0000    3.0000/  3.0000      PLATED         15
+     T09    9.  62.0000    3.0000/  3.0000      PLATED          2
+     T10   10. 125.0000    3.0000/  3.0000      PLATED          8
+     T11   11.  31.0000    5.0000/  5.0000  NON_PLATED          1
+     T12   12.  46.0000    5.0000/  5.0000  NON_PLATED          3
+     T13   13.  63.0000    5.0000/  5.0000  NON_PLATED          4
+     T14   14. 118.0000    5.0000/  5.0000  NON_PLATED          2
+     T15   15. 125.0000    5.0000/  5.0000  NON_PLATED          2
+
+     ---- Total holes:                                       2914
+
+     ---- Total head travel:              178.61 feet (54.44 meters)
+
