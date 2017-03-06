@@ -1,0 +1,12 @@
+Revision History:  
+
+Rev 1.01 fixes:  
+Removed 2  90 degree angles in 2 traces in the bottom layer, changes reflected in the PCB design file.   
+In the top layer improved some of the traces entry points to the some pads of the relays.   
+Improved U5 header trace routing.   
+
+Rev 1.02:
+Added dots as pin 1 identifier for the VO617A Optocouplers and added lettering on the bottom silk mentioning that this Lure is compatible with MinnowBoard MAX and Turbot.    
+
+Rev 1.05: 
+Updated library(minnowboard_lse.eli) that matches the pin numbering in the MinnowBoard MAX / Turbot boards, Schematic and PCB design files updated with this component, Schematic PDF and Gerber files updated.  

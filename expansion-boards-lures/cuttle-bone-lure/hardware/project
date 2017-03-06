@@ -1,0 +1,4 @@
+schematics	cuttle_lure_pg1.sch 
+output-name	cuttle_lure
+elements-dir	../../pcb-elements/
+skip-m4
