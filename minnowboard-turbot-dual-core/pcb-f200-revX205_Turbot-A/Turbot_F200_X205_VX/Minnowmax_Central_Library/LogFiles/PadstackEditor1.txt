@@ -1,0 +1,16 @@
+
+                                 Padstack Editor
+                                 ---------------
+
+                          10:24 AM Monday, May 17, 2010
+Job Name: T:\mentor\Exp_Footprint_Central_Library\Exp_Footprint_Central_Library.lmc
+
+
+
+The following renamed Padstacks could not be updated in Cell Partition 'Cells'
+because it is reserved:
+
+Old Padstack Name              New Padstack Name              Cell Name                     
+-----------------------------  -----------------------------  ----------------------------- 
+R47X24_SP                      R47X24_SP                      QFN12A_HS                     
+

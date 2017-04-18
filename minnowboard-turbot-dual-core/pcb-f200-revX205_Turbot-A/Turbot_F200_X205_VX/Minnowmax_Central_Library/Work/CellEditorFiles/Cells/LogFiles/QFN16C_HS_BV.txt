@@ -1,0 +1,30 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        QFN16C_HS_BV
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    IC - Other
+Mount Type:       Mixed
+Number of Pins:   17
+        Placed:   17
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (16)  FR41X14
+        (1)  S86_NO_PASTE
+
+User Layers with Graphics: Mechanical_info
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

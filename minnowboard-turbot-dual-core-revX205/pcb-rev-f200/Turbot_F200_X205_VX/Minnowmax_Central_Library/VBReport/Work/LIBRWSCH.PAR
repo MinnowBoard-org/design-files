@@ -1,6 +1,0 @@
-OrderCounter	SchemeID   	PartitionPath
-1           	1          	SymbolLibs\Connector.slb
-2           	1          	SymbolLibs\Border.slb
-3           	1          	CellDBLibs\Cells.cel
-4           	1          	CellDBLibs\New.cel
-5           	1          	PartsDBLibs\ADI Parts.pdb

@@ -1,0 +1,21 @@
+Cell Status
+
+Cell Type:        Mechanical cell
+
+Cell Name:        LIGHT_PIPE_3X_A
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+
+User Layers with Graphics: Cell_Info
+                           Mechanical_info
+
+Electronic Objects Used:
+        Assembly Outline
+        Assembly Ref. Des.
+        Placement Outline
+        Route Obstruct           Layers : 1, 2
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

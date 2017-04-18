@@ -1,0 +1,71 @@
+.FILETYPE DXF_EXPORT_SETTINGS
+.VERSION "VB99.1"
+.DATE "05/28/2007 22:27:46"
+
+!  This file contains settings for the most recent DXF export session
+
+.UNITS th
+
+.SCHEME "Default"
+ ..SCHEME_LOCATION Local
+
+.ITEM "Assembly Outlines Top"
+ ..LAYER "Assembly_Outlines_Top"
+ ..EXPORT 1
+
+.ITEM "Board Origin"
+ ..LAYER "Board_Origin"
+ ..EXPORT 1
+
+.ITEM "Board Outline"
+ ..LAYER "Board_Outline"
+ ..EXPORT 1
+
+.ITEM "Cell_Info"
+ ..LAYER "Cell_Info"
+ ..EXPORT 1
+
+.ITEM "Mounting Hole Pads Layer 1"
+ ..LAYER "Mounting_Hole_Pads_Layer_Top"
+ ..EXPORT 1
+
+.ITEM "Mounting Hole Pads Layer 2"
+ ..LAYER "Mounting_Hole_Pads_Layer_Bottom"
+ ..EXPORT 1
+
+.ITEM "Mounting Holes Layer 1"
+ ..LAYER "Mounting_Holes_Layer_Top"
+ ..EXPORT 1
+
+.ITEM "Mounting Holes Layer 2"
+ ..LAYER "Mounting_Holes_Layer_Bottom"
+ ..EXPORT 1
+
+.ITEM "NC Drill Origin"
+ ..LAYER "NC_Drill_Origin"
+ ..EXPORT 1
+
+.ITEM "Placement Outlines Top"
+ ..LAYER "Placement_Outlines_Top"
+ ..EXPORT 1
+
+.ITEM "Route Obstructs Layer 1"
+ ..LAYER "Route_Obstructs_Layer_Top"
+ ..EXPORT 1
+
+.ITEM "Route Obstructs Layer 2"
+ ..LAYER "Route_Obstructs_Layer_Bottom"
+ ..EXPORT 1
+
+.ITEM "Silkscreen Outlines Top"
+ ..LAYER "Silkscreen_Outlines_Top"
+ ..EXPORT 1
+
+.ITEM "Soldermask Pads Btm"
+ ..LAYER "Soldermask_Pads_Btm"
+ ..EXPORT 1
+
+.ITEM "Soldermask Pads Top"
+ ..LAYER "Soldermask_Pads_Top"
+ ..EXPORT 1
+

@@ -1,0 +1,23 @@
+.FILETYPE DRAWING_VIEWS
+.VERSION "2.0"
+.SCHEMA_VERSION 1
+.DATE "9/29/2007 6:29:39 PM"
+.DRAWINGS "Default"
+	..ANYINCLUDES YES
+	..OLDNAME "Default"
+		...INCLUDES NO
+	..PLACE_FMT_CELL 0
+	..NEW_VIEWS "Default"
+		...ANYINCLUDES YES
+		...RENAMED 0
+			....ANYINCLUDES NO
+			....OLDNAME "Default"
+				.....INCLUDES NO
+		...INSTANCE_NAME "All Instances"
+			....ANYINCLUDES YES
+			....ASSOC_SCHEME ""
+				.....INCLUDES NO
+		...INSTANCE_NAME "Drawing"
+			....ANYINCLUDES YES
+			....ASSOC_SCHEME "Loc: Min Contents"
+				.....INCLUDES NO

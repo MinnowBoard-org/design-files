@@ -1,0 +1,29 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        CONN29A_SATA
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Connector
+Mount Type:       Surface
+Number of Pins:   29
+        Placed:   29
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (7)  R20X75
+        (22)  R26X94
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Route Obstruct           Layers : 1, 2
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

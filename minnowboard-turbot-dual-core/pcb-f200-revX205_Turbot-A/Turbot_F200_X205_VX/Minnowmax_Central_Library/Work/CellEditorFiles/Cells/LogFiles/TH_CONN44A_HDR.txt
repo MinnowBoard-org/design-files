@@ -1,0 +1,27 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        TH_CONN44A_HDR
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Connector
+Mount Type:       Mixed
+Number of Pins:   44
+        Placed:   44
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (44)  C44D34_PIP_S67
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

@@ -1,0 +1,59 @@
+Creating Database - T:\Mentor\Expedition Footprint Library\Exp_Footprint_Central_Library\VBREPORT\WORK\..\output\Exp_Footprint_Central_Library.mdl
+    Creating Table : TInfo
+    Creating Table : PartPartitions
+    Creating Table : PartNumbers
+    Creating Table : PartSymbols
+    Creating Table : PartProperties
+    Creating Table : PartSymbolPins
+    Creating Table : PartNumberPins
+    Creating Table : PartShapes
+    Creating Table : PadStack
+    Creating Table : PadStackHolesList
+    Creating Table : PadStackHoles
+    Creating Table : PadStackPads
+    Creating Table : PadStackCells
+    Creating Table : CellPartitions
+    Creating Table : PackageCell
+    Creating Table : PackageCellOutl
+    Creating Table : PackageCellPins
+    Creating Table : NestedCell
+    Creating Table : MechanicalCell
+    Creating Table : DrawingCell
+    Creating Table : SymbolPartitions
+    Creating Table : Symbols
+    Creating Table : SymbolPins
+    Creating Table : SymbolPinProperties
+    Creating Table : SymbolProperties
+    Creating Table : SchemeNames
+    Creating Table : SchemeSearchPaths
+    Creating Table : CommonProperties
+    Creating Table : LayoutTemplates
+    Importing TInfo Data
+    Importing PartPartitions Data
+    Importing PartNumbers Data
+    Importing PartSymbols Data
+    Importing PartProperties Data
+    Importing PartSymbolPins Data
+    Importing PartNumberPins Data
+    Importing PartShapes Data
+    Importing PadStack Data
+    Importing PadStackHolesList Data
+    Importing PadStackHoles Data
+    Importing PadStackPads Data
+    Importing PadStackCells Data
+    Importing CellPartitions Data
+    Importing PackageCell Data
+    Importing PackageCellOutl Data
+    Importing PackageCellPins Data
+    Importing NestedCell Data
+    Importing MechanicalCell Data
+    Importing DrawingCell Data
+    Importing SymbolPartitions Data
+    Importing Symbols Data
+    Importing SymbolPins Data
+    Importing SymbolPinProperties Data
+    Importing SymbolProperties Data
+    Importing SchemeNames Data
+    Importing SchemeSearchPaths Data
+    Importing CommonProperties Data
+    Importing LayoutTemplates Data

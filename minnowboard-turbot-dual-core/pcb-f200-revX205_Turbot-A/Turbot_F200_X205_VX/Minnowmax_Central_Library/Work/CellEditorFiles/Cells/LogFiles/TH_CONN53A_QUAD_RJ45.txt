@@ -1,0 +1,29 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        TH_CONN53A_QUAD_RJ45
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Connector
+Mount Type:       Through
+Number of Pins:   53
+        Placed:   53
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (32)  C60D35
+        (16)  C64D40
+        (5)  C86D62
+
+Electronic Objects Used:
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Route Obstruct           Layers : 1, 2
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

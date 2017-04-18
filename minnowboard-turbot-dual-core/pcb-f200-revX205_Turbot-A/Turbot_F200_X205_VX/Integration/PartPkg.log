@@ -1,0 +1,119 @@
+
+                                    Packager
+                                    --------
+
+                       10:02 AM Tuesday, October 27, 2015
+Job Name: C:\Users\student\Desktop\Turbot_F200_X202_MGC_Release\Turbot_F200_X202\Turbot_F200_X202.prj
+
+
+     Packager     Version: 020806.00
+
+        Commandline is: "C:\MentorGraphics\EEVX.1.1\SDD_HOME\wg\win64\bin\package.exe  -jC:\Users\student\Desktop\Turbot_F200_X202_MGC_Release\Turbot_F200_X202\Turbot_F200_X202.prj -nTurbot -Add -NoFill"
+
+     The Common Database is at "C:\Users\student\Desktop\Turbot_F200_X202_MGC_Release\Turbot_F200_X202\database".
+
+     The Root of this design is "Turbot".
+
+     The Front End Snapshot of this design is "DxD".
+
+     The PCB Design Path of this design is at "C:\Users\student\Desktop\Turbot_F200_X202_MGC_Release\Turbot_F200_X202\PCB\Turbot_F200.pcb".
+
+     The Central Library is at "C:\Users\student\Desktop\Turbot_F200_X202_MGC_Release\Turbot_F200_X202\Minnowmax_Central_Library\Minnowmax_Central_Library.lmc".
+
+     Unable to determine the Disable Repackage status.
+     !Repackaging will be allowed!
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB only for parts not already found in the
+      Target PDB.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+     The cross mapping of symbol pin names to Part Number pin
+      numbers will be checked for packaged symbols and mapped correctly
+      for unpackaged symbols.
+
+     Properties that have been checked off in the Property Definition Editor
+      found at Library Manager/Common Properties will be checked for value
+      differences between the PartsDB and the non-null properties on symbols.
+     Those properties checked off (other than Part Number)
+      will not be transferred from the PartsDB to symbols.
+     The following properties were checked off in the Property Definition Editor:
+       "Pkg Group"
+       "Connector Mating Part"
+       "Connector Gender"
+       "EPFIXEDWIDTH"
+       "EPFIXEDLENGTH"
+       "Term"
+       "SIM_MODEL"
+       "SIM_MODEL_FILE"
+       "Array Component"
+       "ICX_PART_MODEL"
+       "Use Verilog"
+       "Order"
+       "Parametric"
+       "Value2"
+       "IBIS"
+       "Model Suffix"
+       "Part Label"
+       "VHDL Model"
+       "Verilog Model"
+       "Simulation Model"
+       "Part Number"
+       "Value"
+       "Part Name"
+
+	Checking for errors in the ICDB...
+
+	No errors found.  Proceeding with packaging...
+
+
+
+    ERROR: Block Turbot, Page 12, Symbol $12I448:<!#!><objindex>576464098082947077</objindex>
+      Inconsistent part data.
+      Reference Designator U33 is on more than one symbol at
+      Path Turbot.  This one has a Part Number 140-0004507, a Part Name 140-0004507,
+      and a Part Label 140-0004507 while the other symbol
+
+    INFO: Block Turbot, Page 16, Symbol $16I1365:<!#!><objindex>576460756598392581</objindex>
+      Inconsisent part data (cont.).
+      has a Part Number of 4158-0047, a Part Name of 4158-0047, and a Part Label 4158-0047.
+      Packaging is required to put symbols that have the same Reference Designator
+      at the same path in the same package.  This cannot be accomplished unless
+      the symbols have identical Part Numbers, or if both Part Numbers are missing,
+      then identical Part Names or if they are missing, identical Part Labels.
+      Please remove or change the Reference Designator or adjust the
+      Part Number, Part Name, and or Part Label of either symbol.
+
+    ERROR:  Inconsistent part data.  Reference Designator U33 is on more than one symbol.
+    Packaging is required to put symbols that have the same Reference
+    Designator at different paths in the same package unless at least
+    one of these symbols has a frozen property of Block or BlockFix.
+    This cannot be accomplished unless the symbols have identical Part
+    Numbers, or if Part Numbers are missing, then the same Part Names,
+    or if they are missing, the same Part Labels.
+    There are 1 symbols at Path Turbot that have a
+    Part Number 140-0004507, a Part Name 140-0004507, and a Part Label 140-0004507.
+    There are also 1 symbols at Path Turbot that have a
+    Part Number 4158-0047, a Part Name 4158-0047, and a Part Label 4158-0047.
+    The symbols at Path Turbot are:
+
+    INFO: Block Turbot, Page 12, Symbol $12I448:<!#!><objindex>576464098082947077</objindex>
+      Inconsistent part data (cont.)
+    The symbols at Path Turbot are:
+
+    INFO: Block Turbot, Page 16, Symbol $16I1365:<!#!><objindex>576460756598392581</objindex>
+      Inconsistent part data (cont.)
+    Please add a Block or BlockFix frozen property to at least one symbol
+    or change the Reference Designators or adjust the Part Names
+    and Numbers at one of the paths.
+
+     Errors encountered while reading the Common Data Base.
+
+
+     Testing of Packaging is being terminated with 2 errors and 0 warnings.
+      Design has NOT been packaged.
+
+     There have been 2 errors.

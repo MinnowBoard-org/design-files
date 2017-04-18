@@ -1,9 +1,0 @@
-
-
-
-	DXLIB2LMC  -  Add DX Symbol Information to LMC. Version 16.4.0.0
-	(c) Copyright Mentor Graphics Corporation 2010.
-	All Rights Reserved.
-
-Processing ADI_border
-DXLIB2LMC utility complete

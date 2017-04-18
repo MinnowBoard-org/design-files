@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         10:50 PM Sunday, March 16, 2014
+Job Name: C:\ADI\Mentor\Expedition Footprint Library\Exp_footprint_Central_Library\Work\CellEditorFiles\New\SHIELD12A.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         11:01 PM Sunday, March 16, 2014
+Job Name: C:\ADI\Mentor\Expedition Footprint Library\Exp_footprint_Central_Library\Work\CellEditorFiles\New\SHIELD12A.pcb
+

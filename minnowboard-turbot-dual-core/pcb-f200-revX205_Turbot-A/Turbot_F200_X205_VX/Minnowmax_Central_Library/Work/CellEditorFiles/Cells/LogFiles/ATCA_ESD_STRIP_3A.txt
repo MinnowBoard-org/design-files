@@ -1,0 +1,27 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        ATCA_ESD_STRIP_3A
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    General
+Mount Type:       Mixed
+Number of Pins:   3
+        Placed:   3
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (1)  C130D106
+        (1)  Segment1
+        (1)  Segment2
+
+Electronic Objects Used:
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Ref. Des.     Mount Side
+        Soldermask Shape         Mount Side
+

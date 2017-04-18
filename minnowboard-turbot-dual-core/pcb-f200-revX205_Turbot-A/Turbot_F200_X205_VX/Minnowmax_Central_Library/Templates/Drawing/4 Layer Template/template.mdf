@@ -1,0 +1,17 @@
+SECTION Integration
+KEY 1400Translation "1"
+KEY ProjectFile "template.prj"
+ENDSECTION
+SECTION DesignData
+KEY Platform "Windows"
+KEY UstationVersion "05.05.02.23 "
+KEY DesignVersion "99.00.00"
+KEY DesignFileLastBlock "43"
+KEY DesignFileLastByte "0"
+KEY CellDisplay "0"
+KEY BuriedComponents "0"
+ENDSECTION
+SECTION Planes
+LIST PlaneSections
+ENDLIST
+ENDSECTION

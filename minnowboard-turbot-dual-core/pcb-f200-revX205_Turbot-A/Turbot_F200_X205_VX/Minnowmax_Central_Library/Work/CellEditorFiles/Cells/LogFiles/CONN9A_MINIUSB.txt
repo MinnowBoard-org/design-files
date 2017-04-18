@@ -1,0 +1,29 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        CONN9A_MINIUSB
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Connector
+Mount Type:       Surface
+Number of Pins:   9
+        Placed:   9
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (5)  R20X89
+        (2)  R81X138
+        (2)  R81X157
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

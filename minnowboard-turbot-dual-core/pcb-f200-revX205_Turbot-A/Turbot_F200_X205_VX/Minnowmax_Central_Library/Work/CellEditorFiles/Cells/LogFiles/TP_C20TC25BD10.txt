@@ -1,0 +1,20 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        TP_C20TC25BD10
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Test Point
+Mount Type:       Through
+Number of Pins:   1
+        Placed:   1
+
+Pin Padstack Names:
+        (1)  T_C20TC25BD10
+
+Electronic Objects Used:
+        Assembly Part Number
+        Assembly Ref. Des.
+

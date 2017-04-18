@@ -1,0 +1,77 @@
+DxDesigner Diagnostics Report
+Date: Wednesday, May 20, 2015
+
+
+Test: Symbol Types
+Result: OK
+Time: 0 seconds
+
+Test: Invalid Nets
+Result: OK
+Time: 0 seconds
+
+Test: Invalid Buses
+Result: OK
+Time: 0 seconds
+
+Test: Sheet Order Data
+Result: OK
+Time: 0 seconds
+
+Test: Sheet Internal Identifiers
+Result: OK
+Time: 0 seconds
+
+Test: Component Graphical Data
+Result: OK
+Time: 1 seconds
+
+Test: Net Connections
+Result: OK
+Time: 0 seconds
+
+Test: Rippers
+Result: OK
+Time: 0 seconds
+
+Test: Reuse Blocks
+Result: OK
+Time: 0 seconds
+
+Test: Empty Blocks
+Result: OK
+Time: 0 seconds
+
+Test: Top Level Name Consistency
+Result: OK
+Time: 0 seconds
+
+Test: Duplicate Internal IDs
+Result: FAILED
+Error: Schematic block 'Turbot.4' has elements with invalid IDs 
+Time: 5 seconds
+
+Test: Bus Signal Connections
+Result: OK
+Time: 3 seconds
+
+Test: Component Names
+Result: OK
+Time: 3 seconds
+
+Test: Pass-through Pins
+Result: OK
+Time: 0 seconds
+
+Test: Empty Labels
+Result: OK
+Time: 3 seconds
+
+Test: Connectivity
+Result: OK
+Time: 13 seconds
+
+Report summary:
+Tests passed: 17
+Tests with error(s): 1
+Click here to fix all errors

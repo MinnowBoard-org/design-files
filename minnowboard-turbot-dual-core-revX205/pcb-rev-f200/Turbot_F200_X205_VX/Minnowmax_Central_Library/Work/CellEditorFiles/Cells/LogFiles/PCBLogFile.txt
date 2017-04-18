@@ -1,4 +1,0 @@
-
-Cell Editor Version: 2013.0.591.687
-
-Successfully read the design.

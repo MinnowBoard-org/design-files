@@ -1,0 +1,24 @@
+CellID	PartitionID	CellName                                                        	PartNumber                                                      	Height      	UnderSideSpace	Unit	Verified	CellDescription
+1     	0          	CMC_5V                                                          	(null)                                                          	0.000       	0.000         	MM  	NO      	
+2     	0          	Double_CMC                                                      	(null)                                                          	0.000       	0.000         	TH  	NO      	
+3     	0          	FID_C35A                                                        	(null)                                                          	0.000       	0.000         	TH  	NO      	
+4     	0          	FID_C50A                                                        	(null)                                                          	0.000       	0.000         	TH  	NO      	
+5     	0          	FID_C60A                                                        	(null)                                                          	0.000       	0.000         	TH  	NO      	
+6     	0          	HOLE125_NP                                                      	(null)                                                          	0.000       	0.000         	TH  	NO      	
+7     	0          	HOST_CMC_3V                                                     	(null)                                                          	0.000       	0.000         	MM  	NO      	
+8     	0          	MIM_149mmX74mm                                                  	(null)                                                          	0.000       	0.000         	MM  	NO      	
+9     	0          	Single_CMC                                                      	(null)                                                          	0.000       	0.000         	TH  	NO      	
+10    	0          	WIRECLIP_A                                                      	                                                                	0.000       	0.000         	TH  	NO      	
+11    	0          	ATX_12.0X9.6_OLD                                                	(null)                                                          	0.000       	0.000         	TH  	NO      	
+12    	0          	ATX_12.0X9.6                                                    	(null)                                                          	0.000       	0.000         	TH  	NO      	
+13    	0          	ANTENNA                                                         	(null)                                                          	0.000       	0.000         	TH  	NO      	
+14    	0          	FID_C40A                                                        	                                                                	0.000       	0.000         	TH  	NO      	
+15    	0          	HOST_CMC                                                        	                                                                	0.000       	0.000         	MM  	NO      	
+16    	0          	Logo_ADI_.3Tall                                                 	(null)                                                          	0.000       	0.000         	TH  	NO      	
+17    	0          	Logo_DDI                                                        	(null)                                                          	0.000       	0.000         	TH  	NO      	
+18    	0          	Compact_BG                                                      	(null)                                                          	0.000       	0.000         	TH  	NO      	
+19    	0          	LIGHT_PIPE_1X_A                                                 	                                                                	0.000       	0.000         	TH  	NO      	
+20    	0          	LIGHT_PIPE_3X_A                                                 	(null)                                                          	0.000       	0.000         	TH  	NO      	
+21    	0          	BARCODE_A                                                       	                                                                	0.000       	0.000         	TH  	NO      	
+22    	0          	CPCI_6U                                                         	                                                                	0.000       	0.000         	TH  	NO      	
+23    	0          	CPCI_3U                                                         	(null)                                                          	0.000       	0.000         	TH  	NO      	

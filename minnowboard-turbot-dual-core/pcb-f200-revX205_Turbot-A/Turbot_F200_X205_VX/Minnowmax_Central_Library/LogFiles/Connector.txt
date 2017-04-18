@@ -1,0 +1,31 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2003.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Text Property Information...
+Reading Pin Type Information...
+Processing Connector
+	Symbol CON_HIER_BI
+	Symbol CON_HIER_I
+	Symbol CON_HIER_IQ
+	Symbol CON_HIER_O
+	Symbol CON_HIER_OQ
+	Symbol CON_HIER_T
+	Symbol CON_INTER_BI
+	Symbol CON_INTER_I
+	Symbol CON_INTER_IQ
+	Symbol CON_INTER_O
+	Symbol CON_INTER_OQ
+	Symbol CON_INTER_T
+	Symbol CON_INTRA
+	Symbol CONNP
+	Symbol CONNS
+	Symbol ESPL1
+	Symbol ESROPE
+	Symbol RWTERM
+SLB2LMC utility complete

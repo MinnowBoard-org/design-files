@@ -1,0 +1,14 @@
+ Version: EXP2005.3_070529.00 2005.3
+
+
+
+Environment Variables:
+----------------------
+HOMEDRIVE = "C:"
+HOMEPATH = "\Documents and Settings\XPMUser"
+MGC_HOME = "C:/MentorGraphics/2005EXP/MGC_HOME.ixn"
+OS = "Windows_NT"
+PATH = "C:\MentorGraphics\2005EXP\SDD_HOME\common\win32\bin;C:\MentorGraphics\2005EXP\SDD_HOME\common\win32\lib;C:\MentorGraphics\2005EXP\SDD_HOME\common\win32\_bin;C:\MentorGraphics\2005EXP\SDD_HOME\wg\win32\bin;C:\MentorGraphics\2005EXP\SDD_HOME\wg\win32\lib;C:\MentorGraphics\2005EXP\SDD_HOME\common\win32\bin;C:\MentorGraphics\2005EXP\SDD_HOME\common\win32\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:/MentorGraphics/2005EXP/MGC_HOME.ixn\bin;C:/MentorGraphics/2005EXP/MGC_HOME.ixn\lib;C:/MentorGraphics/2005EXP/MGC_HOME.ixn\bin;C:/MentorGraphics/2005EXP/MGC_HOME.ixn\lib;C:\OrCAD\OrCAD_10.5\tools\bin;C:\OrCAD\OrCAD_10.5\tools\fet\bin;C:\OrCAD\OrCAD_10.5\tools\Capture;C:\Cadence\PSD_14.2\tools\pcb\bin;C:\Cadence\PSD_14.2\tools\bin;C:\Cadence\PSD_14.2\tools\jre\bin;C:\Cadence\PSD_14.2\tools\fet\bin;C:\Cadence\PSD_14.2\tools\specctra\bin;C:\Cadence\PSD_14.2\tools\libutil\bin"
+SDD_HOME = "C:\MentorGraphics\2005EXP\SDD_HOME"
+TEMP = "C:\DOCUME~1\XPMUser\LOCALS~1\Temp"
+TMP = "C:\DOCUME~1\XPMUser\LOCALS~1\Temp"

@@ -1,7 +1,0 @@
-
-                            PinPatterns.txt ParseLog
-                            ------------------------
-
-                      11:28 PM Wednesday, January 14, 2015
-Job Name: T:\Mentor\Exp_footprint_Central_Library\Work\CellEditorFiles\Cells\CONN5A_AUDIO_JACK.pcb
-

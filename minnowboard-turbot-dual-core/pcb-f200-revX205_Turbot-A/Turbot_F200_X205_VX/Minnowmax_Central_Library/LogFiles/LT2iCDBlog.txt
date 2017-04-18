@@ -1,0 +1,152 @@
+Import Layout Template from HKP to iCDB.
+Mentor Graphics Corporation 2010. All Rights Reserved.
+
+-s: T:\Mentor\EE7 Central Library\EE7_ADI_Central_Library\Templates\Layout\4 Layer Template
+-d: T:\Mentor\EE7 Central Library\EE7_ADI_Central_Library\Templates\Layout\4 Layer Template\keyin.icdb
+-sn: PCB
+-topblock: PCB
+-log: T:\Mentor\EE7 Central Library\EE7_ADI_Central_Library\LogFiles\LT2iCDBlog.txt
+
+
+Conversion started...
+Connected to iCDB
+Locked snapshot
+Converting NetClassDB...
+ > application finished
+Converting JobPrefsDB...
+ > application finished
+Converting NetPropsDB...
+ > application finished
+Converting PadStackDB...
+ > application finished
+Copying LT...
+> copying PADSTACKHKP...
+Converting Vias ...
+	New Via added: 026VIA
+> copying JOBPREFSHKP...
+Converting Layers ...
+	New Layer added: DIELECTRIC_1
+	New Layer added: SIGNAL_1
+	New Layer added: DIELECTRIC_3
+	New Layer added: SIGNAL_2
+	New Layer added: DIELECTRIC_5
+	New Layer added: SIGNAL_3
+	New Layer added: DIELECTRIC_7
+	New Layer added: SIGNAL_4
+	New Layer added: DIELECTRIC_9
+Converting ViaSpans ...
+	New ViaSpan added: Through
+		Allowed Via "026VIA" added to ViaSpan.
+Converting PartTechnology ...
+	New PartTech added: ABT
+	New PartTech added: AC
+	New PartTech added: ACT
+	New PartTech added: ALS
+	New PartTech added: AS
+	New PartTech added: C
+	New PartTech added: E10E
+	New PartTech added: E10H
+	New PartTech added: E10K
+	New PartTech added: E100E
+	New PartTech added: E100K
+	New PartTech added: FAST
+	New PartTech added: FCT
+	New PartTech added: GTL
+	New PartTech added: HC
+	New PartTech added: HCT
+	New PartTech added: LS
+	New PartTech added: S
+	New PartTech added: TTL
+> copying NETCLASSHKP...
+Converting General Clearances ...
+Converting Scheme ...
+	New Scheme added: (Master)
+		New ClearRule added: (Default Rule)
+		New NetClass added: (Default)
+		New C2CClearRule added
+	New Scheme added: (Minimum)
+> copying NETPROPSHKP...
+New ConstraintClass added: (All)
+Conversion finished.
+Import Layout Template from HKP to iCDB.
+Mentor Graphics Corporation 2010. All Rights Reserved.
+
+-s: T:\Mentor\EE7 Central Library\EE7_ADI_Central_Library\Templates\Layout\8 Layer Template
+-d: T:\Mentor\EE7 Central Library\EE7_ADI_Central_Library\Templates\Layout\8 Layer Template\keyin.icdb
+-sn: PCB
+-topblock: PCB
+-log: T:\Mentor\EE7 Central Library\EE7_ADI_Central_Library\LogFiles\LT2iCDBlog.txt
+
+
+Conversion started...
+Connected to iCDB
+Locked snapshot
+Converting NetClassDB...
+ > application finished
+Converting JobPrefsDB...
+ > application finished
+Converting NetPropsDB...
+ > application finished
+Converting PadStackDB...
+ > application finished
+Copying LT...
+> copying PADSTACKHKP...
+Converting Vias ...
+	New Via added: 026VIA
+> copying JOBPREFSHKP...
+Converting Layers ...
+	New Layer added: DIELECTRIC_1
+	New Layer added: SIGNAL_1
+	New Layer added: DIELECTRIC_3
+	New Layer added: SIGNAL_2
+	New Layer added: DIELECTRIC_5
+	New Layer added: SIGNAL_3
+	New Layer added: DIELECTRIC_7
+	New Layer added: SIGNAL_4
+	New Layer added: DIELECTRIC_9
+	New Layer added: SIGNAL_5
+	New Layer added: DIELECTRIC_11
+	New Layer added: SIGNAL_6
+	New Layer added: DIELECTRIC_13
+	New Layer added: SIGNAL_7
+	New Layer added: DIELECTRIC_15
+	New Layer added: SIGNAL_8
+	New Layer added: DIELECTRIC_17
+Converting ViaSpans ...
+	New ViaSpan added: Through
+		Allowed Via "026VIA" added to ViaSpan.
+Converting PartTechnology ...
+	New PartTech added: ABT
+	New PartTech added: AC
+	New PartTech added: ACT
+	New PartTech added: ALS
+	New PartTech added: AS
+	New PartTech added: C
+	New PartTech added: E10E
+	New PartTech added: E10H
+	New PartTech added: E10K
+	New PartTech added: E100E
+	New PartTech added: E100K
+	New PartTech added: FAST
+	New PartTech added: FCT
+	New PartTech added: GTL
+	New PartTech added: HC
+	New PartTech added: HCT
+	New PartTech added: LS
+	New PartTech added: S
+	New PartTech added: TTL
+> copying NETCLASSHKP...
+Converting General Clearances ...
+Converting Scheme ...
+	New Scheme added: (Master)
+		New ClearRule added: (Default Rule)
+		New NetClass added: (Default)
+		New C2CClearRule added
+	New Scheme added: (Minimum)
+> copying NETPROPSHKP...
+New ConstraintClass added: (All)
+Conversion finished.
+20150320 : 15:13:39	: CONVERT LT: converting OK Layout Template.	: T:\Mentor\EE7 Central Library\EE7_ADI_Central_Library\Templates\Layout\4 Layer Template
+20150320 : 15:13:39	: CONVERT LT: converting OK Layout Template.	: T:\Mentor\EE7 Central Library\EE7_ADI_Central_Library\Templates\Layout\4 Layer Template
+20150320 : 15:13:42	: CONVERT LT: converting OK Layout Template.	: T:\Mentor\EE7 Central Library\EE7_ADI_Central_Library\Templates\Layout\8 Layer Template
+20150320 : 15:13:42	: CONVERT LT: converting OK Layout Template.	: T:\Mentor\EE7 Central Library\EE7_ADI_Central_Library\Templates\Layout\8 Layer Template

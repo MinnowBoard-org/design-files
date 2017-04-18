@@ -1,0 +1,33 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        TH_CONN52A_QUAD_RJ45
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Connector
+Mount Type:       Through
+Number of Pins:   52
+        Placed:   52
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (48)  C60D35
+        (4)  C86D62
+
+User Layers with Graphics: Cell_Info
+                           Mechanical_info
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Ref. Des.
+        Placement Outline
+        Route Obstruct           Layers : 1, 2
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+
+Requirements needed before the cell can be saved:
+        An Assembly Part Number is needed.

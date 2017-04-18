@@ -1,6 +1,0 @@
-
- Version: EXP2005.3_070529.00 2005.3
-
-Successfully read the design.
-Saved the design...
-Saved the design...

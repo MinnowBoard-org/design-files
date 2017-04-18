@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'T:\Minnowboard\Turbot_F200_X200\Minnowmax_Central_Library\Work\CellEditorFiles\MinnowMax\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'T:\Minnowboard\Turbot_F200_X200\Minnowmax_Central_Library\Work\CellEditorFiles\MinnowMax\Layout\MVO_Rules.txt'

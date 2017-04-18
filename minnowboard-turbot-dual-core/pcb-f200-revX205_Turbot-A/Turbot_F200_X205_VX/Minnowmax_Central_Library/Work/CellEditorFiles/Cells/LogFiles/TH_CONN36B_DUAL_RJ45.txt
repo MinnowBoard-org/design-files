@@ -1,0 +1,33 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        TH_CONN36B_DUAL_RJ45
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Edge Connector
+Mount Type:       Through
+Number of Pins:   36
+        Placed:   36
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (24)  C58D36
+        (8)  C62D40
+        (2)  C84D60
+        (2)  C103D79
+
+User Layers with Graphics: Mechanical_info
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Contour
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

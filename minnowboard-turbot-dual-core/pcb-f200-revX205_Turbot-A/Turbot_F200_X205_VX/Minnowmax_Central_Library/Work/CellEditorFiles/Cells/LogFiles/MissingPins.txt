@@ -1,0 +1,12 @@
+Missing Pins Log
+
+Date : 10:22:10 AM Jan 16, 2015
+
+During load of this design, cells within the design have been found missing pins or mounting holes
+compared to the cell as defined in the cell library.  In order to maintain data integrity, these cells need
+to be reset from the cell library and forward annotation needs to be run.  This process will cause any 
+layout cell edits to be lost for the cells listed below.
+
+
+
+"Ref Des" "CONN262A_SODIMM" has 132 pin(s) within Layout and 202 pin(s) within the Cell Library.

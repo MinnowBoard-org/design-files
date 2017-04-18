@@ -1,0 +1,39 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        QFN100A_HS
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    IC - Other
+Mount Type:       Mixed
+Number of Pins:   105
+        Placed:   105
+Height:           31.4961
+Underside Space:  0
+
+Pin Padstack Names:
+        (48)  R10X16
+        (52)  R10X32
+        (4)  S12
+        (1)  S181_NO_PASTE
+
+Via Padstack Names:
+        (32)  TV25D12.5
+
+Traces Used:
+        Layer 1 width(s): 10th
+
+User Layers with Graphics: Cell_Info
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Route Obstruct           Layers : 1
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

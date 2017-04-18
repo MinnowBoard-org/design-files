@@ -1,5 +1,0 @@
-
-Cell Editor Version: 2015.0.677.462
-
-Successfully read the design.
-There were errors reading the Graphics Settings file, see the log-file.

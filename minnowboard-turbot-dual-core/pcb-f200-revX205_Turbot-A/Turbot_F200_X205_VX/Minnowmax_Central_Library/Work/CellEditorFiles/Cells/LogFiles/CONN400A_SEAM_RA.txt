@@ -1,0 +1,31 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        CONN400A_SEAM_RA
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Connector
+Mount Type:       Mixed
+Number of Pins:   400
+        Placed:   400
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (400)  O33x25_S
+
+User Layers with Graphics: Cell_Info
+                           Mechanical_info
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Route Obstruct           Layers : 1, 2
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

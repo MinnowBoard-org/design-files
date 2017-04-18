@@ -1,0 +1,33 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        TH_SFF_XCVR_16B
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Connector
+Mount Type:       Through
+Number of Pins:   16
+        Placed:   20
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (14)  C56D32
+        (6)  C79D55
+
+User Layers with Graphics: Cell_Info
+                           Mechanical_info
+
+Electronic Objects Used:
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Route Obstruct           Layers : 1
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+
+Requirements needed before the cell can be saved:
+        -4 pins are not placed.

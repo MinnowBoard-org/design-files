@@ -1,0 +1,27 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        CONN20B
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    Edge Connector
+Mount Type:       Mixed
+Number of Pins:   20
+        Placed:   20
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (20)  R29X110
+
+Electronic Objects Used:
+        Assembly Origin
+        Assembly Outline
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+

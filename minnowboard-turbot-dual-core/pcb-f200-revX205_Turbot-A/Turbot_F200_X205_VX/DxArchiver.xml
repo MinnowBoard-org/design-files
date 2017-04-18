@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DxArchiverProject version="1">
+	<DxProject Path="./Minnowmax.prj"/>
+	<TargetDirectory Path="C:\ADIProjects\Intel\Minnowboard\Hardware\temp"/>
+	<Compression Type="Zip"/>
+	<PDF Type="0"/>
+	<AdditionalFiles>
+		<File Path="./borders.ini"/>
+		<File Path="./dxpdf.ini"/>
+		<File Path="./OLE"/>
+		<File Path="./Minnowmax_Central_Library"/>
+		<File Path="./scout.ini"/>
+		<File Path="./speccomp.ini"/>
+		<File Path="./Verify.ini"/>
+	</AdditionalFiles>
+</DxArchiverProject>

@@ -1,0 +1,16 @@
+
+                          PCB ASCII to Cell Library Log
+                          -----------------------------
+
+                       04:36 PM Thursday, January 15, 2015
+Job Name: T:\Mentor\Expedition Footprint Library\Exp_footprint_Central_Library\Work\ASCII.lmc
+
+
+
+Current Units : TH
+
+Processing cell 'SOT23B_A_C'
+
+Successfully converted 1 cell.
+CellDB file 'T:\Mentor\Expedition Footprint Library\Exp_footprint_Central_Library\Work\CellDBLibs\ASCII.cel' was created successfully.
+

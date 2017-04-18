@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<DxDesigner_Configuration_file version="1.2" name="DxDesigner.xml">
+ <DxDesigner>
+  <SETTINGS>
+   <key name="DOTSIZE" value= "50800"/>
+   <key name="BOXSIZE" value= "101600"/>
+   <key name="BUBBLESIZE" value= "50800"/>
+   <key name="BUS_DOTSIZE" value= "76200"/>
+   <key name="BUSWIDTH" value= "50800"/>
+   <key name="DEFAULT_ZOOM" value= "0"/>
+   <key name="EXPEDITION_ZOOM" value= "1"/>
+   <key name="DOTSIZE_HR" value= "2540"/>
+  </SETTINGS>
+  <OBJECTS>
+  <object name="NET">
+   <key name="COLOR" value= "0xffffff"/>
+   <key name="FILL_STYLE" value= "1"/>
+  </object>
+  <object name="ATTRIBUTE">
+   <key name="COLOR" value= "0xffffff"/>
+   <key name="FILL_STYLE" value= "5"/>
+  </object>
+  <object name="LABEL">
+   <key name="COLOR" value= "0xffffff"/>
+   <key name="FILL_STYLE" value= "5"/>
+  </object>
+  <object name="PIN">
+   <key name="COLOR" value= "0xffffff"/>
+   <key name="FILL_STYLE" value= "1"/>
+   <key name="LINE_STYLE" value= "0"/>
+  </object>
+  <object name="BOX">
+   <key name="COLOR" value= "0xffffff"/>
+  </object>
+  <object name="LINE">
+   <key name="COLOR" value= "0xffffff"/>
+  </object>
+  <object name="CIRCLE">
+   <key name="COLOR" value= "0xffffff"/>
+  </object>
+  <object name="ARC">
+   <key name="COLOR" value= "0xffffff"/>
+  </object>
+  <object name="TEXT">
+   <key name="COLOR" value= "0xffffff"/>
+   <key name="FILL_STYLE" value= "5"/>
+  </object>
+  </OBJECTS>
+  <LAYERS>
+  <layer name="SELECTION_LAYER">
+   <key name="COLOR" value= "0xffffff"/>
+  </layer>
+  <layer name="BORDER_LAYER">
+   <key name="COLOR" value= "0x000000"/>
+  </layer>
+  <layer name="BACKGROUND_LAYER">
+   <key name="COLOR" value= "0xffffff"/>
+  </layer>
+  </LAYERS>
+ </DxDesigner>
+</DxDesigner_Configuration_file>
