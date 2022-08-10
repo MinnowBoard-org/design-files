@@ -57,3 +57,7 @@
 *.md linguist-detectable=true
 *.dxf linguist-detectable=true
 *.dwg linguist-detectable=true
+
+# Cadence
+*.cdc linguist-detectable=true
+*.dsn linguist-language=Cadence
